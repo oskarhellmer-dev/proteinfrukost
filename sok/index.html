@@ -49,8 +49,8 @@
   function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/å/g,'a').replace(/ä/g,'a').replace(/ö/g,'o');}
   function card(r){
     return '<article class="card"><a href="/recept/'+r.slug+'"><picture>'+
-      '<source type="image/webp" srcset="/bilder/'+r.img+'-400.webp?v=2 400w, /bilder/'+r.img+'-800.webp?v=2 800w" sizes="(max-width:820px) 100vw, 300px">'+
-      '<img src="/bilder/'+r.img+'.jpg?v=2" alt="'+r.titel+'" width="1200" height="675" loading="lazy" decoding="async"></picture></a>'+
+      '<source type="image/webp" srcset="/bilder/'+r.img+'-400.webp?v=3 400w, /bilder/'+r.img+'-800.webp?v=3 800w" sizes="(max-width:820px) 100vw, 300px">'+
+      '<img src="/bilder/'+r.img+'.jpg?v=3" alt="'+r.titel+'" width="1200" height="675" loading="lazy" decoding="async"></picture></a>'+
       '<div class="b"><h3><a href="/recept/'+r.slug+'">'+r.titel+'</a></h3>'+
       '<div class="meta"><span>'+r.protein+'</span><span>'+r.tid+'</span></div></div></article>';
   }
