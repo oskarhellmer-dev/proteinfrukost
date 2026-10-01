@@ -21,6 +21,10 @@ header{background:var(--card);border-bottom:1px solid var(--line);position:stick
 .nav ul a{font-size:.95rem;font-weight:600;color:var(--muted)}
 .nav ul a:hover{color:var(--green-dark)}
 .menu-btn{display:none;background:none;border:0;font-size:1.5rem;cursor:pointer;color:var(--green-dark)}
+.search{display:flex;align-items:center;margin-left:16px}
+.search input{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 12px;
+  font-size:.9rem;width:170px;font-family:inherit;color:var(--ink)}
+.search input:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 3px rgba(31,122,77,.12)}
 
 /* Hero */
 .hero{display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center;padding:56px 0}
@@ -107,6 +111,7 @@ footer .copy{border-top:1px solid #27402f;padding-top:18px;font-size:.85rem;colo
   .hero{grid-template-columns:1fr;padding:36px 0}
   .hero h1{font-size:2rem}
   .menu-btn{display:block}
+  .search{display:none}
   .nav ul{display:none;position:absolute;top:64px;left:0;right:0;background:var(--card);
     flex-direction:column;gap:0;border-bottom:1px solid var(--line);
     padding:6px 0;box-shadow:0 12px 24px rgba(0,0,0,.08)}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sök recept | Proteinfrukost.se</title>
+<meta name="description" content="Sök bland alla proteinrika recept på Proteinfrukost.se.">
+<link rel="canonical" href="https://proteinfrukost.se/sok">
+<link rel="stylesheet" href="/style.css">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="apple-touch-icon" href="/favicon-180.png">
+<meta property="og:image" content="https://proteinfrukost.se/og-image.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Proteinfrukost.se">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/">Protein<span>frukost</span>.se</a>
+    <nav><ul>
+      <li><a href="/kategori/pannkakor">Pannkakor</a></li>
+      <li><a href="/kategori/grot">Gröt</a></li>
+      <li><a href="/kategori/smoothie">Smoothies</a></li>
+      <li><a href="/kategori/mellanmal">Mellanmål</a></li>
+      <li><a href="/kategori/bakning">Bakning</a></li>
+      <li><a href="/alla-recept">Alla recept</a></li>
+    </ul></nav>
+    <form class="search" action="/sok" method="get" role="search">
+      <input type="search" name="q" placeholder="Sök recept…" aria-label="Sök recept" value="">
+    </form>
+    <button class="menu-btn" aria-label="Meny">&#9776;</button>
+  </div>
+</header>
+<main class="wrap">
+  <section style="padding-top:32px">
+    <h1 style="font-size:2rem;letter-spacing:-.02em;margin-bottom:8px">Sök recept</h1>
+    <p class="sub">Sök bland alla proteinrika frukostar, mellanmål och bakverk.</p>
+    <p><input id="q" type="search" placeholder="T.ex. pannkakor, kvarg, choklad…" aria-label="Sök recept"
+      style="width:100%;max-width:520px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;font-size:1.05rem"></p>
+    <p id="count" class="sub" style="margin:8px 0 0"></p>
+    <div class="grid" id="res"></div>
+  </section>
+<script>
+(function(){
+  var idx=[]; var box=document.getElementById('q'); var res=document.getElementById('res'); var cnt=document.getElementById('count');
+  function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/å/g,'a').replace(/ä/g,'a').replace(/ö/g,'o');}
+  function card(r){
+    return '<article class="card"><a href="/recept/'+r.slug+'"><picture>'+
+      '<source type="image/webp" srcset="/bilder/'+r.img+'-400.webp?v=2 400w, /bilder/'+r.img+'-800.webp?v=2 800w" sizes="(max-width:820px) 100vw, 300px">'+
+      '<img src="/bilder/'+r.img+'.jpg?v=2" alt="'+r.titel+'" width="1200" height="675" loading="lazy" decoding="async"></picture></a>'+
+      '<div class="b"><h3><a href="/recept/'+r.slug+'">'+r.titel+'</a></h3>'+
+      '<div class="meta"><span>'+r.protein+'</span><span>'+r.tid+'</span></div></div></article>';
+  }
+  function render(q){
+    var n=norm(q); var hits = n ? idx.filter(function(r){return r.sok.indexOf(n)>-1;}) : idx;
+    res.innerHTML = hits.slice(0,60).map(card).join('');
+    cnt.textContent = n ? (hits.length+' träff'+(hits.length===1?'':'ar')) : ('Visar alla '+idx.length+' recept');
+  }
+  fetch('/sok-index.json').then(function(r){return r.json();}).then(function(d){
+    idx=d;
+    var p=new URLSearchParams(location.search).get('q')||'';
+    box.value=p; render(p);
+    box.addEventListener('input',function(){render(box.value);});
+  });
+})();
+</script>
+</main>
+<footer>
+  <div class="wrap">
+    <div class="cols">
+      <div><h4>Proteinfrukost.se</h4><p style="font-size:.92rem">Proteinrika frukostrecept för dig som vill äta gott och mättande.</p></div>
+      <div><h4>Kategorier</h4><ul>
+        <li><a href="/kategori/pannkakor">Pannkakor</a></li>
+        <li><a href="/kategori/grot">Gröt</a></li>
+        <li><a href="/kategori/smoothie">Smoothies</a></li>
+        <li><a href="/kategori/mellanmal">Mellanmål</a></li></ul></div>
+      <div><h4>Snabbt</h4><ul>
+        <li><a href="/alla-recept">Alla recept</a></li>
+        <li><a href="/sok">Sök</a></li>
+        <li><a href="/recept/proteinpannkakor">Proteinpannkakor</a></li></ul></div>
+    </div>
+    <div class="copy">© 2026 Proteinfrukost.se · <a href="/integritetspolicy" style="color:#8fa396">Integritetspolicy</a> · <a href="/anvandarvillkor" style="color:#8fa396">Användarvillkor</a> · <a href="mailto:proteinfrukost@proton.me" style="color:#8fa396">Kontakt</a></div>
+  </div>
+</footer>
+<script src="/menu.js" defer></script>
+</body>
+</html>
