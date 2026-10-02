@@ -8,11 +8,10 @@ document.addEventListener('click',function(e){
 window.addEventListener('resize',function(){var ul=document.querySelector('.nav ul');if(ul&&window.innerWidth>820)ul.classList.remove('open');});
 
 /* Nyhetsbrev – skickas via FormSubmit (https://formsubmit.co), ingen registrering krävs.
-   OBS: mottagaren får ett AKTIVERINGSMAIL vid första inskick — klicka länken en gång,
-   sedan levereras alla prenumeranter dit.
-   BYT NL_RECIPIENT till 'hej@proteinfrukost.se' när Loopia-inkorgen kan ta emot. */
+   Levererar till proteinfrukost.se:s EGEN adress (aldrig någon annan domän).
+   OBS: mottagaren får ett AKTIVERINGSMAIL vid första inskick — klicka länken en gång. */
 (function(){
-  var NL_RECIPIENT='hej@varmlandswebb.se';
+  var NL_RECIPIENT='hej@proteinfrukost.se';
   var ENDPOINT='https://formsubmit.co/ajax/'+NL_RECIPIENT;
   function wire(f){
     if(f.__nl)return; f.__nl=1;
