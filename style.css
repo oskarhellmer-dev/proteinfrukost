@@ -178,3 +178,10 @@ footer .copy{border-top:1px solid #27402f;padding-top:18px;font-size:.85rem;colo
 
 .tips{margin:0 0 8px 22px}
 .tips li{line-height:1.65;margin-bottom:10px}
+
+/* Nyhetsbrev i footer */
+.newsletter h4{margin-bottom:6px}
+.newsletter form{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.newsletter input{flex:1;min-width:150px;padding:10px 12px;border-radius:8px;border:1px solid #2c4a3a;background:#0f1c15;color:#fff;font-size:.95rem}
+.newsletter .btn{padding:10px 18px}
+.nl-msg{flex-basis:100%;font-size:.85rem;color:#8fa396;margin:6px 0 0}

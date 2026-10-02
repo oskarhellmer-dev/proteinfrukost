@@ -49,4 +49,4 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 ## Om sajten
 - [Alla recept (översikt)](https://proteinfrukost.se/alla-recept.md)
 - [Integritetspolicy](https://proteinfrukost.se/integritetspolicy)
-- [Kontakt](mailto:proteinfrukost@proton.me)
+- [Kontakt](mailto:hej@proteinfrukost.se)
