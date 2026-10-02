@@ -7,31 +7,22 @@ document.addEventListener('click',function(e){
 });
 window.addEventListener('resize',function(){var ul=document.querySelector('.nav ul');if(ul&&window.innerWidth>820)ul.classList.remove('open');});
 
-/* Nyhetsbrev – skickar till Web3Forms (mejlas till hej@varmlandswebb.se) */
+/* Nyhetsbrev – öppnar ett färdigifyllt mail till hej@proteinfrukost.se.
+   Ingen tredjepart, inget konto, fungerar alltid. */
 (function(){
-  var KEY='da1ca2de-ac12-4ec6-947b-23c62924ce1c';
+  var ADDR='hej@proteinfrukost.se';
   function wire(f){
     if(f.__nl)return; f.__nl=1;
     f.addEventListener('submit',function(e){
       e.preventDefault();
       var msg=f.querySelector('.nl-msg');
-      var btn=f.querySelector('button');
       var input=f.querySelector('input[type=email]');
-      if(!input||!input.value){if(msg)msg.textContent='Fyll i din e-post.';return;}
-      if(btn)btn.disabled=true;
-      if(msg)msg.textContent='Skickar…';
-      var fd=new FormData();
-      fd.append('access_key',KEY);
-      fd.append('subject','Ny prenumerant – proteinfrukost.se');
-      fd.append('from_name','Proteinfrukost.se');
-      fd.append('email',input.value);
-      fetch('https://api.web3forms.com/submit',{method:'POST',body:fd,headers:{'Accept':'application/json'}})
-        .then(function(r){return r.json();})
-        .then(function(d){
-          if(d&&d.success){f.reset();if(msg)msg.textContent='Tack! Du är nu prenumerant.';}
-          else{if(msg)msg.textContent='Något gick fel, försök igen.';if(btn)btn.disabled=false;}
-        })
-        .catch(function(){if(msg)msg.textContent='Något gick fel, försök igen.';if(btn)btn.disabled=false;});
+      var val=input&&input.value.trim();
+      if(!val || val.indexOf('@')<1){if(msg)msg.textContent='Fyll i en giltig e-post.';return;}
+      var subject='Prenumerera på proteinfrukost.se';
+      var body='Hej! Jag vill prenumerera på nyhetsbrevet från proteinfrukost.se.%0D%0A%0D%0AMin e-post: '+encodeURIComponent(val)+'%0D%0A%0D%0A(Om du klickar Prenumerera: tack!)';
+      if(msg)msg.textContent='Öppnar ditt mailprogram — tryck bara “skicka”.';
+      window.location.href='mailto:'+ADDR+'?subject='+encodeURIComponent(subject)+'&body='+body;
     });
   }
   function init(){document.querySelectorAll('form[data-nl]').forEach(wire);}
