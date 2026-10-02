@@ -1,0 +1,52 @@
+# Proteinfrukost.se
+
+> Proteinrika frukostrecept på svenska — pannkakor, gröt, smoothies, mellanmål och bakning med näringsvärden per portion.
+
+Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Varje recept anger gram protein per portion, ingredienser, steg-för-steg och näringsvärden. Sajten drivs automatiskt och fylls på med nya recept löpande.
+
+## Kategorier
+- [Proteinpannkakor](https://proteinfrukost.se/kategori/pannkakor.md): Fluffiga proteinpannkakor med och utan proteinpulver, keso och kvarg.
+- [Proteinrik gröt](https://proteinfrukost.se/kategori/grot.md): Varm gröt och overnight oats med kvarg, keso och havregryn.
+- [Proteinsmoothies](https://proteinfrukost.se/kategori/smoothie.md): Snabba proteinsmoothies med bär, banan och proteinpulver.
+- [Proteinrika mellanmål](https://proteinfrukost.se/kategori/mellanmal.md): Proteinrika mellanmål — bollar, bars, muffins och kesosnacks.
+- [Proteinrik frukost](https://proteinfrukost.se/kategori/frukost.md): Alla proteinrika frukostrecept på sajten.
+- [Proteinbakning](https://proteinfrukost.se/kategori/bakning.md): Proteinbröd, brownies och bakverk med högt protein.
+
+## Populära recept
+- [Proteinpannkakor med proteinpulver](https://proteinfrukost.se/recept/proteinpannkakor.md)
+- [Proteinrik gröt med kvarg – 24 g protein](https://proteinfrukost.se/recept/proteinrik-grot.md)
+- [Protein smoothie med bär – 30 g protein](https://proteinfrukost.se/recept/protein-smoothie.md)
+- [Proteinrik frukost med ägg och kvarg](https://proteinfrukost.se/recept/proteinrik-frukost.md)
+- [Proteinbröd med keso – 9 g protein/skiva](https://proteinfrukost.se/recept/proteinbrod.md)
+- [Kesomousse med bär](https://proteinfrukost.se/recept/kesomousse.md)
+
+## Alla recept
+- [Amerikanska proteinpannkakor](https://proteinfrukost.se/recept/amerikanska-proteinpannkakor.md)
+- [Chokladproteinpannkakor](https://proteinfrukost.se/recept/chokladproteinpannkakor.md)
+- [Glutenfria proteinpannkakor – 24 g protein](https://proteinfrukost.se/recept/glutenfria-proteinpannkakor.md)
+- [Grön proteinsmoothie](https://proteinfrukost.se/recept/gron-proteinsmoothie.md)
+- [Kesomousse med bär](https://proteinfrukost.se/recept/kesomousse.md)
+- [Overnight oats med proteinpulver – 28 g protein](https://proteinfrukost.se/recept/overnight-oats-protein.md)
+- [Protein smoothie med bär – 30 g protein](https://proteinfrukost.se/recept/protein-smoothie.md)
+- [Proteinbollar med dadlar och kakao – 6 g protein/st](https://proteinfrukost.se/recept/proteinbollar.md)
+- [Proteinbröd med keso – 9 g protein/skiva](https://proteinfrukost.se/recept/proteinbrod.md)
+- [Proteinbrownie](https://proteinfrukost.se/recept/proteinbrownie.md)
+- [Proteinchokladbollar](https://proteinfrukost.se/recept/proteinchokladbollar.md)
+- [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins.md)
+- [Proteinomelett med keso och grönsaker – 26 g protein](https://proteinfrukost.se/recept/proteinomelett.md)
+- [Proteinpannkakor med proteinpulver](https://proteinfrukost.se/recept/proteinpannkakor.md)
+- [Proteinpannkakor med banan](https://proteinfrukost.se/recept/proteinpannkakor-banan.md)
+- [Proteinpannkakor utan proteinpulver (med keso) – 22 g protein](https://proteinfrukost.se/recept/proteinpannkakor-utan-proteinpulver.md)
+- [Proteinrik chokladgröt](https://proteinfrukost.se/recept/proteinrik-chokladgrot.md)
+- [Proteinrik frukost med ägg och kvarg](https://proteinfrukost.se/recept/proteinrik-frukost.md)
+- [Proteinrik gröt med kvarg – 24 g protein](https://proteinfrukost.se/recept/proteinrik-grot.md)
+- [Proteinrik smoothie med proteinpulver](https://proteinfrukost.se/recept/proteinrik-smoothie.md)
+- [Proteinrika kesosticks med örter](https://proteinfrukost.se/recept/proteinrika-kesosticks.md)
+- [Proteinyoghurt med kvarg och bär – 28 g protein](https://proteinfrukost.se/recept/proteinyoghurt-kvarg.md)
+- [Vegansk proteinbar](https://proteinfrukost.se/recept/vegansk-proteinbar.md)
+- [Veganska proteinpannkakor](https://proteinfrukost.se/recept/veganska-proteinpannkakor.md)
+
+## Om sajten
+- [Alla recept (översikt)](https://proteinfrukost.se/alla-recept.md)
+- [Integritetspolicy](https://proteinfrukost.se/integritetspolicy)
+- [Kontakt](mailto:proteinfrukost@proton.me)
