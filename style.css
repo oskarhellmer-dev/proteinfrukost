@@ -166,3 +166,15 @@ footer .copy{border-top:1px solid #27402f;padding-top:18px;font-size:.85rem;colo
   .steps li::before{background:#000;color:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact}
   .tag{border:1px solid #000;color:#000}
 }
+
+.seo-text{max-width:760px;padding-top:8px}
+.seo-text h2{margin-top:32px}
+.seo-text h2:first-child{margin-top:0}
+.seo-text p{color:var(--muted);line-height:1.7;margin-bottom:16px}
+.seo-text ul{margin:0 0 18px 22px}
+.seo-text li{color:var(--muted);line-height:1.65;margin-bottom:10px}
+.seo-text a{color:inherit;text-decoration:underline;text-decoration-color:#c7d6cc;text-underline-offset:3px}
+.seo-text a:hover{text-decoration-color:var(--accent)}
+
+.tips{margin:0 0 8px 22px}
+.tips li{line-height:1.65;margin-bottom:10px}
