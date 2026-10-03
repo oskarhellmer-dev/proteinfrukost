@@ -23,13 +23,12 @@ window.addEventListener('resize',function(){var ul=document.querySelector('.nav 
       if(!val||val.indexOf('@')<1){if(msg)msg.textContent='Fyll i en giltig e-post.';return;}
       if(msg)msg.textContent='Skickar…';
       function fallback(){
-        var subject='Prenumerera på proteinfrukost.se';
-        var body='Hej! Jag vill prenumerera på nyhetsbrevet från proteinfrukost.se.%0D%0A%0D%0AMin e-post: '+encodeURIComponent(val);
-        if(msg)msg.textContent='Öppnar ditt mailprogram — tryck bara “skicka”.';
-        window.location.href='mailto:'+ADDR+'?subject='+encodeURIComponent(subject)+'&body='+body;
+        var subject=encodeURIComponent('Prenumerera på proteinfrukost.se');
+        var body=encodeURIComponent('Hej! Jag vill prenumerera på nyhetsbrevet från proteinfrukost.se. Min e-post: '+val);
+        if(msg)msg.innerHTML='Kunde inte anmäla automatiskt just nu. <a href="mailto:'+ADDR+'?subject='+subject+'&body='+body+'" style="color:#3f6b4f;text-decoration:underline">Maila oss i stället</a>.';
       }
       fetch(FS,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
-        body:JSON.stringify({email:val,_subject:'Ny prenumerant på proteinfrukost.se',_captcha:'false'})})
+        body:JSON.stringify({email:val,_subject:'Ny prenumerant på proteinfrukost.se',_captcha:'false',_template:'table',_honey:''})})
         .then(function(r){return r.json().then(function(j){return {ok:r.ok,j:j};}).catch(function(){return {ok:r.ok,j:{}};});})
         .then(function(res){
           if(res.ok&&res.j&&res.j.success!=='false'){if(msg)msg.textContent='Tack! Du är anmäld.';f.reset();}
