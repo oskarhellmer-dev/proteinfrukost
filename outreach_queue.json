@@ -82,15 +82,6 @@
       "sent": true
     },
     {
-      "to": "calle@fysiken.nu",
-      "namn": "Calle",
-      "site": "Fysiken",
-      "nisch": "svenska träningssajter",
-      "detalj": "ert fokus på träning på riktigt",
-      "personligt": "Proteinrika frukoster är precis bryggan mellan träning och mat.",
-      "sent": true
-    },
-    {
       "to": "info@athleticcare.se",
       "namn": "hej",
       "site": "Postural Träning Göteborg",
@@ -169,7 +160,7 @@
       "nisch": "svenska mat- och receptbloggar",
       "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "support@kokaihop.se",
@@ -178,7 +169,7 @@
       "nisch": "svenska mat- och receptbloggar",
       "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "fia@krafthalsa.se",
@@ -187,7 +178,7 @@
       "nisch": "hälsa och kost",
       "detalj": "att du skriver om hälsa på ett jordnära sätt",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "virginia@kustenarklar.se",
@@ -196,7 +187,7 @@
       "nisch": "glutenfria och lågkolhydrat-recept",
       "detalj": "att du gör smarta kostval som faktiskt smakar gott",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "hej@matkalkylen.se",
@@ -205,7 +196,7 @@
       "nisch": "svenska mat- och receptbloggar",
       "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "mat@middagshjalpen.se",
@@ -214,7 +205,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "fanny@lesscarbs.se",
@@ -223,7 +214,7 @@
       "nisch": "glutenfria och lågkolhydrat-recept",
       "detalj": "att du gör smarta kostval som faktiskt smakar gott",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "info@lifevision.se",
@@ -232,7 +223,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "Emil@javligtgott.se",
@@ -241,7 +232,7 @@
       "nisch": "växtbaserad mat",
       "detalj": "att du gör växtbaserat både gott och enkelt",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "ingrid@nihlenkostochtraning.se",
@@ -250,7 +241,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "info@paceonearth.se",
@@ -259,16 +250,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
-    },
-    {
-      "to": "annons@muscles.se",
-      "namn": "Annons",
-      "site": "Muscles: Styrketräning, kost och kosttil",
-      "nisch": "träning och kost",
-      "detalj": "ditt fokus på träning som håller över tid",
-      "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "pt@pthalmstad.se",
@@ -277,7 +259,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "info@refitness.se",
@@ -286,7 +268,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "sasongensbasta@gmail.com",
@@ -295,7 +277,7 @@
       "nisch": "svenska mat- och receptbloggar",
       "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "info@saltpeppar.se",
