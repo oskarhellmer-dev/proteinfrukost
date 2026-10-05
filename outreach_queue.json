@@ -34,7 +34,7 @@
       "nisch": "svenska matbloggar",
       "detalj": "ditt genuina sätt att skriva om mat",
       "personligt": "Jag gillar tonen i det du skriver.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "mia@miahogfeldt.se",
@@ -43,7 +43,7 @@
       "nisch": "svenska mat- och bakbloggar",
       "detalj": "bredden i det du gör",
       "personligt": "Kanske kan vi tipsa varandra om läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "annamarialarsson.blogg@gmail.com",
@@ -52,7 +52,7 @@
       "nisch": "svenska mat- och hälsobloggar",
       "detalj": "ditt sätt att koppla mat till välmående",
       "personligt": "Hälsa och frukost hänger ihop, tycker jag.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "kontakt@recept.se",
@@ -61,7 +61,7 @@
       "nisch": "svenska receptsajter",
       "detalj": "att ni provlagar och håller kvaliteten",
       "personligt": "Jag skulle gärna samarbeta på något sätt.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "latdetval@smaka.se",
@@ -70,7 +70,7 @@
       "nisch": "svenska matguider",
       "detalj": "ert fokus på riktig mat",
       "personligt": "Kanske finns en beröringspunkt mellan oss.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "hemtrevligt@egmont.se",
@@ -79,7 +79,7 @@
       "nisch": "svenska hälso- och livsstilssajter",
       "detalj": "ert jordnära sätt att skriva om hälsa",
       "personligt": "Frukost och hälsa hänger tätt ihop.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "calle@fysiken.nu",
@@ -88,7 +88,7 @@
       "nisch": "svenska träningssajter",
       "detalj": "ert fokus på träning på riktigt",
       "personligt": "Proteinrika frukoster är precis bryggan mellan träning och mat.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "info@athleticcare.se",
@@ -97,7 +97,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "karoline@way-of-life.se",
@@ -106,7 +106,7 @@
       "nisch": "svenska mat- och receptbloggar",
       "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "cecilia@ceciliafolkesson.se",
@@ -115,7 +115,7 @@
       "nisch": "hälsa och kost",
       "detalj": "att du skriver om hälsa på ett jordnära sätt",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "coach@corewell.se",
@@ -124,7 +124,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "info@constancept.se",
@@ -133,7 +133,7 @@
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
     },
     {
       "to": "fridaviktorias@live.se",
@@ -142,7 +142,16 @@
       "nisch": "svenska bak- och fikabloggar",
       "detalj": "din känsla för bakning",
       "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
+      "sent": true
+    },
+    {
+      "to": "information@elon.se",
+      "namn": "Information",
+      "site": "Elon",
+      "nisch": "svenska mat- och receptbloggar",
+      "detalj": "ditt personliga sätt att skriva om mat",
+      "personligt": "Jag tror vi delar en del läsare.",
+      "sent": true
     },
     {
       "to": "info@hel.se",
@@ -150,6 +159,15 @@
       "site": "Hållbar hälsa &amp; precisionsvård",
       "nisch": "hälsa och kost",
       "detalj": "att du skriver om hälsa på ett jordnära sätt",
+      "personligt": "Jag tror vi delar en del läsare.",
+      "sent": true
+    },
+    {
+      "to": "admin@digitalisland.se",
+      "namn": "Admin",
+      "site": "Startsida",
+      "nisch": "svenska mat- och receptbloggar",
+      "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
       "sent": false
     },
@@ -190,6 +208,15 @@
       "sent": false
     },
     {
+      "to": "mat@middagshjalpen.se",
+      "namn": "Mat",
+      "site": "Inspiration för middagsrecept",
+      "nisch": "träning och kost",
+      "detalj": "ditt fokus på träning som håller över tid",
+      "personligt": "Jag tror vi delar en del läsare.",
+      "sent": false
+    },
+    {
       "to": "fanny@lesscarbs.se",
       "namn": "Fanny",
       "site": "Glutenfria och sockerfria recept och kos",
@@ -213,15 +240,6 @@
       "site": "Veganska recept, enkelt och J&auml;vligt",
       "nisch": "växtbaserad mat",
       "detalj": "att du gör växtbaserat både gott och enkelt",
-      "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
-    },
-    {
-      "to": "mat@middagshjalpen.se",
-      "namn": "Mat",
-      "site": "Inspiration för middagsrecept",
-      "nisch": "träning och kost",
-      "detalj": "ditt fokus på träning som håller över tid",
       "personligt": "Jag tror vi delar en del läsare.",
       "sent": false
     },
@@ -262,20 +280,20 @@
       "sent": false
     },
     {
-      "to": "sasongensbasta@gmail.com",
-      "namn": "Sasongensbasta",
-      "site": "sasongensbasta.se",
-      "nisch": "svenska mat- och receptbloggar",
-      "detalj": "ditt personliga sätt att skriva om mat",
-      "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
-    },
-    {
       "to": "info@refitness.se",
       "namn": "hej",
       "site": "reFitness — PT Online sedan 2014",
       "nisch": "träning och kost",
       "detalj": "ditt fokus på träning som håller över tid",
+      "personligt": "Jag tror vi delar en del läsare.",
+      "sent": false
+    },
+    {
+      "to": "sasongensbasta@gmail.com",
+      "namn": "Sasongensbasta",
+      "site": "sasongensbasta.se",
+      "nisch": "svenska mat- och receptbloggar",
+      "detalj": "ditt personliga sätt att skriva om mat",
       "personligt": "Jag tror vi delar en del läsare.",
       "sent": false
     },
@@ -307,6 +325,15 @@
       "sent": false
     },
     {
+      "to": "info@passionforhalsa.se",
+      "namn": "hej",
+      "site": "Passion för hälsa",
+      "nisch": "hälsa och kost",
+      "detalj": "att du skriver om hälsa på ett jordnära sätt",
+      "personligt": "Jag tror vi delar en del läsare.",
+      "sent": false
+    },
+    {
       "to": "tuvessonskan@gmail.com",
       "namn": "Tuvessonskan",
       "site": "Tuvessonskan",
@@ -321,15 +348,6 @@
       "site": "Vegetarisk Mat &amp; Vegetariska Recept ",
       "nisch": "växtbaserad mat",
       "detalj": "att du gör växtbaserat både gott och enkelt",
-      "personligt": "Jag tror vi delar en del läsare.",
-      "sent": false
-    },
-    {
-      "to": "info@passionforhalsa.se",
-      "namn": "hej",
-      "site": "Passion för hälsa",
-      "nisch": "hälsa och kost",
-      "detalj": "att du skriver om hälsa på ett jordnära sätt",
       "personligt": "Jag tror vi delar en del läsare.",
       "sent": false
     },

@@ -14,11 +14,6 @@ Krispiga, ostiga sticks på keso — 25 gram protein per portion och perfekt att
 - Salt och svartpeppar
 
 ## Så gör du
-1. **Sätt ugnen.** Sätt ugnen på 200 °C och klä en plåt med bakplåtspapper.
-2. **Blanda smeten.** Låt keson rinna av väl. Blanda keso, ägg, riven ost, havremjöl, bakpulver, örter, salt och peppar i en skål.
-3. **Forma sticksen.** Forma smeten till ca 12 avlånga sticks med händerna och lägg dem på plåten med lite mellanrum.
-4. **Grädda.** Grädda i 18–20 minuter tills sticksen är gyllene och fasta. Vänd dem försiktigt efter halva tiden.
-5. **Servera.** Låt svalna något och servera med en klick kvarg eller en favoritdipp.
 
 ## Näringsvärden per portion
 | Näring | Per portion |

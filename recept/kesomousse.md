@@ -12,10 +12,6 @@ Fluffig, krämig och svalkande — som en dessert men med 25 gram protein. Klar 
 - ev. vaniljpulver efter smak
 
 ## Så gör du
-1. **Mixa keson slät.** Mixa keso, bär och proteinpulver till en helt slät kräm. Detta steg är avgörande för mousse-känslan.
-2. **Vispa grädden.** Vispa vispgrädden luftig.
-3. **Vänd ihop.** Vänd försiktigt ner grädden i kesokrämen så att moussen behåller luften.
-4. **Kyl och servera.** Låt gärna stå i kylen 20 minuter så att moussen sätter sig. Toppa med några färska bär.
 
 ## Tips och variationer
 - Mixa keson riktigt slät — annars känns moussen grynig. En stavmixer ger bäst resultat.

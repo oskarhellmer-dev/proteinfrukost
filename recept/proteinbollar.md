@@ -16,9 +16,6 @@ Dadlar ger naturlig sötma och energi medan havregryn, kakao och proteinpulver l
 - 1 msk vatten
 
 ## Så gör du
-1. **Mixa.** Kör allt i matberedare till en kladdig massa.
-2. **Rulla.** Rulla till 12 bollar.
-3. **Kyl.** Ställ i kylen 30 min.
 
 ## Tips och variationer
 - Använd mjuka, färska dadlar — torra dadlar går inte att mixa slätt utan att bollarna smular.

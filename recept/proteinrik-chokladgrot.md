@@ -13,10 +13,6 @@ Krämig, varm och chokladig — med 37 gram protein i en portion. Klar på åtta
 - 1 tsk honung (valfritt)
 
 ## Så gör du
-1. **Koka gröten.** Koka havregryn och mjölk i en kastrull i 3–4 minuter under omrörning.
-2. **Rör ner kakao och protein.** Ta kastrullen av värmen. Rör ner kakao och proteinpulver — koka inte proteinet, då blir det grynigt.
-3. **Späd.** Späd med lite extra mjölk till en krämig konsistens.
-4. **Toppa.** Toppa med bananskivor och lite honung om du vill.
 
 ## Tips och variationer
 - Rör ner proteinpulvret mot slutet av kokningen så klumpar det sig inte.

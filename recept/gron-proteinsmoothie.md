@@ -13,9 +13,6 @@ Nyttig, grön och överraskande god. Spenaten märks knappt — bananen och prot
 - 3–4 isbitar (valfritt)
 
 ## Så gör du
-1. **Mixa spenaten först.** Lägg spenat och vätska i mixern och mixa slätt i ca 15 sekunder — då försvinner de gröna flagorna.
-2. **Tillsätt resten.** Tillsätt banan, proteinpulver, yoghurt och is. Mixa i 30–45 sekunder till en slät, fluffig smoothie.
-3. **Späd och servera.** Späd med mer mjölk om smoothien är för tjock. Servera direkt.
 
 ## Tips och variationer
 - Mixa spenaten med vätskan först — då blir smoothien helt slät utan gröna bitar.

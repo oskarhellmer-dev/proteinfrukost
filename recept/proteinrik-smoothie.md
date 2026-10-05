@@ -13,10 +13,6 @@ Choklad, banan och jordnötssmör i ett glas — 38 gram protein på fem minuter
 - 1 dl isbitar
 
 ## Så gör du
-1. **Lägg i mixern.** Lägg banan, proteinpulver, havregryn, mjölk, jordnötssmör och is i en mixer.
-2. **Mixa.** Kör på hög hastighet i 30–60 sekunder till en helt slät, krämig smoothie.
-3. **Justera.** Späd med en skvätt mjölk om den är för tjock, eller tillsätt lite mer is för en kallare konsistens.
-4. **Servera.** Häll upp i ett högt glas och toppa med några bananskivor och en liten klick jordnötssmör.
 
 ## Tips och variationer
 - Frusen banan ger en tjock, milkshake-lik konsistens.

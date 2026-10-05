@@ -17,11 +17,6 @@ Saftig och kladdig — utan att smaka nyttigt. Choklad, grekisk yoghurt och prot
 - 2 msk mörka chokladknappar
 
 ## Så gör du
-1. **Sätt ugnen.** Sätt ugnen på 175 °C. Klä en form på ca 20×20 cm med bakplåtspapper.
-2. **Vispa vått.** Vispa ägg, grekisk yoghurt, mjölk och honung slätt.
-3. **Blanda torrt.** Blanda havremjöl, proteinpulver, kakao, bakpulver och salt i en skål.
-4. **Vänd ihop.** Rör ner det torra i det våta och vänd ihop — vispa inte, proteinpulver blir segt vid övermixning. Vänd sist ner chokladknapparna.
-5. **Grädda.** Häll i formen och grädda 15–18 minuter. Mitten ska vara kladdig, inte fast. Låt svalna helt i formen — brownien blir saftigare kall.
 
 ## Näringsvärden per portion
 | Näring | Per portion |

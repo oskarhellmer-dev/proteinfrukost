@@ -36,5 +36,8 @@ Har du svårt att hinna äta ordentligt under dagen är ett proteinrikt mellanm�
 - [Proteinchokladbollar](https://proteinfrukost.se/recept/proteinchokladbollar.md)
 - [Kesomousse med bär](https://proteinfrukost.se/recept/kesomousse.md)
 - [Proteinrika kesosticks med örter](https://proteinfrukost.se/recept/proteinrika-kesosticks.md)
+- [Proteinrik chokladpudding med chia](https://proteinfrukost.se/recept/proteinrik-chokladpudding.md)
+- [Varm choklad med proteinpulver](https://proteinfrukost.se/recept/varm-choklad-proteinpulver.md)
+- [Proteinglass med banan och kvarg](https://proteinfrukost.se/recept/proteinglass-banan.md)
 
 Källa: https://proteinfrukost.se/kategori/mellanmal

@@ -16,9 +16,6 @@ Den här smoothien kombinerar mjölk, kvarg, bär, banan och proteinpulver och k
 - 1 dl kvarg
 
 ## Så gör du
-1. **Lägg i allt.** Lägg mjölk, proteinpulver, bär, banan, havregryn och kvarg i en blender.
-2. **Mixa.** Kör på hög hastighet tills smoothien är helt slät, ca 30–45 sekunder.
-3. **Servera.** Häll upp i ett glas och drick direkt — eller ställ i kylen upp till 2 timmar.
 
 ## Tips och variationer
 - Frysta bär gör smoothien kall och tjock utan isbitar som späder ut smaken.

@@ -16,8 +16,6 @@ Kvarg är en av de mest proteinrika mejeriprodukterna och innehåller kasein, et
 - 1 msk hackade nötter
 
 ## Så gör du
-1. **Blanda.** Blanda kvarg och yoghurt i en skål.
-2. **Toppa.** Toppa med bär, havregryn, honung och nötter.
 
 ## Tips och variationer
 - Kvarg kan vara besk — den grekiska yoghurten balanserar syran, så ta inte bort den.

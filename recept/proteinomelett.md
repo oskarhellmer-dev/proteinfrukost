@@ -16,9 +16,6 @@ Fluffig proteinomelett med keso — 26 g protein på tio minuter.
 - Salt och peppar
 
 ## Så gör du
-1. **Vispa.** Vispa ägg och keso, krydda.
-2. **Stek.** Häll i varm panna, lägg på spenat och tomat.
-3. **Vik.** Vik omeletten och strö över ost.
 
 ## Tips och variationer
 - Vispa keson slät innan den hamnar i pannan — annars blir omeletten grynig.

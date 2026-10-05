@@ -14,10 +14,6 @@ Fluffiga, mättande och klara på 15 minuter. 25 gram protein per portion — de
 - 1 tsk kokosolja till stekning
 
 ## Så gör du
-1. **Mixa smeten.** Mixa ägg, havregryn, proteinpulver, mjölk, bakpulver och salt till en slät smet.
-2. **Låt vila.** Låt smeten vila 2–3 minuter så att havregrynen sväller och smeten tjocknar.
-3. **Stek.** Hetta upp kokosolja i en stekpanna på medelvärme. Stek små pannkakor ca 2 minuter per sida tills de är gyllenbruna.
-4. **Servera.** Servera med bär, keso eller en klick kvarg.
 
 ## Näringsvärden per portion
 | Näring | Per portion |

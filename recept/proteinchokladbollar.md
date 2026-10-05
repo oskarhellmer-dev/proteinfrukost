@@ -16,10 +16,6 @@ Sveriges käraste fika — fast proteinrik. Havregryn, kakao och proteinpulver g
 - 1 dl kokosflingor att rulla i
 
 ## Så gör du
-1. **Rör smör och socker.** Rör smör, socker, vaniljsocker och salt krämigt.
-2. **Blanda i resten.** Tillsätt kaffe, havregryn, proteinpulver och kakao. Arbeta ihop till en fast massa. Tillsätt 1 msk vatten om den känns torr.
-3. **Rulla.** Rulla 16 jämna bollar och rulla dem i kokosflingor.
-4. **Kyl.** Kyl minst 30 minuter så att bollarna sätter sig.
 
 ## Tips och variationer
 - Kaffet förstärker chokladsmaken — hoppa inte över det, det gör stor skillnad.

@@ -14,10 +14,6 @@ En riktigt mättande frukost med 33 gram protein — ägg, kvarg, avocado och gr
 - Salt och svartpeppar
 
 ## Så gör du
-1. **Vispa äggen.** Vispa ihop äggen med en nypa salt och peppar.
-2. **Gör äggröran.** Värm en panna på medelvärme och rör äggen till en krämig äggröra, ca 2 minuter. Ta av från värmen i tid.
-3. **Lägg upp.** Lägg kvargen i en liten skål, skiva avocadon och halvera tomaterna. Rosta brödet lätt.
-4. **Servera.** Lägg allt på en tallrik, toppa kvargen och tomaterna med gräslök och lite svartpeppar. Ät direkt.
 
 ## Näringsvärden per portion
 | Näring | Per portion |

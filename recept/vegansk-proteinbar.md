@@ -17,10 +17,6 @@ No-bake veganska proteinbarer på dadlar, havre och nötssmör. Inga ägg, ingen
 - 2 msk mörk choklad (att doppa)
 
 ## Så gör du
-1. **Mixa dadlar.** Mixa dadlarna till en klibbig pasta. Skrapa ner kanterna med jämna mellanrum.
-2. **Tillsätt resten.** Tillsätt havregryn, proteinpulver, jordnötssmör, agavesirap, kokos, chia och salt. Pulsera till en jämn massa.
-3. **Justera konsistens.** Tillsätt växtmjölk 1 msk i taget tills massan håller ihop vid klämtest men inte är kladdig.
-4. **Forma och kyl.** Tryck ut massan i en klädd form (ca 20×15 cm) eller rulla 10 barer. Doppa gärna i smält mörk choklad. Kyl i 1 timme före skärning.
 
 ## Näringsvärden per portion
 | Näring | Per portion |

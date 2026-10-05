@@ -17,10 +17,6 @@ Det här brödet bakas helt utan vetemjöl och får sin struktur av havregryn, �
 - 1 msk psylliumhusk
 
 ## Så gör du
-1. **Sätt ugnen.** 180 grader, smörj en brödform.
-2. **Blanda.** Rör ihop alla ingredienser till en tjock smet.
-3. **Grädda.** Grädda ca 40 min tills brödet är fast.
-4. **Svalna.** Låt svalna innan du skär.
 
 ## Tips och variationer
 - Psylliumhusk är viktigt — det binder brödet eftersom det inte innehåller vetemjöl. Hoppa inte över det.

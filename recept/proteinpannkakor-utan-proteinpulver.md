@@ -16,10 +16,6 @@ Behöver du protein men har slut på proteinpulvret? Keson gör jobbet och ger p
 - 1 nypa salt
 
 ## Så gör du
-1. **Mixa.** Mixa ägg, havregryn, keso, mjölk, bakpulver och salt slätt.
-2. **Vila.** Låt smeten vila 3 minuter.
-3. **Stek.** Stek små pannkakor på medelvärme, ca 2 min per sida.
-4. **Servera.** Servera med bär och en klick kvarg.
 
 ## Tips och variationer
 - Mixa keson slät med äggen först, annars blir smeten grynig.

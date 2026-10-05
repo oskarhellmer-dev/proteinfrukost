@@ -16,10 +16,6 @@ Havregryn är naturligt glutenfria, men köp alltid ett paket märkt "glutenfrit
 - 1 nypa salt
 
 ## Så gör du
-1. **Mixa.** Mixa allt till en slät smet.
-2. **Vila.** Låt svälla 3 minuter.
-3. **Stek.** Stek på medelvärme ca 2 min per sida.
-4. **Servera.** Toppa med färska bär.
 
 ## Tips och variationer
 - Välj havregryn märkta "glutenfria" — vanlig havre kan vara kontaminerad med vete under tillverkningen.

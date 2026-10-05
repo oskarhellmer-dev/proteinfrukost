@@ -15,10 +15,6 @@ Helt veganska — utan ägg och mjölk. Linfrö och växtmjölk gör jobbet, och
 - 1 tsk olja till stekning
 
 ## Så gör du
-1. **Gör linfrö-ägg.** Blanda linfrömjöl och vatten i en liten skål. Låt stå 5 minuter tills det blir geléaktigt.
-2. **Blanda.** Vispa ihop mjöl, proteinpulver, bakpulver och salt. Tillsätt växtmjölk, lönnsirap och linfrö-ägget.
-3. **Vila.** Låt smeten vila i 5 minuter.
-4. **Stek.** Stek på medelvärme i lätt oljad panna, ca 2 minuter per sida.
 
 ## Tips och variationer
 - Linfrömjölet och vattnet är ditt ägg — låt det svälla fem minuter innan du blandar i smeten.

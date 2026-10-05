@@ -15,10 +15,6 @@ Tjocka, fluffiga pannkakor med riktig diner-känsla — men med 24 gram protein 
 - 1 msk smör till stekning
 
 ## Så gör du
-1. **Blanda torrt.** Vispa ihop havremjöl, proteinpulver, bakpulver och salt i en skål.
-2. **Blanda blött.** Vispa ägg, mjölk och grekisk yoghurt i en annan skål.
-3. **Vänd ihop.** Häll det blöta i det torra och vänd ihop försiktigt. Klumpar är bra — vispa inte för mycket, då tappar pannkakorna fluffet.
-4. **Vila och stek.** Låt smeten vila 5–10 minuter. Stek på medel-låg värme och vänd när bubblor syns på ytan.
 
 ## Tips och variationer
 - Grekisk yoghurt är hemligheten bakom höjden — byt inte ut den mot mer mjölk.

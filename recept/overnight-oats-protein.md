@@ -17,9 +17,6 @@ Overnight oats är havregryn som får stå i kylen över natten och mjukna, vilk
 - Topping: bär
 
 ## Så gör du
-1. **Blanda.** Blanda havregryn, mjölk, proteinpulver, kvarg, chiafrön och vaniljpulver i ett glas med lock.
-2. **Ställ i kylen.** Ställ i kylen över natten (minst 6 timmar) så att havregrynen sväller.
-3. **Toppa och ät.** Rör om och toppa med bär innan servering.
 
 ## Tips och variationer
 - Rör ner proteinpulvret i mjölken först och sedan i havren, annars klumpar det sig.

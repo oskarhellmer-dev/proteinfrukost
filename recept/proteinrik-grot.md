@@ -14,9 +14,6 @@ Krämig havregröt med kvarg som lyfter proteinet till 24 gram — klar på tio 
 - Topping: bär och nötter
 
 ## Så gör du
-1. **Koka gröten.** Koka havregryn, mjölk och salt på medelvärme i ca 5 minuter under omrörning.
-2. **Rör i kvargen.** Ta av kastrullen och rör ner kvarg och chiafrön. Låt svälla 2 minuter.
-3. **Toppa och servera.** Ringla över honung och toppa med bär och nötter.
 
 ## Tips och variationer
 - Rör ner kvargen efter att gröten kokat — då behåller den sin krämiga konsistens och blir inte grynig.

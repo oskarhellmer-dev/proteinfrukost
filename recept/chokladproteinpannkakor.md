@@ -15,10 +15,6 @@ Smakar dessert men ger 22 gram protein. Saftiga chokladpannkakor på banan, kaka
 - 1 nypa salt
 
 ## Så gör du
-1. **Mixa.** Mixa banan, ägg, havregryn, proteinpulver, kakao, bakpulver, mjölk och salt till en slät smet.
-2. **Vila.** Låt smeten vila i 5 minuter.
-3. **Stek.** Stek på medelvärme ca 2 minuter per sida. Chokladsmet är känsligare — vänd försiktigt med en bred stekspade.
-4. **Servera.** Servera med färska bär, en klick kvarg eller lite extra kakao.
 
 ## Tips och variationer
 - Kakao och chokladproteinpulver kan göra smeten torr — späd med mjölk tills den rinner av skeden.

@@ -15,10 +15,6 @@ Saftiga muffins med banan och proteinpulver — 12 gram protein per muffin. Perf
 - 50 g mörk choklad (valfritt)
 
 ## Så gör du
-1. **Sätt ugnen.** Sätt ugnen på 180 grader och sätt ut muffinsformar.
-2. **Mosa och blanda.** Mosa bananerna och blanda med ägg, havregryn, proteinpulver, kvarg, bakpulver och kanel.
-3. **Fördela.** Fördela smeten i formarna och toppa eventuellt med hackad mörk choklad.
-4. **Grädda.** Grädda i mitten av ugnen i ca 20 minuter tills de är gyllenbruna.
 
 ## Tips och variationer
 - Mosa bananerna ordentligt så att muffinsen blir jämna och inte får bananklumpar.

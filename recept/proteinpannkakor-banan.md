@@ -15,10 +15,6 @@ Sötman kommer helt från bananen — inget socker behövs. Fluffiga, mättande 
 - 1 tsk kokosolja till stekning
 
 ## Så gör du
-1. **Mixa smeten.** Mixa banan, ägg, havregryn, proteinpulver, bakpulver, kanel och salt till en slät smet.
-2. **Låt vila.** Låt smeten svälla i 5 minuter så att havregrynen mjuknar och smeten tjocknar.
-3. **Stek.** Värm kokosolja i en stekpanna på medelvärme. Stek små pannkakor ca 2 minuter per sida tills de är gyllenbruna.
-4. **Servera.** Servera med blåbär, jordnötssmör eller en klick kvarg.
 
 ## Tips och variationer
 - Mogen banan ger mest sötma — en gul banan med bruna prickar är perfekt.
