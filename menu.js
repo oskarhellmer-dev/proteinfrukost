@@ -31,7 +31,10 @@ window.addEventListener('resize',function(){var ul=document.querySelector('.nav 
         body:JSON.stringify({email:val,_subject:'Ny prenumerant på proteinfrukost.se',_captcha:'false',_template:'table',_honey:''})})
         .then(function(r){return r.json().then(function(j){return {ok:r.ok,j:j};}).catch(function(){return {ok:r.ok,j:{}};});})
         .then(function(res){
-          if(res.ok&&res.j&&res.j.success!=='false'){if(msg)msg.textContent='Tack! Du är anmäld.';f.reset();}
+          if(res.ok&&res.j&&res.j.success!=='false'){
+            if(msg)msg.innerHTML='Tack! Du är anmäld. <a href="/gratis/7-dagars-proteinfrukost.pdf" style="color:#3f6b4f;text-decoration:underline;font-weight:600">Ladda ner din 7-dagarsmeny (PDF)</a>';
+            f.reset();
+          }
           else{fallback();}
         })
         .catch(fallback);
