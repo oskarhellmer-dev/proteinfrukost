@@ -34,5 +34,6 @@ Här samlar vi alla frukostrecept på sajten: pannkakor, gröt, omelett, yoghurt
 - [Proteinrik frukost med ägg och kvarg](https://proteinfrukost.se/recept/proteinrik-frukost.md)
 - [Kvargfrukost med bär och granola](https://proteinfrukost.se/recept/kvargfrukost-med-bar.md)
 - [Proteinrik vegansk frukost med sojagyoghurt och hampafrön](https://proteinfrukost.se/recept/proteinrik-vegansk-frukost.md)
+- [Proteinrik frukost utan ägg](https://proteinfrukost.se/recept/proteinrik-frukost-utan-agg.md)
 
 Källa: https://proteinfrukost.se/kategori/frukost

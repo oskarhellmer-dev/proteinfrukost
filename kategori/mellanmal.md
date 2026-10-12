@@ -1,6 +1,6 @@
 # Proteinrika mellanmål
 
-Bollar, muffins och snacks för mellanmålet.
+Kesosticks, mousse och mättande snacks för mellanmålet.
 
 ## Proteinrika mellanmål — håll mättnaden mellan måltiderna
 
@@ -14,7 +14,7 @@ Här hittar du mellanmål byggda på kvarg, keso, nötter, dadlar och havregryn.
 ## Tips för proteinrika mellanmål
 
     
-      - Förbered en sats i början av veckan — bollar, bars och muffins håller flera dagar i kylen.
+      - Förbered en sats i början av veckan — bollar och bars håller flera dagar i kylen.
 
       - Kombinera proteinet med lite fett eller fiber för jämnare energi: nötter, frön eller bär.
 
@@ -24,20 +24,18 @@ Här hittar du mellanmål byggda på kvarg, keso, nötter, dadlar och havregryn.
 
     
     
-Ett mellanmål på 15–20 gram protein räcker långt. Prova proteinbollar med dadlar, kesomousse med bär eller proteinrika kesosticks.
+Ett mellanmål på 15–20 gram protein räcker långt. Prova proteinrika kesosticks, kesomousse med bär eller vegansk proteinbar.
 
     
 Har du svårt att hinna äta ordentligt under dagen är ett proteinrikt mellanmål det enklaste sättet att ändå få i sig tillräckligt med protein — sikta på 15–20 gram per tillfälle.
 
 ## Recept i kategorin
-- [Proteinbollar med dadlar och kakao](https://proteinfrukost.se/recept/proteinbollar.md)
-- [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins.md)
-- [Vegansk proteinbar](https://proteinfrukost.se/recept/vegansk-proteinbar.md)
-- [Proteinchokladbollar](https://proteinfrukost.se/recept/proteinchokladbollar.md)
-- [Kesomousse med bär](https://proteinfrukost.se/recept/kesomousse.md)
 - [Proteinrika kesosticks med örter](https://proteinfrukost.se/recept/proteinrika-kesosticks.md)
-- [Proteinrik chokladpudding med chia](https://proteinfrukost.se/recept/proteinrik-chokladpudding.md)
-- [Varm choklad med proteinpulver](https://proteinfrukost.se/recept/varm-choklad-proteinpulver.md)
-- [Proteinglass med banan och kvarg](https://proteinfrukost.se/recept/proteinglass-banan.md)
+- [Kesomousse med bär](https://proteinfrukost.se/recept/kesomousse.md)
+- [Vegansk proteinbar](https://proteinfrukost.se/recept/vegansk-proteinbar.md)
+- [Proteinbollar med dadlar och kakao](https://proteinfrukost.se/recept/proteinbollar.md)
+- [Fröknäcke med frön och keso](https://proteinfrukost.se/recept/froknacke.md)
+- [Proteinbollar med jordnötssmör](https://proteinfrukost.se/recept/proteinbollar-jordnotssmor.md)
+- [Proteinomelettmuffins med grönsaker](https://proteinfrukost.se/recept/proteinomelettmuffins.md)
 
 Källa: https://proteinfrukost.se/kategori/mellanmal
