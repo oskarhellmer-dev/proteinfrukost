@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "historyId": "7ac57030-4d35-4395-8c8d-3ef1b1d512af",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "assets/sfx/card1.ogg": {
+      "hash": "7d3ba0bb5e60a11b5d3e558c141303dcf494256675fbf753c0d252d2cf0481e3",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/7d/7d3ba0bb5e60a11b5d3e558c141303dcf494256675fbf753c0d252d2cf0481e3"
+    },
+    "assets/sfx/card2.ogg": {
+      "hash": "7642a4fd43e547afe4f7adfadb3dabb681c0ff512f52c1674bae30a726841faf",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/76/7642a4fd43e547afe4f7adfadb3dabb681c0ff512f52c1674bae30a726841faf"
+    },
+    "assets/sfx/card3.ogg": {
+      "hash": "5069e3571a77d7f7aae9ef71d0364aa245fb7d64a7c8cc9956f221d03088c089",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/50/5069e3571a77d7f7aae9ef71d0364aa245fb7d64a7c8cc9956f221d03088c089"
+    },
+    "assets/sfx/card4.ogg": {
+      "hash": "5c4a1f35fde7e14046931da7bc3d1b23736541b7190ba107e08a379c4ca43cd6",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/5c/5c4a1f35fde7e14046931da7bc3d1b23736541b7190ba107e08a379c4ca43cd6"
+    },
+    "assets/sfx/counter.ogg": {
+      "hash": "59175ac17cd49a68dd736285738441287636112a84a6f7ce0d89921bda5a5360",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/59/59175ac17cd49a68dd736285738441287636112a84a6f7ce0d89921bda5a5360"
+    },
+    "assets/sfx/outro.ogg": {
+      "hash": "49e7ca88743fca974bb8676ea138b751cfd8f9033b5e7af8736c2a215d6edbc1",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/49/49e7ca88743fca974bb8676ea138b751cfd8f9033b5e7af8736c2a215d6edbc1"
+    },
+    "index.html": {
+      "hash": "751b1b46f34ce8d8f6e62698e567ee762f63d46a3384dfb9d4aca1e0bbd34be0",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/75/751b1b46f34ce8d8f6e62698e567ee762f63d46a3384dfb9d4aca1e0bbd34be0"
+    },
+    "assets/music/happy-beats-business-moves-vol-9-by-ende-dot-app.mp3": {
+      "hash": "f5793597e520aa8fa9cce91086816fc1e15e3aac0128bcf375df51ba70c0dc63",
+      "content": "/home/clawd/.cache/hyperframes/history/7ac57030-4d35-4395-8c8d-3ef1b1d512af/blobs/f5/f5793597e520aa8fa9cce91086816fc1e15e3aac0128bcf375df51ba70c0dc63"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": {
+      "revision": null,
+      "id": "e898f89a-95fe-45bd-a64e-66e734f50b8f"
+    },
+    "revisions": {},
+    "unversioned": [
+      {
+        "id": "e898f89a-95fe-45bd-a64e-66e734f50b8f",
+        "scope": "project",
+        "report": "/home/clawd/proteinfrukost/brag-output-2026-10-14-091530/vertical/composition/.hyperframes/artifacts/checks/e898f89a-95fe-45bd-a64e-66e734f50b8f.json",
+        "metadata": {
+          "ok": true,
+          "browserSkipped": false,
+          "options": {
+            "samples": 9,
+            "atTransitions": false,
+            "maxIssues": 80,
+            "collapseStatic": true,
+            "tolerance": 2,
+            "timeout": 3000,
+            "contrast": true,
+            "strict": false,
+            "snapshots": false,
+            "browserGpuMode": "auto"
+          }
+        },
+        "createdAt": 1791962808819,
+        "contentHash": "5f14a53fa7e630d5b549d3450a670b77bb56f5bffd00e5effd385c1793c4b719",
+        "revision": null,
+        "inputFingerprint": "a8eac695b92e4bee7ceda1c4f80dd6c011fd5baaba3f98c9419d24dcbd250d2f",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "2d15656a-6726-4db1-975e-f6735ef5d3c3",
+      "completedAt": 1791962845439,
+      "output": "/home/clawd/proteinfrukost/brag-output-2026-10-14-091530/vertical/brag-vertical.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}
