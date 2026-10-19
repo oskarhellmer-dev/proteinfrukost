@@ -34,5 +34,7 @@ För dig som tränar fungerar en proteinsmoothie utmärkt som återhämtningsmå
 - [Grön proteinsmoothie](https://proteinfrukost.se/recept/gron-proteinsmoothie.md)
 - [Proteinrik smoothie med proteinpulver](https://proteinfrukost.se/recept/proteinrik-smoothie.md)
 - [Proteinmilkshake med banan och jordnötssmör](https://proteinfrukost.se/recept/proteinmilkshake.md)
+- [Kaseinsmoothie med bär](https://proteinfrukost.se/recept/kaseinsmoothie.md)
+- [LCHF-proteinshake med kokos](https://proteinfrukost.se/recept/lchf-proteinshake.md)
 
 Källa: https://proteinfrukost.se/kategori/smoothie

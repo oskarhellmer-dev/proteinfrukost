@@ -34,5 +34,8 @@ Förvara proteinbakverk i kylen och värm dem lätt före servering — de blir 
 - [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins.md)
 - [Proteinbröd med kvarg och frön](https://proteinfrukost.se/recept/proteinbrod-kvarg.md)
 - [Proteinmuffins med blåbär](https://proteinfrukost.se/recept/proteinmuffins-blabar.md)
+- [Proteinbananbröd med vaniljprotein](https://proteinfrukost.se/recept/proteinbananbrod.md)
+- [Proteinfrallor med keso och frön](https://proteinfrukost.se/recept/proteinfrallor.md)
+- [Chokladproteincookies](https://proteinfrukost.se/recept/chokladproteincookies.md)
 
 Källa: https://proteinfrukost.se/kategori/bakning
