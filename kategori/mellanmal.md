@@ -39,5 +39,6 @@ Har du svårt att hinna äta ordentligt under dagen är ett proteinrikt mellanm�
 - [Proteinomelettmuffins med grönsaker](https://proteinfrukost.se/recept/proteinomelettmuffins.md)
 - [Lågkalori proteinbar](https://proteinfrukost.se/recept/lagkalori-proteinbar.md)
 - [Kesoröra på knäcke – proteinrikt kvällsmål](https://proteinfrukost.se/recept/proteinrikt-kvallsmall.md)
+- [Proteinbollar med banan och havre](https://proteinfrukost.se/recept/proteinbollar-banan.md)
 
 Källa: https://proteinfrukost.se/kategori/mellanmal
