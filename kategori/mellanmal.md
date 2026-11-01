@@ -4,16 +4,12 @@ Kesosticks, mousse och mättande snacks för mellanmålet.
 
 ## Proteinrika mellanmål — håll mättnaden mellan måltiderna
 
-    
 Ett bra mellanmål gör att du slipper småäta och håller energin uppe fram till nästa måltid. Problemet med många mellanmål — frukt, kex, en macka — är att de mest består av kolhydrater och lämnar dig hungrig igen en timme senare. Med protein i mellanmålet håller mättnaden mycket längre.
 
-    
 Här hittar du mellanmål byggda på kvarg, keso, nötter, dadlar och havregryn. Gemensamt är att de är enkla att göra, går att förbereda i förväg och innehåller 6–25 gram protein per portion. Många är dessutom sockerfria och passar bra att ta med till jobbet eller träningen.
 
-    
 ## Tips för proteinrika mellanmål
 
-    
       - Förbered en sats i början av veckan — bollar och bars håller flera dagar i kylen.
 
       - Kombinera proteinet med lite fett eller fiber för jämnare energi: nötter, frön eller bär.
@@ -22,11 +18,8 @@ Här hittar du mellanmål byggda på kvarg, keso, nötter, dadlar och havregryn.
 
       - Välj mörk choklad och osötad kakao om du vill ha något sött utan sockerchocken.
 
-    
-    
 Ett mellanmål på 15–20 gram protein räcker långt. Prova proteinrika kesosticks, kesomousse med bär eller vegansk proteinbar.
 
-    
 Har du svårt att hinna äta ordentligt under dagen är ett proteinrikt mellanmål det enklaste sättet att ändå få i sig tillräckligt med protein — sikta på 15–20 gram per tillfälle.
 
 ## Recept i kategorin

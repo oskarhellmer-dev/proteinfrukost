@@ -1,6 +1,6 @@
 # Proteinfrukost.se
 
-> Proteinrika frukostrecept på svenska — pannkakor, gröt, smoothies, mellanmål och bakning med näringsvärden per portion.
+> Proteinrika frukostrecept på svenska — pannkakor, gröt, smoothies, mellanmål, bakning, middagar och sötsaker med näringsvärden per portion.
 
 Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Varje recept anger gram protein per portion, ingredienser, steg-för-steg och näringsvärden. Sajten drivs automatiskt och fylls på med nya recept löpande.
 
@@ -11,6 +11,8 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [Proteinrika mellanmål](https://proteinfrukost.se/kategori/mellanmal.md): Proteinrika mellanmål — bollar, bars, muffins och kesosnacks.
 - [Proteinrik frukost](https://proteinfrukost.se/kategori/frukost.md): Alla proteinrika frukostrecept på sajten.
 - [Proteinbakning](https://proteinfrukost.se/kategori/bakning.md): Proteinbröd, brownies och bakverk med högt protein.
+- [Proteinrika middagar](https://proteinfrukost.se/kategori/middag.md): Proteinrika middagar med kyckling, lax, köttfärs och vegetariskt.
+- [Proteinrika efterrätter och sötsaker](https://proteinfrukost.se/kategori/sott.md): Proteinrika efterrätter och sötsaker — kladdkaka, mousse och glass.
 
 ## Populära recept
 - [Proteinpannkakor med proteinpulver](https://proteinfrukost.se/recept/proteinpannkakor.md)

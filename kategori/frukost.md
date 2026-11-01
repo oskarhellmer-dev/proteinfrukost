@@ -4,16 +4,12 @@ Alla frukostrecept med högt proteininnehåll.
 
 ## Proteinrik frukost — bästa starten på dagen
 
-    
 Frukosten sätter tonen för hela dagen. En proteinrik frukost jämnar ut blodsockret, håller hungern borta fram till lunch och ger kroppen byggstenar för musklerna. Forskning pekar på att 25–30 gram protein på morgonen är ungefär vad som krävs för att mättnaden ska hålla — betydligt mer än vad en vanlig macka eller en tallrik flingor ger.
 
-    
 Här samlar vi alla frukostrecept på sajten: pannkakor, gröt, omelett, yoghurt och smoothies. Gemensamt är att de kombinerar en rejäl proteinkälla — ägg, kvarg, keso eller proteinpulver — med långsamma kolhydrater och fiber. Det gör att de mättar länge utan att kännas tunga, och de flesta är klara på under en kvart.
 
-    
 ## Så bygger du en proteinrik frukost
 
-    
       - Satsa på en tydlig proteinkälla: ägg, kvarg, keso, grekisk yoghurt eller proteinpulver.
 
       - Lägg till långsamma kolhydrater som havregryn, fullkornsbröd eller frukt.
@@ -22,8 +18,8 @@ Här samlar vi alla frukostrecept på sajten: pannkakor, gröt, omelett, yoghurt
 
       - Undvik sockerrika flingor och juice — de ger snabb energi men lämnar dig hungrig snart igen.
 
-    
-    
+      - Förbered kvällen innan: blötlägg havregrynen till overnight oats eller lägg smoothieingredienserna i frysen, så är frukosten klar på ett par minuter.
+
 Äter du samma frukost varje dag? Variera mellan varma och kalla alternativ så håller du motivationen uppe. Prova proteinrik frukost med ägg och kvarg, proteinomelett med keso eller proteinyoghurt med kvarg. Alla är proteinrika och enkla att variera.
 
 ## Recept i kategorin
