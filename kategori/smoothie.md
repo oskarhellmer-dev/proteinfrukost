@@ -30,5 +30,6 @@ För dig som tränar fungerar en proteinsmoothie utmärkt som återhämtningsmå
 - [Kaseinsmoothie med bär](https://proteinfrukost.se/recept/kaseinsmoothie.md)
 - [LCHF-proteinshake med kokos](https://proteinfrukost.se/recept/lchf-proteinshake.md)
 - [Protein-smoothie med kvarg och bär](https://proteinfrukost.se/recept/protein-smoothie-kvarg.md)
+- [Proteinrik återhämtningssmoothie efter träning](https://proteinfrukost.se/recept/aterhamtningssmoothie.md)
 
 Källa: https://proteinfrukost.se/kategori/smoothie

@@ -32,5 +32,7 @@ De flesta recept är klara på 10–15 minuter och går lika bra till vardags so
 - [Proteinvåfflor med kvarg](https://proteinfrukost.se/recept/proteinvafflor.md)
 - [Vaniljproteinpannkakor](https://proteinfrukost.se/recept/vaniljproteinpannkakor.md)
 - [Proteinpannkakor med keso](https://proteinfrukost.se/recept/proteinpannkakor-keso.md)
+- [Proteinpannkakor med kvarg](https://proteinfrukost.se/recept/proteinpannkakor-kvarg.md)
+- [Tunna proteinpannkakor](https://proteinfrukost.se/recept/tunna-proteinpannkakor.md)
 
 Källa: https://proteinfrukost.se/kategori/pannkakor
