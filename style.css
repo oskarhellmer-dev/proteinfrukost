@@ -112,7 +112,6 @@ h2{font-size:1.875rem;letter-spacing:-.02em;margin-bottom:8px}
 .card h3 a{color:var(--ink)}
 .card .meta{display:flex;gap:14px;color:var(--muted);font-size:.875rem;margin-top:8px}
 .card .meta b{color:var(--green-dark)}
-.annons-notis{font-size:.82rem;color:var(--muted-dim);margin:8px 0 0}
 .tag{display:inline-block;background:#e7f3ec;color:var(--green-dark);font-size:.75rem;font-weight:600;
   padding:3px 10px;border-radius:var(--r-sm);margin-bottom:8px;letter-spacing:.01em}
 
