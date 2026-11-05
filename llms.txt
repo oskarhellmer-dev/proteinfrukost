@@ -109,6 +109,17 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [Proteinrik vegetarisk böngryta](https://proteinfrukost.se/recept/vegetarisk-bongryta-protein.md)
 
 ## Om sajten
+- [Om Proteinfrukost.se](https://proteinfrukost.se/om): Vad sajten är, hur recepten tas fram och hur proteinet per portion räknas.
 - [Alla recept (översikt)](https://proteinfrukost.se/alla-recept.md)
 - [Integritetspolicy](https://proteinfrukost.se/integritetspolicy)
 - [Kontakt](mailto:hej@proteinfrukost.se)
+
+## Fakta
+- Namn: Proteinfrukost.se
+- Typ: svensk receptsajt med proteinrika frukostrecept
+- Språk: svenska (sv-SE)
+- Innehåll: recept med ingredienser, tillagningstid, näringsvärden och gram protein per portion
+- Proteinkällor: ägg, kvarg, keso, grekisk yoghurt och proteinpulver
+- Pris: gratis, ingen registrering krävs
+- Kontakt: hej@proteinfrukost.se
+
