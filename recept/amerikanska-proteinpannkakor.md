@@ -44,4 +44,8 @@ Ja, det fungerar lika bra. Havremjöl ger något mer fiber, vetemjöl en lite kl
 
 Ja. Ersätt med 1,5 dl grekisk yoghurt extra och 1 msk extra havremjöl.
 
+**Kan man göra amerikanska pannkakor med kvarg eller grekisk yoghurt?**
+
+Ja. Byt ut en del av mjölken mot kvarg eller grekisk yoghurt — det ger extra protein och en krämigare smet. Kvarg och grekisk yoghurt innehåller cirka 11 g protein per 100 g.
+
 Källa: https://proteinfrukost.se/recept/amerikanska-proteinpannkakor

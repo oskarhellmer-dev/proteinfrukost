@@ -39,8 +39,10 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [LCHF-proteinshake med kokos](https://proteinfrukost.se/recept/lchf-proteinshake.md)
 - [Overnight oats med choklad](https://proteinfrukost.se/recept/overnight-oats-choklad.md)
 - [Overnight oats med jordnötssmör](https://proteinfrukost.se/recept/overnight-oats-jordnotssmor.md)
+- [Overnight oats kladdkaka](https://proteinfrukost.se/recept/overnight-oats-kladdkaka.md)
 - [Overnight oats med proteinpulver – 28 g protein](https://proteinfrukost.se/recept/overnight-oats-protein.md)
 - [Protein smoothie med bär – 30 g protein](https://proteinfrukost.se/recept/protein-smoothie.md)
+- [Protein smoothie med jordnötssmör](https://proteinfrukost.se/recept/protein-smoothie-jordnotssmor.md)
 - [Protein-smoothie med kvarg och bär](https://proteinfrukost.se/recept/protein-smoothie-kvarg.md)
 - [Proteinbananbröd med vaniljprotein](https://proteinfrukost.se/recept/proteinbananbrod.md)
 - [Proteinbollar med dadlar och kakao – 6 g protein/st](https://proteinfrukost.se/recept/proteinbollar.md)
@@ -50,17 +52,19 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [Proteinbollar med keso](https://proteinfrukost.se/recept/proteinbollar-keso.md)
 - [Proteinbröd med keso – 9 g protein/skiva](https://proteinfrukost.se/recept/proteinbrod.md)
 - [Proteinbröd i airfryer](https://proteinfrukost.se/recept/proteinbrod-airfryer.md)
-- [Proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod-keso.md)
+- [Kesobröd – proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod-keso.md)
 - [Proteinbröd med kvarg och frön](https://proteinfrukost.se/recept/proteinbrod-kvarg.md)
 - [Proteinbrownie](https://proteinfrukost.se/recept/proteinbrownie.md)
 - [Proteincheesecake i glas](https://proteinfrukost.se/recept/proteincheesecake.md)
 - [Proteinchokladbollar](https://proteinfrukost.se/recept/proteinchokladbollar.md)
 - [Proteinchokladmousse](https://proteinfrukost.se/recept/proteinchokladmousse.md)
+- [Proteindadbollar (veganska)](https://proteinfrukost.se/recept/proteindadbollar.md)
 - [Proteinfrallor med keso och frön](https://proteinfrukost.se/recept/proteinfrallor.md)
 - [Proteinglass med banan och kvarg](https://proteinfrukost.se/recept/proteinglass-banan.md)
 - [Proteinjordgubbsglass med vit choklad](https://proteinfrukost.se/recept/proteinjordgubbsglass.md)
 - [Proteinmilkshake med banan och jordnötssmör](https://proteinfrukost.se/recept/proteinmilkshake.md)
 - [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins.md)
+- [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins-banan.md)
 - [Proteinmuffins med blåbär](https://proteinfrukost.se/recept/proteinmuffins-blabar.md)
 - [Proteinmuffins med choklad](https://proteinfrukost.se/recept/proteinmuffins-choklad.md)
 - [Proteinomelett med keso och grönsaker – 26 g protein](https://proteinfrukost.se/recept/proteinomelett.md)
@@ -70,6 +74,7 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [Proteinpannkakor med banan](https://proteinfrukost.se/recept/proteinpannkakor-banan.md)
 - [Proteinpannkakor med keso](https://proteinfrukost.se/recept/proteinpannkakor-keso.md)
 - [Proteinpannkakor med kvarg](https://proteinfrukost.se/recept/proteinpannkakor-kvarg.md)
+- [Proteinpannkakor utan mjöl](https://proteinfrukost.se/recept/proteinpannkakor-utan-mjol.md)
 - [Proteinpannkakor utan proteinpulver (med keso) – 22 g protein](https://proteinfrukost.se/recept/proteinpannkakor-utan-proteinpulver.md)
 - [Proteinpizza med keso och skinka](https://proteinfrukost.se/recept/proteinpizza.md)
 - [Proteinplättar med lingon](https://proteinfrukost.se/recept/proteinplattar.md)
@@ -81,20 +86,25 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [Proteinrik frukost med ägg och kvarg](https://proteinfrukost.se/recept/proteinrik-frukost.md)
 - [Proteinrik frukost utan mjölkprodukter](https://proteinfrukost.se/recept/proteinrik-frukost-mjolkfri.md)
 - [Proteinrik frukost utan ägg](https://proteinfrukost.se/recept/proteinrik-frukost-utan-agg.md)
+- [Proteinrik frukost utan kolhydrater](https://proteinfrukost.se/recept/proteinrik-frukost-utan-kolhydrater.md)
 - [Proteinrik gröt med kvarg – 24 g protein](https://proteinfrukost.se/recept/proteinrik-grot.md)
 - [Proteinrik havregröt med blåbär](https://proteinfrukost.se/recept/proteinrik-havregrot-blabar.md)
+- [Proteinrik jordgubbsmousse](https://proteinfrukost.se/recept/proteinrik-jordgubbsmousse.md)
 - [Proteinrik kladdkaka](https://proteinfrukost.se/recept/proteinrik-kladdkaka.md)
 - [Proteinrik köttfärsgryta med keso](https://proteinfrukost.se/recept/proteinrik-kottfarsgryta.md)
 - [Proteinrik kycklinggryta med kvarg](https://proteinfrukost.se/recept/proteinrik-kycklinggryta-kvarg.md)
 - [Proteinrik kycklingwok med cashew](https://proteinfrukost.se/recept/proteinrik-kycklingwok.md)
 - [Proteinrik lax i ugn med keso och dill](https://proteinfrukost.se/recept/proteinrik-lax-keso.md)
+- [Proteinrik oreo-mousse](https://proteinfrukost.se/recept/proteinrik-oreo-mousse.md)
 - [Proteinrik smoothie med proteinpulver](https://proteinfrukost.se/recept/proteinrik-smoothie.md)
+- [Proteinrik tacogryta med köttfärs](https://proteinfrukost.se/recept/proteinrik-tacogryta.md)
 - [Proteinrik tonfiskpasta med keso](https://proteinfrukost.se/recept/proteinrik-tonfiskpasta.md)
 - [Proteinrik torskgryta med keso och dill](https://proteinfrukost.se/recept/proteinrik-torsk-keso.md)
 - [Proteinrik ugnsgröt med äpple och kanel](https://proteinfrukost.se/recept/proteinrik-ugnsgrot.md)
 - [Proteinrik vegansk frukost med sojagyoghurt och hampafrön](https://proteinfrukost.se/recept/proteinrik-vegansk-frukost.md)
 - [Proteinrik vit chokladmousse med hallon](https://proteinfrukost.se/recept/proteinrik-vitchokladmousse.md)
 - [Proteinrika kesosticks med örter](https://proteinfrukost.se/recept/proteinrika-kesosticks.md)
+- [Proteinrikt grötbröd](https://proteinfrukost.se/recept/proteinrikt-grotbrod.md)
 - [Kesoröra på knäcke – proteinrikt kvällsmål](https://proteinfrukost.se/recept/proteinrikt-kvallsmall.md)
 - [Proteinrutor med havregryn och choklad](https://proteinfrukost.se/recept/proteinrutor-choklad.md)
 - [Proteinvåfflor med kvarg](https://proteinfrukost.se/recept/proteinvafflor.md)
@@ -109,17 +119,6 @@ Proteinfrukost.se samlar enkla, beprövade recept med högt proteininnehåll. Va
 - [Proteinrik vegetarisk böngryta](https://proteinfrukost.se/recept/vegetarisk-bongryta-protein.md)
 
 ## Om sajten
-- [Om Proteinfrukost.se](https://proteinfrukost.se/om): Vad sajten är, hur recepten tas fram och hur proteinet per portion räknas.
 - [Alla recept (översikt)](https://proteinfrukost.se/alla-recept.md)
 - [Integritetspolicy](https://proteinfrukost.se/integritetspolicy)
 - [Kontakt](mailto:hej@proteinfrukost.se)
-
-## Fakta
-- Namn: Proteinfrukost.se
-- Typ: svensk receptsajt med proteinrika frukostrecept
-- Språk: svenska (sv-SE)
-- Innehåll: recept med ingredienser, tillagningstid, näringsvärden och gram protein per portion
-- Proteinkällor: ägg, kvarg, keso, grekisk yoghurt och proteinpulver
-- Pris: gratis, ingen registrering krävs
-- Kontakt: hej@proteinfrukost.se
-

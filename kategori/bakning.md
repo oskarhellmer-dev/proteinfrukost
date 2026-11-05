@@ -23,7 +23,7 @@ Proteinbröd passar utmärkt som bas i frukosten eller mellanmålet, medan muffi
 Förvara proteinbakverk i kylen och värm dem lätt före servering — de blir saftigare och smakar mer då. Bröd kan med fördel skivas och frysas in direkt, så har du färdiga skivor att rosta.
 
 ## Recept i kategorin
-- [Proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod.md)
+- [Kesobröd – proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod.md)
 - [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins.md)
 - [Proteinbröd med kvarg och frön](https://proteinfrukost.se/recept/proteinbrod-kvarg.md)
 - [Proteinmuffins med blåbär](https://proteinfrukost.se/recept/proteinmuffins-blabar.md)
@@ -33,6 +33,8 @@ Förvara proteinbakverk i kylen och värm dem lätt före servering — de blir 
 - [Proteinbröd i airfryer](https://proteinfrukost.se/recept/proteinbrod-airfryer.md)
 - [Proteinmuffins med choklad](https://proteinfrukost.se/recept/proteinmuffins-choklad.md)
 - [Frukostmuffins med kvarg](https://proteinfrukost.se/recept/frukostmuffins-kvarg.md)
-- [Proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod-keso.md)
+- [Kesobröd – proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod-keso.md)
+- [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins-banan.md)
+- [Proteinrikt grötbröd](https://proteinfrukost.se/recept/proteinrikt-grotbrod.md)
 
 Källa: https://proteinfrukost.se/kategori/bakning

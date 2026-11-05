@@ -36,5 +36,7 @@ Se bara sötsakerna som ett komplement — basen av dagen gör du bäst med ett 
 - [Proteinjordgubbsglass med vit choklad](https://proteinfrukost.se/recept/proteinjordgubbsglass.md)
 - [Proteinrik vit chokladmousse med hallon](https://proteinfrukost.se/recept/proteinrik-vitchokladmousse.md)
 - [Proteinrik citronmousse med keso](https://proteinfrukost.se/recept/proteinrik-citronmousse-keso.md)
+- [Proteinrik oreo-mousse](https://proteinfrukost.se/recept/proteinrik-oreo-mousse.md)
+- [Proteinrik jordgubbsmousse](https://proteinfrukost.se/recept/proteinrik-jordgubbsmousse.md)
 
 Källa: https://proteinfrukost.se/kategori/sott

@@ -34,5 +34,6 @@ Här samlar vi alla frukostrecept på sajten: pannkakor, gröt, omelett, yoghurt
 - [Proteinrik deff-frukost](https://proteinfrukost.se/recept/proteinrik-deff-frukost.md)
 - [Kvargfrukost med chiafrön och bär](https://proteinfrukost.se/recept/kvargfrukost-chiafron.md)
 - [Proteinrik frukost utan mjölkprodukter](https://proteinfrukost.se/recept/proteinrik-frukost-mjolkfri.md)
+- [Proteinrik frukost utan kolhydrater](https://proteinfrukost.se/recept/proteinrik-frukost-utan-kolhydrater.md)
 
 Källa: https://proteinfrukost.se/kategori/frukost

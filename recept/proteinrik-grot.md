@@ -45,4 +45,8 @@ Ja, kör på full effekt 2 minuter, rör om och kör 1 minut till.
 
 Ca 24 gram per portion med kvarg.
 
+**Går det att göra havregrynsgröt med kvarg?**
+
+Ja. Rör ner kvargen först när gröten kokat klart och grytan är av värmen — då behåller kvargen sin krämighet. Cirka 11 g protein per 100 g gör gröten betydligt mer mättande.
+
 Källa: https://proteinfrukost.se/recept/proteinrik-grot

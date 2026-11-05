@@ -46,4 +46,8 @@ Ja, ta bort pulvret och öka kvargen till 2 dl.
 
 Ca 30 gram med proteinpulver.
 
+**Vad är en proteinsmoothie?**
+
+En smoothie med en proteinkälla utöver frukt och bär — oftast proteinpulver, kvarg eller keso. Den här ger 30 g protein per portion och är klar på fem minuter.
+
 Källa: https://proteinfrukost.se/recept/protein-smoothie
