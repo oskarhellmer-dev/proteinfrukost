@@ -1,11 +1,11 @@
-# Proteinbröd med keso
+# Kesobröd – proteinbröd med keso
 
-Ett saftigt, tätt bröd med keso som ger både protein och fukt – bakat utan jäst och skivat på minuten.
+Ett saftigt, tätt kesobröd bakat med keso som ger både protein och fukt – utan jäst och skivat på minuten.
 
 **Protein per skiva:** 12 g · **Total tid:** 40 min · **Skivor:** 12 · **kcal/skiva:** 120
 
 ## Om receptet
-Det här brödet bakas på keso i stället för jäst och blir förvånansvärt saftigt och tätt. Keson ger fukt och protein, äggen binder och havregrynen tillsammans med en liten mängd mjöl ger struktur utan att brödet blir tungt. Kryddat med salt och gärna frön passar det lika bra till frukostmackan som till kvällsmålet. Eftersom det inte kräver jäsning går det snabbt att baka – blanda, häll i formen och in i ugnen. Skivorna håller sig mjuka flera dagar och går utmärkt att frysa in i förväg för att alltid ha frukost redo.
+Det här kesobrödet bakas på keso i stället för jäst och blir förvånansvärt saftigt och tätt. Keson ger fukt och protein, äggen binder och havregrynen tillsammans med en liten mängd mjöl ger struktur utan att brödet blir tungt. Kryddat med salt och gärna frön passar det lika bra till frukostmackan som till kvällsmålet. Eftersom det inte kräver jäsning går det snabbt att baka – blanda, häll i formen och in i ugnen. Skivorna håller sig mjuka flera dagar och går utmärkt att frysa in i förväg för att alltid ha frukost redo.
 
 ## Ingredienser
 - 250 g keso
