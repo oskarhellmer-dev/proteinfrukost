@@ -1,3 +1,6 @@
+/* Proteinfrukost.se — meny, scroll-avslöjande, aktiv sida, hoppa-till-innehåll */
+
+/* --- Meny (mobil) --- */
 document.addEventListener('click',function(e){
   var btn=e.target.closest('.menu-btn');
   var ul=document.querySelector('.nav ul');
@@ -6,6 +9,51 @@ document.addEventListener('click',function(e){
   if(ul.classList.contains('open') && !e.target.closest('.nav')){ul.classList.remove('open');}
 });
 window.addEventListener('resize',function(){var ul=document.querySelector('.nav ul');if(ul&&window.innerWidth>820)ul.classList.remove('open');});
+
+/* --- Förbättringar som kräver JS (progressiv förbättring) --- */
+(function(){
+  function ready(fn){
+    if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fn);
+    else fn();
+  }
+
+  ready(function(){
+    /* Hoppa till innehåll */
+    var main=document.querySelector('main');
+    if(main && !document.querySelector('.skip-link')){
+      if(!main.id)main.id='main';
+      var a=document.createElement('a');
+      a.className='skip-link';a.href='#'+main.id;a.textContent='Hoppa till innehållet';
+      document.body.insertBefore(a,document.body.firstChild);
+    }
+
+    /* Aktiv sida i menyn */
+    var path=location.pathname.replace(/\/$/,'')||'/';
+    document.querySelectorAll('.nav ul a').forEach(function(l){
+      var href=l.getAttribute('href');
+      if(!href)return;
+      var h=href.replace(/\/$/,'')||'/';
+      if(h!=='/' && (path===h || path.indexOf(h+'/')===0))l.classList.add('active');
+    });
+
+    /* Scroll-avslöjande */
+    var reduce=window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var targets=document.querySelectorAll('main section, main .card, main .cat, main .facts');
+    if(reduce || !('IntersectionObserver' in window)){
+      return;
+    }
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);}
+      });
+    },{rootMargin:'0px 0px -8% 0px',threshold:.06});
+    targets.forEach(function(el,i){
+      el.classList.add('reveal');
+      el.style.transitionDelay=Math.min(i%6*60,300)+'ms';
+      io.observe(el);
+    });
+  });
+})();
 
 /* Nyhetsbrev – levererar ALLTID till proteinfrukost.se:s EGEN adress.
    Först: FormSubmit (tyst, om det funkar). Annars: färdigifyllt mail i besökarens
