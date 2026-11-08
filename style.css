@@ -367,3 +367,15 @@ footer .copy a:hover{color:#fff}
 
 /* --- Artikel-sidans överrubrik får lite luft --- */
 .article>.tag{display:block;margin-bottom:10px}
+
+/* --- Mobil: sökfältet alltid synligt i toppbaren, menyn fälls ut under --- */
+.nav{position:relative}
+@media(max-width:820px){
+  .nav{flex-wrap:wrap;height:auto;padding:10px 12px;gap:10px}
+  .logo{order:1}
+  .menu-btn{order:2;margin-left:auto;line-height:1}
+  .search{display:flex;order:3;flex-basis:100%}
+  .search input{width:100%;padding:11px 13px;font-size:1rem}
+  .nav ul{top:calc(100% + 8px);left:0;right:0}
+  .nav ul li{padding:0}
+}

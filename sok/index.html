@@ -5,7 +5,7 @@
 <meta name="p:domain_verify" content="285e58acbe044101080dfd1ba8a8080c">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sök proteinrika recept | Proteinfrukost.se</title>
-<meta name="description" content="Sök bland 44 proteinrika recept på Proteinfrukost.se — pannkakor, gröt, smoothies, mellanmål och bakning. Filtrera på proteinpulver, kvarg eller choklad.">
+<meta name="description" content="Sök bland 94 proteinrika recept på Proteinfrukost.se — pannkakor, gröt, smoothies, mellanmål och bakning. Filtrera på proteinpulver, kvarg eller choklad.">
 <link rel="canonical" href="https://proteinfrukost.se/sok">
 <link rel="stylesheet" href="/style.css?v=3">
 <link rel="icon" href="/favicon.ico" sizes="any">
@@ -16,9 +16,9 @@
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:site_name" content="Proteinfrukost.se">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","@id":"https://proteinfrukost.se/sok#webpage","url":"https://proteinfrukost.se/sok","name":"Sök recept | Proteinfrukost.se","description":"Sök bland 44 proteinrika recept på Proteinfrukost.se — pannkakor, gröt, smoothies, mellanmål och bakning. Filtrera på proteinpulver, kvarg eller choklad.","inLanguage":"sv-SE","isPartOf":{"@type":"WebSite","@id":"https://proteinfrukost.se/#website","url":"https://proteinfrukost.se","name":"Proteinfrukost.se"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://proteinfrukost.se/sok?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","@id":"https://proteinfrukost.se/sok#webpage","url":"https://proteinfrukost.se/sok","name":"Sök recept | Proteinfrukost.se","description":"Sök bland 94 proteinrika recept på Proteinfrukost.se — pannkakor, gröt, smoothies, mellanmål och bakning. Filtrera på proteinpulver, kvarg eller choklad.","inLanguage":"sv-SE","isPartOf":{"@type":"WebSite","@id":"https://proteinfrukost.se/#website","url":"https://proteinfrukost.se","name":"Proteinfrukost.se"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://proteinfrukost.se/sok?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Hem","item":"https://proteinfrukost.se/"},{"@type":"ListItem","position":2,"name":"Sök","item":"https://proteinfrukost.se/sok"}]}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Kan jag söka på en ingrediens jag har hemma?","acceptedAnswer":{"@type":"Answer","text":"Ja. Sök på enskilda ingredienser som kvarg, keso, havregryn, banan eller choklad — sökfältet matchar både titlar, kategorier och nyckelord, så du får upp alla recept där ingrediensen ingår."}},{"@type":"Question","name":"Hur många proteinrika recept finns det?","acceptedAnswer":{"@type":"Answer","text":"Sajten samlar 44 recept fördelade på pannkakor, gröt, smoothies, mellanmål, bakning och frukost. Nya recept läggs till löpande och dyker upp direkt i söken."}},{"@type":"Question","name":"Finns det recept utan proteinpulver?","acceptedAnswer":{"@type":"Answer","text":"Absolut. Flera recept bygger proteinet på kvarg, keso, ägg och grekisk yoghurt i stället för pulver — sök på «utan proteinpulver» eller bläddra i kategorin Frukost."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Kan jag söka på en ingrediens jag har hemma?","acceptedAnswer":{"@type":"Answer","text":"Ja. Sök på enskilda ingredienser som kvarg, keso, havregryn, banan eller choklad — sökfältet matchar både titlar, kategorier och nyckelord, så du får upp alla recept där ingrediensen ingår."}},{"@type":"Question","name":"Hur många proteinrika recept finns det?","acceptedAnswer":{"@type":"Answer","text":"Sajten samlar 94 recept fördelade på pannkakor, gröt, smoothies, mellanmål, bakning och frukost. Nya recept läggs till löpande och dyker upp direkt i söken."}},{"@type":"Question","name":"Finns det recept utan proteinpulver?","acceptedAnswer":{"@type":"Answer","text":"Absolut. Flera recept bygger proteinet på kvarg, keso, ägg och grekisk yoghurt i stället för pulver — sök på «utan proteinpulver» eller bläddra i kategorin Frukost."}}]}</script>
 </head>
 <body>
 <header>
@@ -43,11 +43,15 @@
   <section style="padding-top:32px">
     <h1 style="font-size:2rem;letter-spacing:-.02em;margin-bottom:8px">Sök recept</h1>
     <p class="sub">Sök bland alla proteinrika frukostar, mellanmål och bakverk.</p>
-    <p><input id="q" type="search" placeholder="T.ex. pannkakor, kvarg, choklad…" aria-label="Sök recept"
-      style="width:100%;max-width:520px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;font-size:1.05rem"></p>
+    <p style="margin-top:16px"><input id="q" type="search" placeholder="Sök recept — t.ex. pannkakor, kvarg, choklad…" aria-label="Sök recept"
+      style="width:100%;max-width:560px;padding:16px 18px;border:1px solid var(--line);border-radius:12px;font-size:1.1rem"></p>
     <p id="count" class="sub" style="margin:8px 0 0"></p>
   </section>
-  <section class="seo-text" style="padding-top:8px;max-width:760px">
+  <section style="padding-top:8px">
+    <div class="grid grid--cat" id="res"></div>
+    <p id="nores" class="sub" hidden style="margin-top:10px">Inga träffar — prova ett annat ord, eller bläddra i <a href="/alla-recept">alla recept</a>.</p>
+  </section>
+  <section class="seo-text" style="padding-top:28px;max-width:760px">
     <h2>Så hittar du rätt proteinrika recept</h2>
     <p>Sökfältet letar samtidigt i receptens titlar, kategorier och nyckelord. Skriv till exempel
     «pannkakor», «kvarg», «choklad» eller «smoothie» — träffarna uppdateras medan du skriver. Vill du
@@ -83,14 +87,13 @@
 
     <h2>Vanliga frågor om sökningen</h2>
     <details><summary>Kan jag söka på en ingrediens jag har hemma?</summary><p>Ja. Sök på enskilda ingredienser som kvarg, keso, havregryn, banan eller choklad — sökfältet matchar både titlar, kategorier och nyckelord, så du får upp alla recept där ingrediensen ingår.</p></details>
-    <details><summary>Hur många proteinrika recept finns det?</summary><p>Sajten samlar 44 recept fördelade på pannkakor, gröt, smoothies, mellanmål, bakning och frukost. Nya recept läggs till löpande och dyker upp direkt i söken.</p></details>
+    <details><summary>Hur många proteinrika recept finns det?</summary><p>Sajten samlar 94 recept fördelade på pannkakor, gröt, smoothies, mellanmål, bakning och frukost. Nya recept läggs till löpande och dyker upp direkt i söken.</p></details>
     <details><summary>Finns det recept utan proteinpulver?</summary><p>Absolut. Flera recept bygger proteinet på kvarg, keso, ägg och grekisk yoghurt i stället för pulver — sök på «utan proteinpulver» eller bläddra i kategorin Frukost.</p></details>
 
   </section>
-  <div class="grid" id="res"></div>
 <script>
 (function(){
-  var idx=[]; var box=document.getElementById('q'); var res=document.getElementById('res'); var cnt=document.getElementById('count');
+  var idx=[]; var box=document.getElementById('q'); var res=document.getElementById('res'); var cnt=document.getElementById('count'); var nores=document.getElementById('nores');
   function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/å/g,'a').replace(/ä/g,'a').replace(/ö/g,'o');}
   function card(r){
     return '<article class="card"><a href="/recept/'+r.slug+'"><picture>'+
@@ -103,6 +106,7 @@
     var n=norm(q); var hits = n ? idx.filter(function(r){return r.sok.indexOf(n)>-1;}) : idx;
     res.innerHTML = hits.slice(0,60).map(card).join('');
     cnt.textContent = n ? (hits.length+' träff'+(hits.length===1?'':'ar')) : ('Visar alla '+idx.length+' recept');
+    if(nores) nores.hidden = hits.length>0;
   }
   fetch('/sok-index.json').then(function(r){return r.json();}).then(function(d){
     idx=d;
