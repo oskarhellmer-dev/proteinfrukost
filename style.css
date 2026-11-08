@@ -429,3 +429,54 @@ footer .copy a:hover{color:#fff}
   .hero h1{font-size:1.8rem}
   .hero p{font-size:1rem}
 }
+
+/* ============================================================
+   RECEPT-INTERAKTION — portionsväljare + avbockning av ingredienser
+   ============================================================ */
+
+/* --- Portionsväljare i faktarutan --- */
+.fact-serv .serv{display:inline-flex;align-items:center;justify-content:center;gap:5px;
+  background:#fff;border:1px solid var(--line);border-radius:var(--r-full);
+  padding:3px 4px;margin-bottom:3px}
+.fact-serv .serv b{display:block;min-width:1.8em;text-align:center;font-size:1.05rem;
+  color:var(--green-dark);font-variant-numeric:tabular-nums;line-height:1}
+.serv-btn{display:inline-flex;align-items:center;justify-content:center;width:27px;height:27px;
+  border:0;border-radius:var(--r-full);background:var(--green);color:#fff;font-family:inherit;
+  font-size:1.05rem;font-weight:700;line-height:1;padding:0;cursor:pointer;
+  transition:background .2s var(--ease),opacity .2s var(--ease)}
+.serv-btn:hover{background:var(--green-dark)}
+.serv-btn:disabled{opacity:.32;cursor:not-allowed}
+.serv-btn:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+
+/* --- Kryssrutor på ingredienserna --- */
+.ing-note{font-size:.85rem;color:var(--muted);margin:-6px 0 14px}
+.ing-list{list-style:none;margin:0 0 20px;padding:0}
+.ing-list .ing{margin:0;border-bottom:1px solid var(--line)}
+.ing-list .ing:first-child{border-top:1px solid var(--line)}
+.ing-list label{display:flex;align-items:flex-start;gap:12px;padding:11px 4px;cursor:pointer;
+  font-size:1rem;line-height:1.5;transition:color .2s var(--ease)}
+.ing-list label:hover{color:var(--green-dark)}
+.ing-list input[type=checkbox]{appearance:none;-webkit-appearance:none;flex:0 0 auto;
+  width:21px;height:21px;margin:2px 0 0;border:2px solid #b9c9bf;border-radius:6px;
+  background:#fff;cursor:pointer;position:relative;
+  transition:background .18s var(--ease),border-color .18s var(--ease)}
+.ing-list input[type=checkbox]:hover{border-color:var(--green)}
+.ing-list input[type=checkbox]:checked{background:var(--green);border-color:var(--green)}
+.ing-list input[type=checkbox]:checked::after{content:"";position:absolute;inset:0;background:#fff;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z'/%3E%3C/svg%3E") center/15px no-repeat;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z'/%3E%3C/svg%3E") center/15px no-repeat}
+.ing-list input[type=checkbox]:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.ing-list .ing-txt{transition:color .2s var(--ease)}
+.ing-list label.done .ing-txt{text-decoration:line-through;color:var(--muted)}
+
+/* --- Utskrift: rena rader, inga knappar --- */
+@media print{
+  .serv-btn{display:none!important}
+  .fact-serv .serv{border:0;background:none;padding:0}
+  .ing-note{display:none}
+  .ing-list .ing,.ing-list .ing:first-child{border:0}
+  .ing-list label{padding:1px 0;gap:8px;font-size:inherit}
+  .ing-list input[type=checkbox]{width:11px;height:11px;border:1px solid #000;border-radius:2px;
+    margin-top:5px;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .ing-list label.done .ing-txt{text-decoration:none;color:#000}
+}

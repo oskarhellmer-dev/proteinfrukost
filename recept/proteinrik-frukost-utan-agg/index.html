@@ -7,7 +7,7 @@
 <title>Proteinrik frukost utan ägg – mättande och enkel</title>
 <meta name="description" content="Proteinrik frukost utan ägg med kvarg, keso, havregryn och chiafrön. 32 g protein per portion — en mättande frukost som blandas på fem minuter.">
 <link rel="canonical" href="https://proteinfrukost.se/recept/proteinrik-frukost-utan-agg">
-<link rel="stylesheet" href="/style.css?v=3">
+<link rel="stylesheet" href="/style.css?v=4">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Recipe",
 "name":"Proteinrik frukost utan ägg",
@@ -98,23 +98,27 @@
     <div class="facts">
       <div class="fact"><b>32 g</b><span>Protein</span></div>
       <div class="fact"><b>5 min</b><span>Total tid</span></div>
-      <div class="fact"><b>2</b><span>Portioner</span></div>
+      <div class="fact fact-serv">
+        <div class="serv"><button class="serv-btn" type="button" data-d="-1" aria-label="Färre portioner">−</button><b data-serv>2</b><button class="serv-btn" type="button" data-d="1" aria-label="Fler portioner">+</button></div>
+        <span>Portioner</span>
+      </div>
       <div class="fact"><b>380</b><span>kcal/port.</span></div>
     </div>
 
     <div class="print-wrap"><button class="btn print-btn" onclick="window.print()">Skriv ut recept</button></div>
 
     <h2>Ingredienser</h2>
-    <ul>
-      <li>2 dl kvarg</li>
-      <li>1 dl keso</li>
-      <li>1 dl havregryn</li>
-      <li>1 msk chiafrön</li>
-      <li>1 dl mjölk</li>
-      <li>1 skopa (30 g) proteinpulver</li>
-      <li>1 dl frysta bär</li>
-      <li>1 msk hackade nötter</li>
-      <li>kanel</li>
+    <p class="ing-note">Kryssa av allt eftersom. Ändra antalet portioner i rutan ovan så räknas mängderna om.</p>
+    <ul class="ing-list" data-serv-base="2">
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2 dl kvarg</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl keso</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl havregryn</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 msk chiafrön</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl mjölk</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 skopa (30 g) proteinpulver</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl frysta bär</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 msk hackade nötter</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">kanel</span></label></li>
     </ul>
 
     <h2>Så gör du</h2>
@@ -178,5 +182,6 @@
   </div>
 </footer>
 <script src="/menu.js" defer></script>
+<script src="/recept.js" defer></script>
 </body>
 </html>

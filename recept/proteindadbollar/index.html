@@ -7,7 +7,7 @@
 <title>Proteindadbollar – veganska med 4 ingredienser</title>
 <meta name="description" content="Veganska proteindadbollar på dadlar, havregryn, jordnötssmör och ärtprotein. Inga konstigheter, ingen ugn – 6 g protein per boll och klara på tio minuter.">
 <link rel="canonical" href="https://proteinfrukost.se/recept/proteindadbollar">
-<link rel="stylesheet" href="/style.css?v=3">
+<link rel="stylesheet" href="/style.css?v=4">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Recipe",
 "name":"Proteindadbollar (veganska)",
@@ -90,21 +90,25 @@
     <div class="facts">
       <div class="fact"><b>6 g</b><span>Protein</span></div>
       <div class="fact"><b>10 min</b><span>Total tid</span></div>
-      <div class="fact"><b>10</b><span>Bollar</span></div>
+      <div class="fact fact-serv">
+        <div class="serv"><button class="serv-btn" type="button" data-d="-1" aria-label="Färre bollar">−</button><b data-serv>10</b><button class="serv-btn" type="button" data-d="1" aria-label="Fler bollar">+</button></div>
+        <span>Bollar</span>
+      </div>
       <div class="fact"><b>110</b><span>kcal/boll</span></div>
     </div>
 
     <div class="print-wrap"><button class="btn print-btn" onclick="window.print()">Skriv ut recept</button></div>
 
     <h2>Ingredienser</h2>
-    <ul>
-      <li>10 urkärnade dadlar</li>
-      <li>1 dl havregryn</li>
-      <li>2 msk jordnötssmör</li>
-      <li>2 msk kakao</li>
-      <li>1 dl ärtprotein</li>
-      <li>1 krm salt</li>
-      <li>kokos eller hackade nötter till rullning</li>
+    <p class="ing-note">Kryssa av allt eftersom. Ändra antalet portioner i rutan ovan så räknas mängderna om.</p>
+    <ul class="ing-list" data-serv-base="10">
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">10 urkärnade dadlar</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl havregryn</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2 msk jordnötssmör</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2 msk kakao</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl ärtprotein</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 krm salt</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">kokos eller hackade nötter till rullning</span></label></li>
     </ul>
 
     <h2>Så gör du</h2>
@@ -167,5 +171,6 @@
   </div>
 </footer>
 <script src="/menu.js" defer></script>
+<script src="/recept.js" defer></script>
 </body>
 </html>

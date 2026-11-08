@@ -7,7 +7,7 @@
 <title>Proteinbröd med kvarg – saftigt och enkelt</title>
 <meta name="description" content="Saftigt proteinbröd med kvarg, havregryn och frön — enkelt att baka. 8 g protein per skiva och perfekt som bas i en proteinrik frukost.">
 <link rel="canonical" href="https://proteinfrukost.se/recept/proteinbrod-kvarg">
-<link rel="stylesheet" href="/style.css?v=3">
+<link rel="stylesheet" href="/style.css?v=4">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Recipe",
 "name":"Proteinbröd med kvarg och frön",
@@ -98,22 +98,26 @@
     <div class="facts">
       <div class="fact"><b>8 g</b><span>Protein</span></div>
       <div class="fact"><b>50 min</b><span>Total tid</span></div>
-      <div class="fact"><b>12</b><span>Skivor</span></div>
+      <div class="fact fact-serv">
+        <div class="serv"><button class="serv-btn" type="button" data-d="-1" aria-label="Färre skivor">−</button><b data-serv>12</b><button class="serv-btn" type="button" data-d="1" aria-label="Fler skivor">+</button></div>
+        <span>Skivor</span>
+      </div>
       <div class="fact"><b>120</b><span>kcal/skiva</span></div>
     </div>
 
     <div class="print-wrap"><button class="btn print-btn" onclick="window.print()">Skriv ut recept</button></div>
 
     <h2>Ingredienser</h2>
-    <ul>
-      <li>3 dl havregryn</li>
-      <li>2,5 dl kvarg</li>
-      <li>3 ägg</li>
-      <li>1 dl mjölk</li>
-      <li>2 tsk bakpulver</li>
-      <li>1 tsk salt</li>
-      <li>1 msk psylliumhusk</li>
-      <li>2 msk solrosfrön</li>
+    <p class="ing-note">Kryssa av allt eftersom. Ändra antalet portioner i rutan ovan så räknas mängderna om.</p>
+    <ul class="ing-list" data-serv-base="12">
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">3 dl havregryn</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2,5 dl kvarg</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">3 ägg</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl mjölk</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2 tsk bakpulver</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 tsk salt</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 msk psylliumhusk</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2 msk solrosfrön</span></label></li>
     </ul>
 
     <h2>Så gör du</h2>
@@ -178,5 +182,6 @@
   </div>
 </footer>
 <script src="/menu.js" defer></script>
+<script src="/recept.js" defer></script>
 </body>
 </html>

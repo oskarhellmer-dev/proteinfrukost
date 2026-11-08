@@ -7,7 +7,7 @@
 <title>Kvargfrukost med chiafrön och bär – 30 g protein</title>
 <meta name="description" content="Krämig kvargfrukost med chiafrön, bär och nötter – 30 g protein på fem minuter. Ett enkelt, mättande frukostrecept som du kan förbereda redan på kvällen.">
 <link rel="canonical" href="https://proteinfrukost.se/recept/kvargfrukost-chiafron">
-<link rel="stylesheet" href="/style.css?v=3">
+<link rel="stylesheet" href="/style.css?v=4">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Recipe",
 "name":"Kvargfrukost med chiafrön och bär",
@@ -90,21 +90,25 @@
     <div class="facts">
       <div class="fact"><b>30 g</b><span>Protein</span></div>
       <div class="fact"><b>5 min</b><span>Total tid</span></div>
-      <div class="fact"><b>1</b><span>Portion</span></div>
+      <div class="fact fact-serv">
+        <div class="serv"><button class="serv-btn" type="button" data-d="-1" aria-label="Färre portion">−</button><b data-serv>1</b><button class="serv-btn" type="button" data-d="1" aria-label="Fler portion">+</button></div>
+        <span>Portion</span>
+      </div>
       <div class="fact"><b>290</b><span>kcal/port.</span></div>
     </div>
 
     <div class="print-wrap"><button class="btn print-btn" onclick="window.print()">Skriv ut recept</button></div>
 
     <h2>Ingredienser</h2>
-    <ul>
-      <li>2 dl kvarg</li>
-      <li>1 dl mjölk</li>
-      <li>1 msk chiafrön</li>
-      <li>1 dl blandade bär</li>
-      <li>1 msk hackade valnötter</li>
-      <li>1 krm kanel</li>
-      <li>1 tsk honung (valfritt)</li>
+    <p class="ing-note">Kryssa av allt eftersom. Ändra antalet portioner i rutan ovan så räknas mängderna om.</p>
+    <ul class="ing-list" data-serv-base="1">
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">2 dl kvarg</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl mjölk</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 msk chiafrön</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 dl blandade bär</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 msk hackade valnötter</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 krm kanel</span></label></li>
+      <li class="ing"><label><input type="checkbox"><span class="ing-txt">1 tsk honung (valfritt)</span></label></li>
     </ul>
 
     <h2>Så gör du</h2>
@@ -167,5 +171,6 @@
   </div>
 </footer>
 <script src="/menu.js" defer></script>
+<script src="/recept.js" defer></script>
 </body>
 </html>
