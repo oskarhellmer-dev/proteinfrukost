@@ -10,6 +10,25 @@ document.addEventListener('click',function(e){
 });
 window.addEventListener('resize',function(){var ul=document.querySelector('.nav ul');if(ul&&window.innerWidth>820)ul.classList.remove('open');});
 
+/* --- Sök-ikon: fäll ut sökfältet --- */
+document.addEventListener('click',function(e){
+  var tog=e.target.closest('.search-toggle');
+  var panel=document.querySelector('.search-panel');
+  if(!panel)return;
+  if(tog){
+    e.preventDefault();
+    var isOpen=panel.hasAttribute('hidden');
+    if(isOpen){panel.removeAttribute('hidden');tog.setAttribute('aria-expanded','true');
+      var i=panel.querySelector('input');if(i)i.focus();}
+    else{panel.setAttribute('hidden','');tog.setAttribute('aria-expanded','false');}
+    return;
+  }
+  if(!panel.hasAttribute('hidden') && !e.target.closest('.search-panel')){
+    panel.setAttribute('hidden','');
+    var t=document.querySelector('.search-toggle');if(t)t.setAttribute('aria-expanded','false');
+  }
+});
+
 /* --- Förbättringar som kräver JS (progressiv förbättring) --- */
 (function(){
   function ready(fn){

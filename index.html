@@ -51,34 +51,38 @@
       <li><a href="/alla-recept">Alla recept</a></li>
       <li><a href="/sok">Sök</a></li>
     </ul></nav>
-    <form class="search" action="/sok" method="get" role="search">
+    <button class="search-toggle" aria-label="Sök recept" aria-expanded="false">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>
+    </button>
+    <button class="menu-btn" aria-label="Meny">&#9776;</button>
+    <form class="search-panel" action="/sok" method="get" role="search" hidden>
       <input type="search" name="q" placeholder="Sök recept…" aria-label="Sök recept">
     </form>
-    <button class="menu-btn" aria-label="Meny">☰</button>
   </div>
 </header>
 
 <main class="wrap">
   <section class="hero">
     <div>
+      <span class="hero-badge">🍓 100% näringsberäknade recept</span>
       <h1>Proteinrik frukost<br>som faktiskt mättar</h1>
-      <p>Enkla recept med högt proteininnehåll — pannkakor, gröt, smoothies och mellanmål. Alla recept visar gram protein per portion, så du vet exakt vad du får i dig.</p>
+      <p>Enkla, proteinrika recept på pannkakor, gröt och smoothies – alltid med exakt gram protein per portion.</p>
       <form class="hero-search" action="/sok" method="get" role="search">
-        <input type="search" name="q" placeholder="Sök recept, t.ex. kvarg, banan, utan proteinpulver…" aria-label="Sök recept">
+        <input type="search" name="q" placeholder="Sök recept, t.ex. kvarg, banan…" aria-label="Sök recept">
         <button class="btn" type="submit">Sök</button>
       </form>
       <div class="chips" aria-label="Snabba val">
+        <a class="chip chip--hot" href="/mest-protein">🔥 30 g+ protein</a>
         <a class="chip" href="/kategori/pannkakor">Pannkakor</a>
         <a class="chip" href="/kategori/grot">Gröt</a>
         <a class="chip" href="/kategori/smoothie">Smoothies</a>
         <a class="chip" href="/kategori/mellanmal">Mellanmål</a>
       </div>
-      <div class="hero-cta">
-        <a class="btn" href="/alla-recept">Utforska alla recept</a>
-        <a class="btn btn-ghost" href="/mest-protein">Högst protein (30 g+)</a>
-      </div>
     </div>
-    <picture><source type="image/webp" srcset="/bilder/frukost-hero-400.webp?v=8 400w, /bilder/frukost-hero-800.webp?v=8 800w, /bilder/frukost-hero-1200.webp?v=8 1200w" sizes="(max-width:820px) 100vw, 400px"><img src="/bilder/frukost-hero.jpg?v=8" alt="Proteinrik frukost med kvarg, färska bär och valnötter" width="1200" height="675" loading="eager" fetchpriority="high" decoding="async"></picture>
+    <div class="hero-media">
+      <picture><source type="image/webp" srcset="/bilder/frukost-hero-400.webp?v=8 400w, /bilder/frukost-hero-800.webp?v=8 800w, /bilder/frukost-hero-1200.webp?v=8 1200w" sizes="(max-width:820px) 100vw, 520px"><img src="/bilder/frukost-hero.jpg?v=8" alt="Proteinrik frukost med kvarg, färska bär och valnötter" width="1200" height="675" loading="eager" fetchpriority="high" decoding="async"></picture>
+      <a class="hero-img-badge" href="/recept/kvargfrukost-med-bar">Kvargfrukost med bär • 30 g protein • 5 min</a>
+    </div>
   </section>
 
   <section>
