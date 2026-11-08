@@ -10,6 +10,7 @@ Samtliga recept på Proteinfrukost.se.
 - [Frukostmuffins med kvarg](https://proteinfrukost.se/recept/frukostmuffins-kvarg.md)
 - [Glutenfria proteinpannkakor – 24 g protein](https://proteinfrukost.se/recept/glutenfria-proteinpannkakor.md)
 - [Grön proteinsmoothie](https://proteinfrukost.se/recept/gron-proteinsmoothie.md)
+- [Hallonbowl med grekisk yoghurt](https://proteinfrukost.se/recept/hallonbowl.md)
 - [Kaseinsmoothie med bär](https://proteinfrukost.se/recept/kaseinsmoothie.md)
 - [Kesomousse med bär](https://proteinfrukost.se/recept/kesomousse.md)
 - [Kvargfrukost med chiafrön och bär](https://proteinfrukost.se/recept/kvargfrukost-chiafron.md)
