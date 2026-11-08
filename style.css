@@ -10,9 +10,9 @@
 
 /* ---------- Design-tokens ---------- */
 :root{
-  --green:#1f7a4d; --green-dark:#155c39;
-  --cream:#fdfaf5; --ink:#1c1c1c; --muted:#5f6b63; --muted-dim:#8fa396;
-  --line:#e6e0d6; --card:#ffffff; --sand:#fdf4e6; --foot:#12261b;
+  --green:#1e5631; --green-dark:#143d24;
+  --cream:#f9f8f3; --ink:#1b1b18; --muted:#5c685f; --muted-dim:#8ea295;
+  --line:#e7e3d8; --card:#ffffff; --sand:#f7f0e2; --foot:#12261b; --tint:#efece6;
   --r-sm:8px; --r:12px; --r-lg:16px; --r-full:999px;
   --max:1200px;
   --ease:cubic-bezier(.22,1,.36,1);
@@ -67,9 +67,7 @@ header{position:sticky;top:0;z-index:50;padding-top:12px;background:transparent;
 
 /* ---------- Hero ---------- */
 .hero{display:grid;grid-template-columns:1.1fr 1fr;gap:48px;align-items:center;padding:64px 0}
-.hero h1{font-size:clamp(2.25rem,1.4rem + 3.2vw,3rem);line-height:1.1;letter-spacing:-.03em;margin-bottom:16px;
-  background:linear-gradient(90deg,#000 0%,#666 100%);
-  -webkit-background-clip:text;background-clip:text;color:transparent}
+.hero h1{font-size:clamp(2.25rem,1.4rem + 3.2vw,3rem);line-height:1.1;letter-spacing:-.03em;margin-bottom:16px;color:var(--ink)}
 .hero p{font-size:1.125rem;color:var(--muted);margin-bottom:24px;max-width:60ch}
 .hero img{border-radius:var(--r-lg);box-shadow:var(--shadow-lg);aspect-ratio:4/3;object-fit:cover}
 
@@ -112,8 +110,8 @@ h2{font-size:1.875rem;letter-spacing:-.02em;margin-bottom:8px}
 .card h3 a{color:var(--ink)}
 .card .meta{display:flex;gap:14px;color:var(--muted);font-size:.875rem;margin-top:8px}
 .card .meta b{color:var(--green-dark)}
-.tag{display:inline-block;background:#e7f3ec;color:var(--green-dark);font-size:.75rem;font-weight:600;
-  padding:3px 10px;border-radius:var(--r-sm);margin-bottom:8px;letter-spacing:.01em}
+.tag{display:inline-block;background:none;color:var(--green);font-size:11px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.09em;padding:0;border-radius:0;margin-bottom:4px}
 
 /* ---------- Artikel ---------- */
 .article{max-width:760px;margin:0 auto}
@@ -256,3 +254,116 @@ footer .copy a:hover{color:#fff}
     transition-duration:.001ms!important;scroll-behavior:auto!important}
   .reveal{opacity:1;transform:none}
 }
+
+/* ============================================================
+   REDESIGN v3 — brutna 1-kolumnsflöden, protein-badge,
+   kompakt kategorigrid, hero-sök, sektionsband (mobil först)
+   ============================================================ */
+
+/* --- Hero: sökfält + filterchips + dubbla CTA --- */
+.hero-search{display:flex;gap:10px;margin:0 0 16px;max-width:520px}
+.hero-search input{flex:1;min-width:0;padding:13px 16px;border:1px solid var(--line);
+  border-radius:var(--r-sm);font-family:inherit;font-size:1rem;background:#fff;color:var(--ink)}
+.hero-search input:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 3px rgba(30,86,49,.15)}
+.hero-search .btn{padding:13px 20px;white-space:nowrap}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px}
+.chip{display:inline-block;border:1px solid var(--line);background:#fff;color:var(--green-dark);
+  font-size:.85rem;font-weight:600;padding:7px 14px;border-radius:var(--r-full);
+  transition:background .3s var(--ease),border-color .3s var(--ease)}
+.chip:hover{background:#eef4ef;border-color:#cddfd2;text-decoration:none}
+.hero-cta{display:flex;flex-wrap:wrap;gap:12px}
+
+/* --- Kategorier: kompakt rutnät (2 kol mobil / 4 kol desktop) --- */
+.cats-compact{grid-template-columns:repeat(2,1fr);gap:16px}
+.cats-compact .cat{background:transparent;border:0;border-radius:0;overflow:visible;
+  display:flex;flex-direction:column;gap:10px}
+.cats-compact .cat:hover{transform:none;box-shadow:none;border-color:transparent}
+.cats-compact .cat picture{display:block;border-radius:14px;overflow:hidden;box-shadow:var(--shadow-sm);
+  transition:box-shadow .4s var(--ease)}
+.cats-compact .cat:hover picture{box-shadow:var(--shadow)}
+.cats-compact .cat img{aspect-ratio:1/1;border-radius:14px}
+.cats-compact .cat .b{padding:0 2px}
+.cats-compact .cat h3{font-size:.95rem;line-height:1.3;margin-bottom:2px}
+.cats-compact .cat p{font-size:.78rem;line-height:1.4}
+@media(min-width:640px){
+  .cats-compact{grid-template-columns:repeat(4,1fr);gap:22px}
+  .cats-compact .cat h3{font-size:1.05rem}
+  .cats-compact .cat p{font-size:.85rem}
+}
+
+/* --- Receptkort: protein-badge + klocka i meta-raden --- */
+.card .b{display:flex;flex-direction:column;flex:1}
+.card .meta{align-items:center;gap:10px;flex-wrap:wrap;margin-top:auto;padding-top:12px;
+  font-variant-numeric:tabular-nums}
+.card .meta span:empty{display:none}
+.card .meta span:first-child{background:var(--green);color:#fff;font-weight:700;
+  font-size:.76rem;line-height:1;padding:5px 11px;border-radius:var(--r-full);white-space:nowrap}
+.card .meta span:last-child{display:inline-flex;align-items:center;gap:5px;font-size:.8rem;
+  font-weight:600;color:var(--muted)}
+.card .meta span:last-child::before{content:"";flex:0 0 auto;width:14px;height:14px;
+  background:currentColor;opacity:.85;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z'/%3E%3C/svg%3E") center/contain no-repeat;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z'/%3E%3C/svg%3E") center/contain no-repeat}
+
+/* --- Sektionsband för visuell kontrast --- */
+.section-tint{background:var(--tint);box-shadow:0 0 0 100vmax var(--tint);
+  clip-path:inset(0 -100vmax);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+
+/* --- Featured-kort + "Mest populär"-badge --- */
+.card--featured{border-radius:var(--r-lg);box-shadow:var(--shadow-sm)}
+.card--featured>a{position:relative;display:block}
+.card--featured .b{padding:20px 20px 22px}
+.card--featured h3{font-size:1.35rem;letter-spacing:-.02em}
+.card--featured .b .lead{margin-top:8px;color:var(--muted);font-size:.95rem}
+.badge-pop{position:absolute;top:12px;left:12px;z-index:2;display:inline-flex;align-items:center;gap:6px;
+  background:var(--green);color:#fff;font-weight:700;font-size:.76rem;letter-spacing:.02em;
+  padding:6px 12px 6px 10px;border-radius:var(--r-full);box-shadow:var(--shadow)}
+.badge-pop::before{content:"";width:13px;height:13px;background:#fff;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z'/%3E%3C/svg%3E") center/contain no-repeat;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z'/%3E%3C/svg%3E") center/contain no-repeat}
+@media(min-width:701px){
+  .card--featured{flex-direction:row;align-items:stretch}
+  .card--featured>a{flex:1.55;min-width:0}
+  .card--featured>a picture{display:block;height:100%}
+  .card--featured>a img{aspect-ratio:auto;height:100%;min-height:300px}
+  .card--featured .b{flex:1;padding:32px 34px;justify-content:center}
+  .card--featured h3{font-size:1.75rem}
+}
+
+/* --- Horisontell swipe-rad (mobil) som blir rutnät på desktop --- */
+.row-scroll{display:grid;grid-auto-flow:column;grid-auto-columns:78%;gap:16px;
+  overflow-x:auto;scroll-snap-type:x mandatory;margin-top:22px;padding:2px 2px 16px;
+  scrollbar-width:thin;scrollbar-color:#cdd6cf transparent}
+.row-scroll>*{scroll-snap-align:start}
+.row-scroll::-webkit-scrollbar{height:8px}
+.row-scroll::-webkit-scrollbar-thumb{background:#cdd6cf;border-radius:99px}
+@media(min-width:641px){
+  .row-scroll{grid-auto-flow:row;grid-auto-columns:auto;
+    grid-template-columns:repeat(auto-fill,minmax(238px,1fr));gap:24px;
+    overflow:visible;padding:0;margin-top:26px}
+}
+
+/* --- Kompakta listrader (mobil) för "Nya recept" + kategorisidor --- */
+.grid--rows,.grid--cat{gap:14px}
+.grid--rows .card,.grid--cat .card{flex-direction:row;align-items:stretch}
+.grid--rows .card>a,.grid--cat .card>a{flex:0 0 96px;width:96px;align-self:stretch}
+.grid--rows .card>a picture,.grid--cat .card>a picture{display:block;height:100%}
+.grid--rows .card>a img,.grid--cat .card>a img{height:100%;aspect-ratio:1/1;object-fit:cover}
+.grid--rows .card .b,.grid--cat .card .b{padding:12px 14px}
+.grid--rows .card h3,.grid--cat .card h3{font-size:1rem;line-height:1.3;margin-bottom:2px}
+.grid--rows .card .meta,.grid--cat .card .meta{padding-top:8px;gap:8px}
+.grid--rows .card .meta span:first-child,.grid--cat .card .meta span:first-child{font-size:.72rem;padding:4px 9px}
+.grid--rows .card .meta span:last-child,.grid--cat .card .meta span:last-child{font-size:.75rem}
+@media(min-width:701px){
+  .grid--rows{grid-template-columns:repeat(2,1fr)}
+  .grid--cat{grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+  .grid--rows .card,.grid--cat .card{flex-direction:column}
+  .grid--rows .card>a,.grid--cat .card>a{flex:0 0 auto;width:100%}
+  .grid--rows .card>a img,.grid--cat .card>a img{aspect-ratio:16/10;height:auto}
+  .grid--rows .card .b,.grid--cat .card .b{padding:18px 20px}
+  .grid--rows .card h3,.grid--cat .card h3{font-size:1.0625rem}
+  .grid--cat .card .meta span:first-child{font-size:.76rem;padding:5px 11px}
+}
+
+/* --- Artikel-sidans överrubrik får lite luft --- */
+.article>.tag{display:block;margin-bottom:10px}
