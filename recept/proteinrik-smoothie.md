@@ -2,15 +2,9 @@
 
 Choklad, banan och jordnötssmör i ett glas — 38 gram protein på fem minuter.
 
-**Protein:** 38 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 490
+**Protein:** 38 g · **Total tid:** 5 min · **kcal/port.:** 490
 
 ## Ingredienser
-- 1 frusen banan
-- 1 skopa (30 g) chokladproteinpulver (whey)
-- 0,5 dl havregryn
-- 2 dl mjölk eller havremjölk
-- 1 msk jordnötssmör
-- 1 dl isbitar
 
 ## Så gör du
 

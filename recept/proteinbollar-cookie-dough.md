@@ -2,18 +2,12 @@
 
 Sega, chokladiga proteinbollar som smakar kladdig cookie dough – inga ugnar, bara godsaker som ger energi.
 
-**Protein:** 8 g · **Total tid:** 15 min · **Bollar:** 12 · **kcal/st.:** 95
+**Protein:** 8 g · **Total tid:** 15 min · **kcal/st.:** 95
 
 ## Om receptet
 De här bollarna är gjorda för dig som älskar kladdig cookie dough men vill ha något nyttigare. Basen är dadlar som ger sötma och seg konsistens, havregryn som bidrar med långsamma kolhydrater och jordnötssmör som binder ihop allt. En skopa vaniljproteinpulver lyfter proteinet, och hackad mörk choklad ger den där äkta cookie dough-känslan. Inga ugnar behövs, bara en matberedare och några minuter av din tid. Perfekta att ha med i väskan, till mellanmålet eller som snabb energi före träning. Förvara dem i kylen så håller de sig i över en vecka.
 
 ## Ingredienser
-- 10 dadlar utan kärna
-- 1 dl havregryn
-- 2 msk jordnötssmör
-- 1 skopa (30 g) vaniljproteinpulver
-- 2 msk mörk choklad, hackad
-- 1 nypa salt
 
 ## Så gör du
 

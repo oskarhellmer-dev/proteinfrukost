@@ -2,20 +2,12 @@
 
 Förbered på fem minuter på kvällen och vakna till en krämig, proteinrik frukost med jordnötssmör.
 
-**Protein:** 30 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 420
+**Protein:** 30 g · **Total tid:** 5 min · **kcal/port.:** 420
 
 ## Om receptet
 Overnight oats är havregryn som får mjukna i kylen över natten, vilket ger en krämig gröt helt utan tillagning. Här blir den extra proteinrik tack vare kvarg och proteinpulver, och jordnötssmöret bidrar med både smak och nyttigt fett som håller dig mätt längre. Chiafröna suger upp vätska och gör konsistensen tjock och len. Förbered två eller tre burkar på söndagen så har du proteinrik frukost hela veckan — bara att lyfta ur kylen på morgonen.
 
 ## Ingredienser
-- 1 dl havregryn
-- 1 dl mjölk
-- 1 dl kvarg
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk jordnötssmör
-- 1 tsk chiafrön
-- 1 tsk honung
-- 1 nypa salt
 
 ## Så gör du
 

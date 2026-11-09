@@ -2,19 +2,12 @@
 
 Mättande proteinbars med bara 90 kcal styck – enkla att göra och perfekta att ta med.
 
-**Protein:** 10 g · **Total tid:** 15 min · **Bars:** 8 · **kcal/bar:** 90
+**Protein:** 10 g · **Total tid:** 15 min · **kcal/bar:** 90
 
 ## Om receptet
 Hemmagjorda proteinbars är både billigare och renare än köpevarianten, och här har vi gjort en riktigt lätt version. Havregryn ger långsamma kolhydrater och fiber, medan proteinpulvret tillsammans med jordnötssmöret lyfter proteinet till 10 gram per bar. Med bara 90 kcal styck passar baren perfekt som mellanmål eller efter träning. Gör en sats i förväg och ha redo i kylen hela veckan. Eftersom baren är kall behöver du ingen ugn, vilket gör den extra snabb att röra ihop. Perfekt att göra en sats på söndagen och ha redo i kylen som ett lätt mellanmål under veckan.
 
 ## Ingredienser
-- 2 dl havregryn
-- 1 skopa (30 g) proteinpulver
-- 1 msk kakao
-- 2 msk jordnötssmör
-- 1 ägg
-- 1 msk honung
-- 1 msk mjölk
 
 ## Så gör du
 

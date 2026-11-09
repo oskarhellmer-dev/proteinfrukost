@@ -2,20 +2,12 @@
 
 Mager torskgryta med 34 gram protein per portion och bara 230 kcal – snabb, fräsch och klar på tjugo minuter.
 
-**Protein:** 34 g · **Total tid:** 20 min · **Portioner:** 4 · **kcal/port.:** 230
+**Protein:** 34 g · **Total tid:** 20 min · **kcal/port.:** 230
 
 ## Om receptet
 Torsk är en av de magraste proteinkällorna som finns och passar därför perfekt när du vill ha mycket protein för lite kalorier. Här sjuds den försiktigt i mjölk så att den håller sig saftig, och keson rörs ner på slutet för krämighet och extra protein. Dill och citron ger en fräsch smak som passar den milda fisken, och haricots vertsen tillför grönsaker och fiber utan många kalorier. Med 34 gram protein för bara 230 kcal per portion är rätten ett utmärkt val både vid viktnedgång och som lätt vardagsmiddag. Den är dessutom klar på bara tjugo minuter.
 
 ## Ingredienser
-- 500 g torskfilé
-- 2 dl keso
-- 1 dl mjölk
-- 1 msk smör
-- 1 msk hackad dill
-- 1 tsk citronsaft
-- 250 g haricots verts
-- salt och vitpeppar
 
 ## Så gör du
 

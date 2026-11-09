@@ -2,18 +2,12 @@
 
 En mättande kvargfrukost med bär och crunch — 30 gram protein på fem minuter.
 
-**Protein:** 30 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 360
+**Protein:** 30 g · **Total tid:** 5 min · **kcal/port.:** 360
 
 ## Om receptet
 Kvarg är en av de mest proteinrika mejeriprodukterna och innehåller kasein, som tas upp långsamt och håller mättnaden uppe i timmar. Genom att blanda kvarg med grekisk yoghurt, färska bär, granola och pumpafrön får du en krämig frukost med 30 gram protein — klar på fem minuter utan tillagning. Den passar perfekt en stressig morgon, och toppningarna kan varieras fritt efter säsong och humör. Granolan ger crunch, bären syra och honungen en mild sötma som balanserar kvargens syrlighet. Vill du göra den ännu mättande, låt den stå i kylen en stund så kvargen blir fast och len.
 
 ## Ingredienser
-- 2 dl kvarg (10 %)
-- 1 dl grekisk yoghurt
-- 1 dl färska bär
-- 3 msk granola
-- 1 msk honung
-- 1 msk pumpafrön
 
 ## Så gör du
 

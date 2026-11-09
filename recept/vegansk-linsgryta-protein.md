@@ -2,23 +2,12 @@
 
 Krämig linsgryta med 21 gram protein per portion – helt vegansk, full av smak och klar på en halvtimme.
 
-**Protein:** 21 g · **Total tid:** 30 min · **Portioner:** 4 · **kcal/port.:** 320
+**Protein:** 21 g · **Total tid:** 30 min · **kcal/port.:** 320
 
 ## Om receptet
 Den här linsgrytan visar att vegansk mat kan vara både proteinrik och riktigt mättande. Röda linser och kikärter ger en växtbaserad proteinkälla, medan kokosmjölken står för krämighet och en mild, rund sötma. Curry, ingefära och vitlök ger värme, och den färska spenaten som vänds ner på slutet bidrar med järn och fiber. Med 21 gram protein per portion är grytan ett utmärkt val även för dig som tränar och vill få in protein utan animaliska produkter. Den är enkel att laga i stor sats och håller sig flera dagar i kylen.
 
 ## Ingredienser
-- 2 dl röda linser
-- 1 burk kikärter (400 g)
-- 1 burk krossade tomater (400 g)
-- 2 dl kokosmjölk
-- 1 gul lök
-- 2 vitlöksklyftor
-- 1 msk riven ingefära
-- 1 msk olja
-- 1 msk curry
-- 100 g färsk spenat
-- salt och svartpeppar
 
 ## Så gör du
 

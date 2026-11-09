@@ -2,18 +2,12 @@
 
 Fluffig proteinomelett med keso — 26 g protein på tio minuter.
 
-**Protein:** 26 g · **Total tid:** 10 min · **Portioner:** 1 portion · **kcal/port.:** 320 kcal
+**Protein:** 26 g · **Total tid:** 10 min · **kcal/port.:** 320 kcal
 
 ## Om receptet
 Ägg är en av de mest kompletta proteinkällorna och innehåller alla essentiella aminosyror kroppen behöver. Tillsammans med keso lyfter omeletten till hela 26 gram protein. Keson gör dessutom omeletten krämig inuti och bidrar med kasein, ett långsamt protein som håller mättnaden uppe i timmar. En proteinomelett är därför en av de mest mättande frukostar du kan göra — och den är klar på tio minuter.
 
 ## Ingredienser
-- 3 ägg
-- 1 dl keso
-- 1 näve spenat
-- 1 tomat
-- 1 msk riven ost
-- Salt och peppar
 
 ## Så gör du
 

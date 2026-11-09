@@ -2,18 +2,12 @@
 
 En lyxig, fluffig vit chokladmousse som är full av protein – gjord på kvarg, proteinpulver och en klick vispgrädde, med färska hallon.
 
-**Protein:** 24 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 280
+**Protein:** 24 g · **Total tid:** 10 min · **kcal/port.:** 280
 
 ## Om receptet
 Den här moussen bygger på den vedertagna metoden att mixa en slät kvarg- eller kesobas och sedan vända ner vispad grädde sist, vilket ger en lätt och fluffig textur helt utan gelé eller ägg. Vit chokladproteinpulver ger både sötma och smak, medan vaniljextraktet rundar av. Hallonen tillför en frisk syra som matchar den söta chokladen perfekt och gör efterrätten mindre sötsliskig. Trots att den känns lyxig ligger den bara på 280 kalorier per portion och 24 gram protein. En enkel efterrätt att svänga ihop när sötsuget sätter in.
 
 ## Ingredienser
-- 2 dl kvarg
-- 1 skopa (30 g) vit chokladproteinpulver
-- 1 dl vispgrädde
-- 1 tsk vaniljextrakt
-- 1 dl färska hallon
-- 1 ruta mörk choklad till garnering
 
 ## Så gör du
 

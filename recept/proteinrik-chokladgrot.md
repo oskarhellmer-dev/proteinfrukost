@@ -2,15 +2,9 @@
 
 Krämig, varm och chokladig — med 37 gram protein i en portion. Klar på åtta minuter och en perfekt start på dagen.
 
-**Protein:** 37 g · **Total tid:** 8 min · **Portion:** 1 · **kcal/port.:** 365
+**Protein:** 37 g · **Total tid:** 8 min · **kcal/port.:** 365
 
 ## Ingredienser
-- 1 dl havregryn
-- 2 dl mjölk
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk kakao
-- ½ banan (topping)
-- 1 tsk honung (valfritt)
 
 ## Så gör du
 

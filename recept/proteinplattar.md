@@ -2,19 +2,12 @@
 
 Tunna svenska plättar med hela 22 gram protein per portion — lika goda som traditionella, men betydligt mer mättande.
 
-**Protein:** 22 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 310
+**Protein:** 22 g · **Total tid:** 15 min · **kcal/port.:** 310
 
 ## Om receptet
 Plättar är den svenska klassikern i miniatyr, och här har vi gjort dem proteinrika utan att offra den tunna, mjuka konsistensen. Havregrynen ger fibrer och en naturligt nötig smak, medan proteinpulvret och äggen lyfter proteinet till 22 gram per portion. Hemligheten är att mixa smeten slät och låta den vila — då sväller havregrynen och plättarna blir lätta att vända. Servera med lingonsylt och bär för den klassiska smakkombinationen, eller variera efter säsong.
 
 ## Ingredienser
-- 2 ägg
-- 1,5 dl mjölk
-- 1 dl havregryn
-- 1 skopa (30 g) vaniljproteinpulver
-- 1 tsk bakpulver
-- 1 krm salt
-- smör till stekning
 
 ## Så gör du
 

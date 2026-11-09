@@ -2,18 +2,12 @@
 
 Snabba proteinbollar med dadlar och kakao — perfekt mellanmål att ta med.
 
-**Protein:** 6 g · **Total tid:** 15 min · **Portioner:** 12 bollar · **kcal/port.:** 95 kcal
+**Protein:** 6 g · **Total tid:** 15 min · **kcal/port.:** 95 kcal
 
 ## Om receptet
 Dadlar ger naturlig sötma och energi medan havregryn, kakao och proteinpulver lyfter proteinet. Det gör proteinbollarna till ett smart mellanmål när sötsuget sätter in — du får både något gott och något som mättar, utan att energin kraschar en halvtimme senare. Gör en sats och ha i kylen hela veckan, perfekt att ta med i väskan.
 
 ## Ingredienser
-- 10 dadlar
-- 1 dl havregryn
-- 1 skopa (30 g) proteinpulver
-- 2 msk kakao
-- 2 msk jordnötssmör
-- 1 msk vatten
 
 ## Så gör du
 

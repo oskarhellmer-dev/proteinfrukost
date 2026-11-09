@@ -2,22 +2,12 @@
 
 Färgstark kycklingwok med 34 gram protein per portion – fräsch, snabb och full av grönsaker.
 
-**Protein:** 34 g · **Total tid:** 25 min · **Portioner:** 4 · **kcal/port.:** 330
+**Protein:** 34 g · **Total tid:** 25 min · **kcal/port.:** 330
 
 ## Om receptet
 En wok är det snabbaste sättet att få i sig en proteinrik middag med mycket grönsaker. Kycklingen står för den magra proteinkällan, medan paprikan, moroten och broccolin bidrar med fiber, vitaminer och färg. Cashewnötterna ger crunch och nyttiga fetter, och soja, ingefära och vitlök bygger en asiatisk smakprofil utan krångel. Med 34 gram protein per portion och bara 330 kalorier är rätten både lätt och mättande. Den passar utmärkt när du vill ha något nyttigt men snabbt på bordet, och går enkelt att variera efter vilka grönsaker som finns hemma.
 
 ## Ingredienser
-- 500 g kycklingfilé
-- 1 msk rapsolja
-- 1 tsk sesamolja
-- 1 röd paprika
-- 1 morot
-- 1 broccolibukett
-- 2 msk cashewnötter
-- 2 msk soja
-- 1 msk riven ingefära
-- 2 vitlöksklyftor
 
 ## Så gör du
 

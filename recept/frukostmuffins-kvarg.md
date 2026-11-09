@@ -2,20 +2,12 @@
 
 Saftiga muffins med kvarg och banan som gör morgonen enkel – baka en plåt och ha frukost hela veckan.
 
-**Protein:** 9 g · **Total tid:** 30 min · **Muffins:** 12 · **kcal/st.:** 150
+**Protein:** 9 g · **Total tid:** 30 min · **kcal/st.:** 150
 
 ## Om receptet
 Frukostmuffins är lösningen för stressiga morgnar – baka en plåt på söndagen och ha frukost hela veckan. Kvargen gör muffinsen saftiga och proteinrika, medan banan och honung ger naturlig sötma utan att det känns som en sötsak. Havregryn och en liten mängd mjöl håller dem mättande, och proportionerna är anpassade så att de reser sig fint utan att torka. De smakar bäst nybakade men håller sig mjuka flera dagar i en burk. En muffins räcker långt till frukost eller som mellanmål före träning och är lätta att ta med i väskan.
 
 ## Ingredienser
-- 2 mogna bananer
-- 200 g kvarg
-- 2 ägg
-- 2 dl havregryn
-- 1 dl vetemjöl
-- 1 tsk bakpulver
-- 2 msk honung
-- 1 nypa salt
 
 ## Så gör du
 

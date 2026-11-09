@@ -2,17 +2,12 @@
 
 Svalkande proteinglass på frysta jordgubbar och kvarg – 15 gram protein och ingen glassmaskin behövs.
 
-**Protein:** 15 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 210
+**Protein:** 15 g · **Total tid:** 10 min · **kcal/port.:** 210
 
 ## Om receptet
 Glass behöver varken grädde eller glassmaskin för att bli krämig, och den här varianten bevisar det. Frysta jordgubbar mixas med kvarg och vaniljprotein till en slät, glasslik kräm – precis som den populära nice cream, men med betydligt mer protein. Den hackade vita chokladen ger en lyxig sötma som bryter fint mot jordgubbarnas syra. Med 15 gram protein per portion är det en dessert du kan unna dig utan dåligt samvete. Eftersom jordgubbarna är frysta behöver du inga extra istärningar, och glassen blir färdig på bara några minuter i mixern.
 
 ## Ingredienser
-- 250 g frysta jordgubbar
-- 1,5 dl kvarg
-- 1 skopa (30 g) vaniljproteinpulver
-- 1 msk hackad vit choklad
-- 1 tsk honung (valfritt)
 
 ## Så gör du
 

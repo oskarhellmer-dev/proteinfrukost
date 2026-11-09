@@ -2,19 +2,12 @@
 
 Svenska, tunna pannkakor med krämig kesobas – naturligt proteinrika och alldeles lena i smeten, utan en enda skopa pulver.
 
-**Protein:** 26 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 340
+**Protein:** 26 g · **Total tid:** 15 min · **kcal/port.:** 340
 
 ## Om receptet
 Det här är proteinpannkakor för dig som vill slippa proteinpulver helt. Keso ger både krämighet och en stor del av proteinet, medan äggen binder smeten och havregrynen står för långsamma kolhydrater som håller dig mätt. Receptet bygger på den klassiska svenska pannkaksproportionen tre vätska till två ägg, men mjölken har bytts mot keso för att lyfta proteinet utan att smaken blir tung. Resultatet blir tunna, lena pannkakor som smakar som vanliga svenska pannkakor men med rejält mycket mer protein per portion. Perfekt till helgfrukosten.
 
 ## Ingredienser
-- 250 g keso
-- 2 ägg
-- 1 dl havregryn
-- 0,5 dl mjölk
-- 1 tsk bakpulver
-- 1 nypa salt
-- smör eller olja till stekning
 
 ## Så gör du
 

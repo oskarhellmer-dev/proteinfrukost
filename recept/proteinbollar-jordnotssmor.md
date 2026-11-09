@@ -2,19 +2,12 @@
 
 Snabba proteinbollar med jordnötssmör och dadlar — sex gram protein per boll och perfekta att ta med.
 
-**Protein:** 6 g · **Total tid:** 15 min · **Bollar:** 12 · **kcal/st:** 90
+**Protein:** 6 g · **Total tid:** 15 min · **kcal/st:** 90
 
 ## Om receptet
 Proteinbollar är det enklaste sättet att ha ett proteinrikt mellanmål redo i kylen, och den här varianten med jordnötssmör är extra god. Dadlarna ger naturlig sötma och en seg, god konsistens, medan jordnötssmöret och proteinpulvret lyfter proteinet till 6 gram per boll. Havregrynen bidrar med fibrer som håller mättnaden uppe. Eftersom bollarna varken kräver ugn eller tillsatt socker går de snabbt att göra — perfekt att förbereda en sats på söndagen.
 
 ## Ingredienser
-- 8 färska dadlar
-- 1,5 dl havregryn
-- 2 msk jordnötssmör
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk kakao
-- 1 nypa salt
-- eventuellt 1 msk vatten
 
 ## Så gör du
 

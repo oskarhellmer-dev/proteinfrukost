@@ -2,16 +2,9 @@
 
 Krämig havregröt med kvarg som lyfter proteinet till 24 gram — klar på tio minuter.
 
-**Protein:** 24 g · **Total tid:** 10 min · **Portioner:** 1 portion · **kcal/port.:** 380 kcal
+**Protein:** 24 g · **Total tid:** 10 min · **kcal/port.:** 380 kcal
 
 ## Ingredienser
-- 1 dl havregryn
-- 2 dl mjölk
-- 1 dl kvarg
-- 1 msk chiafrön
-- 1 tsk honung
-- 1 krm salt
-- Topping: bär och nötter
 
 ## Så gör du
 

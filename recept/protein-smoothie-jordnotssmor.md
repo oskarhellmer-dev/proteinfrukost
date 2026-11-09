@@ -2,18 +2,12 @@
 
 Tjock, krämig smoothie som smakar milkshake men innehåller rejält med protein. Färdig på fem minuter.
 
-**Protein:** 21 g · **Total tid:** 5 min · **Portioner:** 2 · **kcal/port.:** 295
+**Protein:** 21 g · **Total tid:** 5 min · **kcal/port.:** 295
 
 ## Om receptet
 Den här smoothien är krämig, mättande och smakar som en milkshake med jordnötssmör. Fryst banan ger en naturligt söt och tjock bas, medan jordnötssmöret bidrar med nyttigt fett och en rund nötsmak. Proteinpulvret och kvargen lyfter proteinet rejält utan att smoothien blir grynig. En beprövad kombination som passar perfekt efter träning eller som en snabb frukost när du har bråttom. Blanda allt på en minut och njut direkt – ju kallare, desto godare. Har du ingen kvarg hemma fungerar grekisk yoghurt precis lika bra.
 
 ## Ingredienser
-- 1 fryst banan
-- 2 msk jordnötssmör
-- 1 skopa (30 g) proteinpulver
-- 1 dl kvarg
-- 2 dl mjölk
-- 1 tsk kakao
 
 ## Så gör du
 

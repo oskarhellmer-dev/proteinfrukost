@@ -2,19 +2,12 @@
 
 Rulla samman en sats proteinbollar i kylen – bananen gör dem söta och mjuka, och jordnötssmöret ger dem den rätta krämigheten.
 
-**Protein:** 7 g · **Total tid:** 15 min · **Bollar:** 10 · **kcal/st:** 120
+**Protein:** 7 g · **Total tid:** 15 min · **kcal/st:** 120
 
 ## Om receptet
 De här proteinbollarna bygger på den klassiska nötbolls-formeln, men i stället för dadlar används mogen banan som både sötning och bindemedel. Det ger en mjuk, mild sötma och gör bollarna lätta att variera. Havregrynen står för långsamma kolhydrater och fibrer, jordnötssmöret för fett och krämighet, och proteinpulvret lyfter proteinet. De behöver varken bakas eller kokas – bara blandas och rullas. Förvara dem i kylen och ta en eller två som mellanmål eller efter träningen när sötsuget smyger sig på.
 
 ## Ingredienser
-- 1 mogen banan
-- 2 dl havregryn
-- 2 msk jordnötssmör
-- 1 skopa (30 g) proteinpulver
-- 1 msk kakao
-- 1 msk honung
-- 1 dl kokosflingor att rulla i
 
 ## Så gör du
 

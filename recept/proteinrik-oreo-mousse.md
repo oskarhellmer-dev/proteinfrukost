@@ -2,18 +2,12 @@
 
 Lyxig mousse med oreo-smak som känns som en efterrätt men levererar rejält med protein.
 
-**Protein:** 26 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 320
+**Protein:** 26 g · **Total tid:** 10 min · **kcal/port.:** 320
 
 ## Om receptet
 En krämig proteinmousse med smak av oreo som känns lyxig men är förvånansvärt nyttig. Keso eller kvarg mixas slät med proteinpulver och kakao, medan en skvätt vispgrädde vänds ner sist för den där fluffiga konsistensen. Krossade oreo-kakor på toppen ger crunch och igenkänning. En beprövad mousse-metod där grädden vänds ner för hand – då behåller moussen luftigheten. Perfekt efterrätt när sötsuget sätter in men du inte vill tumma på proteinet. Gör klart på tio minuter och låt stå kallt före servering så sätter den sig fint.
 
 ## Ingredienser
-- 250 g keso
-- 1 skopa (30 g) proteinpulver vanilj
-- 1 msk kakao
-- 0,5 dl vispgrädde
-- 2 oreo-kakor
-- 1 tsk honung eller sötströ
 
 ## Så gör du
 

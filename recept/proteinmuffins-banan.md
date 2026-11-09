@@ -2,20 +2,12 @@
 
 Saftiga muffins med banan som varken behöver smör eller en massa socker. Naturlig sötma och rejält med protein.
 
-**Protein:** 8 g · **Total tid:** 30 min · **Muffins:** 10 · **kcal/st:** 105
+**Protein:** 8 g · **Total tid:** 30 min · **kcal/st:** 105
 
 ## Om receptet
 Saftiga proteinmuffins med banan som varken behöver smör eller en massa socker. De mogna bananerna ger naturlig sötma och håller muffinsen fuktiga, medan kvarg, ägg och proteinpulver står för proteinet. Havregrynen bidrar med fibrer och en lätt nötig smak. En beprövad bakformel där de blöta ingredienserna blandas för sig och vänds ner i de torra – då slipper du klumpar. Perfekt att baka på söndagen och ha som snabbt mellanmål eller frukost hela veckan. Förvara i kyl eller frys in för längre hållbarhet.
 
 ## Ingredienser
-- 2 mogna bananer
-- 2 ägg
-- 1 dl havregryn
-- 1 skopa (30 g) proteinpulver vanilj
-- 1 dl kvarg
-- 1 tsk bakpulver
-- 1 tsk kanel
-- 2 msk kakao
 
 ## Så gör du
 

@@ -2,19 +2,12 @@
 
 En snabb vardagsmiddag där laxen gräddas med ett krämigt täcke av keso, citron och dill – 40 gram protein och nästan ingen ansträngning.
 
-**Protein:** 40 g · **Total tid:** 25 min · **Portioner:** 2 · **kcal/port.:** 420
+**Protein:** 40 g · **Total tid:** 25 min · **kcal/port.:** 420
 
 ## Om receptet
 Lax är en av de mest proteinrika fiskarna och här kombineras den med keso som gräddas till ett krämigt täcke. Det ger en middag med hela 40 gram protein per portion, trots att den bara innehåller sju ingredienser. Dill, citron och en nypa peppar lyfter smaken utan att rätten blir tung eller kladdig. Metoden att grädda fisken under ett täcke håller den saftig och gör att proteinet från keson följer med i varje tugga. Servera med kokt broccoli för extra fibrer. En snabb vardagsmiddag som tar 25 minuter från start till färdig tallrik.
 
 ## Ingredienser
-- 2 laxfiléer (à ca 150 g)
-- 2 dl keso
-- 1 msk färsk dill
-- 1 msk citronsaft
-- 1 krm salt
-- 1 krm svartpeppar
-- 200 g broccoli
 
 ## Så gör du
 

@@ -2,17 +2,12 @@
 
 Fräsch jordgubbsmousse med kvarg och proteinpulver – lätt, krämig och klar på tio minuter.
 
-**Protein:** 25 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 240
+**Protein:** 25 g · **Total tid:** 10 min · **kcal/port.:** 240
 
 ## Om receptet
 En fräsch och krämig jordgubbsmousse med rejält med protein, gjord på kvarg, jordgubbar och proteinpulver. Kvargen ger moussen en len bas och en naturlig syrlighet som lyfter bärens smak. En skvätt vispad grädde vänds ner sist för att göra den luftig och lyxig. En beprövad mousse-metod där bären mixas släta tillsammans med kvargen. Perfekt sommardessert som känns lätt men ändå mättande, och som innehåller betydligt mer protein än en vanlig efterrätt. Klar på tio minuter och lika god med frysta jordgubbar som med färska, vilket gör den enkel året runt.
 
 ## Ingredienser
-- 200 g jordgubbar
-- 250 g kvarg
-- 1 skopa (30 g) proteinpulver vanilj
-- 0,5 dl vispgrädde
-- 1 tsk honung
 
 ## Så gör du
 

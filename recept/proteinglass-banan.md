@@ -2,18 +2,12 @@
 
 Svalkande proteinglass på fem minuter — frusen banan, kvarg och proteinpulver ger 26 gram protein.
 
-**Protein:** 26 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 300
+**Protein:** 26 g · **Total tid:** 5 min · **kcal/port.:** 300
 
 ## Om receptet
 Proteinglass, eller nice cream, görs på fryst banan som mixas till en slät glasskonsistens utan glassmaskin. Genom att blanda in kvarg och proteinpulver blir den dessutom en riktigt proteinrik efterrätt med 26 gram per portion. Bananen ger naturlig sötma och krämighet, jordnötssmöret en rund smak, och en nypa salt lyfter chokladen. Fryst banan är själva grunden — den ger glasskonsistensen på nolltid och gör att du slipper glassmaskin. Perfekt att göra när sötsuget sätter in på kvällen, eller som återhämtning efter träning när du vill ha något svalkande i stället för en shake.
 
 ## Ingredienser
-- 1 frusen banan (skivad)
-- 1 dl kvarg
-- 1 skopa (30 g) vaniljproteinpulver
-- 2 msk mjölk
-- 1 tsk jordnötssmör
-- 1 nypa salt
 
 ## Så gör du
 

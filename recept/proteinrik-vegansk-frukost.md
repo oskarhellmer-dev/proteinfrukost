@@ -2,19 +2,12 @@
 
 En vegansk frukostbowl med 27 gram protein — krämig sojagyoghurt, hampafrön och jordnötssmör.
 
-**Protein:** 27 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 380
+**Protein:** 27 g · **Total tid:** 5 min · **kcal/port.:** 380
 
 ## Om receptet
 En vegansk frukost behöver inte betyda mindre protein: här kombineras sojagyoghurt, hampafrön, jordnötssmör och chiafrön till en bowl med 27 gram protein. Sojagyoghurten är det veganska mejerialternativet med högst proteinhalt, hampafröna bidrar med komplett protein och nyttiga omega-3-fetter, och jordnötssmöret ger både smak och mättnad. Havregrynen tillför långsamma kolhydrater och fibrer, medan chiafröna suger upp vätska och gör bowlen krämig. Tillsammans blir frukosten sötlagom och riktigt mättande — klar på fem minuter och helt utan animaliska produkter. Välj en osötad sojagyoghurt för lägst sockerinnehåll.
 
 ## Ingredienser
-- 2 dl osötad sojagyoghurt
-- 2 msk hampafrön
-- 1 msk jordnötssmör
-- 2 msk havregryn
-- 1 dl frysta bär
-- 1 tsk chiafrön
-- 1 tsk lönnsirap
 
 ## Så gör du
 

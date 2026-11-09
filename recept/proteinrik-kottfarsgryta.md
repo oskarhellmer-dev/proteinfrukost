@@ -2,22 +2,12 @@
 
 Matig köttfärsgryta med 35 gram protein per portion – keson rörs ner på slutet och gör såsen krämig utan grädde.
 
-**Protein:** 35 g · **Total tid:** 30 min · **Portioner:** 4 · **kcal/port.:** 340
+**Protein:** 35 g · **Total tid:** 30 min · **kcal/port.:** 340
 
 ## Om receptet
 Köttfärsgryta är en riktig vardagsklassiker, och med keso i stället för grädde blir den både proteinrikare och magrare. Nötfärsen ger en fast proteinkälla, medan keson rörs ner på slutet och ger en krämig konsistens utan att såsen känns tung. Krossade tomater, vitlök och oregano bygger en enkel men mustig smak som passar både pasta och zucchini. Med 35 gram protein per portion mättar grytan länge, och den är precis lika god uppvärmd dagen efter. Gör gärna en dubbel sats och frys in i portioner – då har du en färdig proteinrik middag redo de dagar tiden inte räcker till.
 
 ## Ingredienser
-- 500 g nötfärs 10%
-- 1 gul lök
-- 2 vitlöksklyftor
-- 1 msk tomatpuré
-- 1 burk krossade tomater (400 g)
-- 1 dl keso
-- 1 tsk oregano
-- 1 tsk paprikapulver
-- salt och svartpeppar
-- färsk basilika
 
 ## Så gör du
 

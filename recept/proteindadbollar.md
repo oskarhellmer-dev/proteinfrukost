@@ -2,19 +2,12 @@
 
 Matiga veganska bollar på fyra ingredienser, helt utan ugn. Perfekta att ta med som mellanmål.
 
-**Protein:** 6 g · **Total tid:** 10 min · **Bollar:** 10 · **kcal/boll:** 110
+**Protein:** 6 g · **Total tid:** 10 min · **kcal/boll:** 110
 
 ## Om receptet
 Dessa veganska proteindadbollar görs på fyra enkla ingredienser och kräver ingen ugn. Dadlarna fungerar både som sötning och bindemedel, havregrynen ger tugg och ärtproteinet lyfter proteinhalten. Jordnötssmöret binder allt samman och ger en rund och nötig smak. Resultatet blir matiga bollar som passar perfekt som mellanmål eller efter träning. En beprövad bas där proportionerna mellan dadlar och havregryn gör bollarna lagom fasta – inte kladdiga och inte torra. Förvara dem i kylen och ta med dig några i väskan när du är på språng.
 
 ## Ingredienser
-- 10 urkärnade dadlar
-- 1 dl havregryn
-- 2 msk jordnötssmör
-- 2 msk kakao
-- 1 dl ärtprotein
-- 1 krm salt
-- kokos eller hackade nötter till rullning
 
 ## Så gör du
 

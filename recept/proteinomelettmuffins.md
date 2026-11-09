@@ -2,20 +2,12 @@
 
 Matiga omelettmuffins med åtta gram protein styck — perfekta som proteinrikt mellanmål eller snabb frukost.
 
-**Protein:** 8 g · **Total tid:** 30 min · **Muffins:** 12 · **kcal/st:** 95
+**Protein:** 8 g · **Total tid:** 30 min · **kcal/st:** 95
 
 ## Om receptet
 Omelettmuffins är ett smart sätt att göra ägg och grönsaker till ett praktiskt mellanmål som går att ta med. Keso och mjölk gör omeletten krämig och bidrar med protein, medan paprikan och spenaten ger smak och näring. Med 8 gram protein per muffins blir det här ett mättande mellanmål som passar lika bra till frukost som efter träning. Grädda en plåt på helgen och ha färdiga muffins i kylen hela veckan — enkelt, gott och proteinrikt.
 
 ## Ingredienser
-- 6 ägg
-- 1,5 dl keso
-- 1 dl mjölk
-- 1 röd paprika
-- 1 näve färsk spenat
-- 2 msk riven ost
-- 1 tsk salt
-- svartpeppar
 
 ## Så gör du
 

@@ -2,20 +2,12 @@
 
 Krispigt hembakat fröknäcke med 14 gram protein per portion — perfekt att bre keso på och ta med.
 
-**Protein:** 14 g · **Total tid:** 60 min · **Portioner:** 6 · **kcal/port.:** 280
+**Protein:** 14 g · **Total tid:** 60 min · **kcal/port.:** 280
 
 ## Om receptet
 Fröknäcke är en svensk klassiker som är både gott och nyttigt, och här har vi gjort en variant som verkligen mättar. Fröna bidrar med protein, fibrer och nyttiga fetter, medan psylliumhusk håller ihop knäcket utan mjöl. Med en klick keso på toppen landar varje portion på 14 gram protein — perfekt som mellanmål eller som bas till en lätt frukost. Eftersom knäcket håller i flera veckor i en tät burk är det perfekt att baka en stor sats på helgen.
 
 ## Ingredienser
-- 1 dl sesamfrön
-- 1 dl linfrön
-- 1 dl solrosfrön
-- 1 dl pumpafrön
-- 2 msk psylliumhusk
-- 1 tsk salt
-- 3 dl vatten
-- keso till servering
 
 ## Så gör du
 

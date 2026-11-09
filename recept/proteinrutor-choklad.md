@@ -2,20 +2,12 @@
 
 Baka en plåt proteinrika rutor på söndagen och ha mättande mellanmål hela veckan.
 
-**Protein:** 9 g · **Total tid:** 30 min · **Rutor:** 12 · **kcal/ruta:** 165
+**Protein:** 9 g · **Total tid:** 30 min · **kcal/ruta:** 165
 
 ## Om receptet
 Proteinrutor är ett smart meal prep-mellanmål: havregryn och banan ger energi och fibrer medan kvarg, jordnötssmör och proteinpulver lyfter proteinet. Per ruta landar du på nio gram protein, vilket gör dem betydligt mer mättande än vanliga flapjacks. De bakas i en form, skärs i rutor och förvaras enkelt i kylen hela veckan. Perfekta att ta med till jobbet, i väskan eller att äta efter träningen när du vill ha något gott som samtidigt står sig länge.
 
 ## Ingredienser
-- 3 dl havregryn
-- 2 mogna bananer
-- 1 dl kvarg
-- 1 skopa (30 g) chokladproteinpulver
-- 2 msk jordnötssmör
-- 2 msk honung
-- 1 msk kakao
-- 50 g mörk choklad (till topping)
 
 ## Så gör du
 

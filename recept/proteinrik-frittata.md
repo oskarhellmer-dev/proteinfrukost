@@ -2,21 +2,12 @@
 
 Ugnsbakad frittata med 26 gram protein per portion – enkel att röra ihop och lika god varm som kall.
 
-**Protein:** 26 g · **Total tid:** 30 min · **Portioner:** 4 · **kcal/port.:** 270
+**Protein:** 26 g · **Total tid:** 30 min · **kcal/port.:** 270
 
 ## Om receptet
 En frittata är egentligen en öppen omelett som gräddas i ugnen, och den är ett smart sätt att göra middag på ägg och grönsaker. Här ger äggen en komplett proteinkälla, medan keson lyfter proteinet ytterligare och bidrar med en mild, krämig smak. Spenat, rödlök och paprika fyller ut med grönsaker och fiber, och en gnutta ost på toppen ger en fin yta. Med 26 gram protein per portion är frittatan både mättande och näringsrik, och den fungerar precis lika bra kall dagen efter. Perfekt att skära i bitar och ta med till jobbet eller picknicken.
 
 ## Ingredienser
-- 6 ägg
-- 2 dl keso
-- 100 g färsk spenat
-- 1 rödlök
-- 1 röd paprika
-- 50 g riven ost
-- 1 msk olja
-- 1 tsk torkade örter
-- salt och svartpeppar
 
 ## Så gör du
 

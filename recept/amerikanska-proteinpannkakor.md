@@ -2,17 +2,9 @@
 
 Tjocka, fluffiga pannkakor med riktig diner-känsla — men med 24 gram protein per portion. Bakpulvret och grekisk yoghurt ger höjden.
 
-**Protein:** 24 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 350
+**Protein:** 24 g · **Total tid:** 15 min · **kcal/port.:** 350
 
 ## Ingredienser
-- 1,5 dl havremjöl
-- 1 skopa (30 g) proteinpulver
-- 2 tsk bakpulver
-- 1 nypa salt
-- 1 ägg
-- 1 dl mjölk
-- 1 dl grekisk yoghurt
-- 1 msk smör till stekning
 
 ## Så gör du
 

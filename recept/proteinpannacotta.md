@@ -2,18 +2,12 @@
 
 Silkeslen pannacotta med 16 gram protein per portion — en efterrätt som känns lyxig men är enkel att göra.
 
-**Protein:** 16 g · **Total tid:** 15 min · **Portioner:** 3 · **kcal/port.:** 230
+**Protein:** 16 g · **Total tid:** 15 min · **kcal/port.:** 230
 
 ## Om receptet
 Pannacotta är den italienska klassikern som blivit en given efterrätt även i Sverige, och här har vi gjort en proteinrik version utan att tappa den silkeslena konsistensen. Kvargen och vaniljproteinet ger 16 gram protein per portion, medan vispgrädden står för den krämiga, lyxiga känslan. Nyckeln är att mixa kvargen helt slät och att inte koka grädden — då stelnar gelatinet jämnt och pannacottan blir perfekt. Toppa med färska bär för syra och färg.
 
 ## Ingredienser
-- 2 dl vispgrädde
-- 2 dl kvarg
-- 1 skopa (30 g) vaniljproteinpulver
-- 2 gelatinblad
-- 1 tsk vaniljsocker
-- färska bär till servering
 
 ## Så gör du
 

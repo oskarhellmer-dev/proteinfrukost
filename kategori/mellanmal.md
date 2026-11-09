@@ -36,5 +36,8 @@ Har du sv책rt att hinna 채ta ordentligt under dagen 채r ett proteinrikt mellanm�
 - [Proteinbollar med cookie dough-smak](https://proteinfrukost.se/recept/proteinbollar-cookie-dough.md)
 - [Proteinbollar med keso](https://proteinfrukost.se/recept/proteinbollar-keso.md)
 - [Proteindadbollar (veganska)](https://proteinfrukost.se/recept/proteindadbollar.md)
+- [Proteinpudding med b채r](https://proteinfrukost.se/recept/proteinpudding.md)
+- [Proteinbars med havre och choklad](https://proteinfrukost.se/recept/proteinbars.md)
+- [Proteinfluff med b채r](https://proteinfrukost.se/recept/proteinfluff.md)
 
 K채lla: https://proteinfrukost.se/kategori/mellanmal

@@ -2,19 +2,12 @@
 
 Tunna svenska pannkakor med en krämig kvargbas – naturligt proteinrika, lena i smeten och klara på en kvart.
 
-**Protein:** 27 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 350
+**Protein:** 27 g · **Total tid:** 15 min · **kcal/port.:** 350
 
 ## Om receptet
 Det här är proteinpannkakor för dig som vill ha mycket protein utan att smaken blir tung. Kvargen ger en krämig bas och står för merparten av proteinet, medan äggen binder smeten och havregrynen bidrar med långsamma kolhydrater som håller dig mätt ända fram till lunch. Receptet följer den klassiska svenska pannkaksbalansen mellan ägg, mjöl och vätska, men mjölken är delvis utbytt mot kvarg för att lyfta proteinet. Resultatet blir tunna, lena pannkakor som smakar som vanliga svenska pannkakor men med betydligt mer protein per portion. Perfekt till helgfrukosten eller som snabb vardagslunch.
 
 ## Ingredienser
-- 250 g kvarg (0,2 %)
-- 2 ägg
-- 1 dl havregryn
-- 0,5 dl mjölk
-- 1 tsk bakpulver
-- 1 nypa salt
-- smör till stekning
 
 ## Så gör du
 

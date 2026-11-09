@@ -2,16 +2,9 @@
 
 En riktigt mättande frukost med 33 gram protein — ägg, kvarg, avocado och grovt bröd, klart på tio minuter.
 
-**Protein:** 33 g · **Total tid:** 10 min · **Portion:** 1 · **kcal/port.:** 480
+**Protein:** 33 g · **Total tid:** 10 min · **kcal/port.:** 480
 
 ## Ingredienser
-- 2 ägg
-- 150 g kvarg (10 %)
-- 1/2 avocado
-- 10 körsbärstomater
-- 1 skiva grovt fullkornsbröd
-- 1 msk gräslök, hackad
-- Salt och svartpeppar
 
 ## Så gör du
 

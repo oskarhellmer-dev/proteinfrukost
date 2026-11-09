@@ -2,14 +2,9 @@
 
 Fluffig, krämig och svalkande — som en dessert men med 25 gram protein. Klar på fem minuter, ingen tillagning.
 
-**Protein:** 25 g · **Total tid:** 5 min · **Portioner:** 2 · **kcal/port.:** 205
+**Protein:** 25 g · **Total tid:** 5 min · **kcal/port.:** 205
 
 ## Ingredienser
-- 200 g keso naturell
-- 100 g blandade bär
-- 1 skopa (30 g) proteinpulver
-- 1 msk vispgrädde
-- ev. vaniljpulver efter smak
 
 ## Så gör du
 

@@ -2,21 +2,12 @@
 
 En mättande frukost med 32 gram protein — helt utan ägg och klar på fem minuter.
 
-**Protein:** 32 g · **Total tid:** 5 min · **Portioner:** 2 · **kcal/port.:** 380
+**Protein:** 32 g · **Total tid:** 5 min · **kcal/port.:** 380
 
 ## Om receptet
 Att äta proteinrikt behöver inte betyda ägg, och den här frukosten visar hur gott och enkelt det kan vara ändå. Kvarg och keso ger en krämig bas med hela 32 gram protein per portion, medan havregrynen och chiafröna bidrar med fibrer som håller dig mätt länge. Proteinpulvret rundar av smaken och lyfter proteinet ytterligare. Frukosten kräver ingen tillagning och kan förberedas på kvällen — perfekt för dig som vill ha en snabb men mättande start på dagen.
 
 ## Ingredienser
-- 2 dl kvarg
-- 1 dl keso
-- 1 dl havregryn
-- 1 msk chiafrön
-- 1 dl mjölk
-- 1 skopa (30 g) proteinpulver
-- 1 dl frysta bär
-- 1 msk hackade nötter
-- kanel
 
 ## Så gör du
 

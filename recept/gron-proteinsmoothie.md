@@ -2,15 +2,9 @@
 
 Nyttig, grön och överraskande god. Spenaten märks knappt — bananen och proteinpulvret tar över. 34 gram protein på fem minuter.
 
-**Protein:** 34 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 325
+**Protein:** 34 g · **Total tid:** 5 min · **kcal/port.:** 325
 
 ## Ingredienser
-- 60 g färsk spenat
-- 1 banan
-- 1 skopa (30 g) proteinpulver
-- 2 dl mjölk
-- ½ dl naturell yoghurt
-- 3–4 isbitar (valfritt)
 
 ## Så gör du
 

@@ -2,18 +2,12 @@
 
 Matigt kvällsmål med 22 gram protein – kesoröra på knäcke som mättar utan att vara tungt.
 
-**Protein:** 22 g · **Total tid:** 10 min · **Portion:** 1 · **kcal/port.:** 260
+**Protein:** 22 g · **Total tid:** 10 min · **kcal/port.:** 260
 
 ## Om receptet
 Sent på kvällen vill man ofta ha något matigt men inte tungt, och kesoröra på knäcke är svaret. Keso är en av de mest proteinrika mejeriprodukterna per kalori, och med ett kokt ägg på topp landar portionen på 22 gram protein. Knäckebrödet ger knaprighet och fiber utan att tynga. Gräslök och dijonsenap lyfter smaken så att röran känns fräsch snarare än mäktig. Enkelt, snabbt och mättande. Det här kvällsmålet är också ett smart sätt att få in extra protein om dagen har gått i väg utan tillräckligt. Keso innehåller dessutom kasein, ett långsamt protein som kroppen tar upp under längre tid, vilket kan vara en fördel om man äter sent på kvällen.
 
 ## Ingredienser
-- 2 dl keso
-- 1 kokt ägg
-- 2 skivor knäckebröd
-- 1 msk gräslök
-- 1 tsk dijonsenap
-- salt och svartpeppar
 
 ## Så gör du
 

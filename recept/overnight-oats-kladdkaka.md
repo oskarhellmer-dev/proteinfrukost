@@ -2,19 +2,12 @@
 
 Chokladig overnight oats som smakar kladdkaka men levererar rejält med protein. Görs på kvällen, äts på morgonen.
 
-**Protein:** 32 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 380
+**Protein:** 32 g · **Total tid:** 5 min · **kcal/port.:** 380
 
 ## Om receptet
 Det här är en proteinrik overnight oats med smak av kladdkaka – fyllig kakao, chokladprotein och en len konsistens. Havregrynen suger upp vätskan över natten så att gröten blir krämig utan att du behöver koka något. Kakao och chokladprotein ger den där kladdiga och brownie-lika smaken, medan chiafröna bidrar med fibrer och hjälper till att tjockna. Perfekt att förbereda i en burk på kvällen och bara ta med sig morgonen därpå. En beprövad bas som håller dig mätt länge och levererar rejält med protein redan till frukost.
 
 ## Ingredienser
-- 1 dl havregryn
-- 1 msk kakao
-- 1 skopa (30 g) chokladprotein
-- 1 tsk chiafrön
-- 1,5 dl mjölk
-- 1 msk kvarg
-- 1 krm vaniljpulver
 
 ## Så gör du
 

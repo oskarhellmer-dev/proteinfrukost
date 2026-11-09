@@ -2,19 +2,9 @@
 
 Saftig och kladdig — utan att smaka nyttigt. Choklad, grekisk yoghurt och proteinpulver ger 9 gram protein per bit.
 
-**Protein:** 9 g · **Total tid:** 25 min · **Bitar:** 12 · **kcal/bit:** 109
+**Protein:** 9 g · **Total tid:** 25 min · **kcal/bit:** 109
 
 ## Ingredienser
-- 2 ägg
-- 1 dl grekisk yoghurt
-- ½ dl mjölk
-- 1 dl havremjöl
-- 1,5 dl chokladproteinpulver
-- ½ dl osötad kakao
-- 1 tsk bakpulver
-- ½ tsk salt
-- 3 msk honung
-- 2 msk mörka chokladknappar
 
 ## Så gör du
 

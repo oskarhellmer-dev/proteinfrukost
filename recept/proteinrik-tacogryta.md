@@ -2,21 +2,12 @@
 
 Snabb tacogryta med magert köttfärs och kvarg istället för grädde – matig vardagsmat med rejält med protein.
 
-**Protein:** 34 g · **Total tid:** 30 min · **Portioner:** 4 · **kcal/port.:** 380
+**Protein:** 34 g · **Total tid:** 30 min · **kcal/port.:** 380
 
 ## Om receptet
 En snabb och proteinrik tacogryta med köttfärs som passar hela familjen. Magert nötfärs, krossade tomater och tacokrydda ger en fyllig smak, medan kvargen rörs ner på slutet och gör grytan krämig utan att använda grädde. En beprövad grytbas där kvargen tillsätts först efter att grytan tagit bort från värmen, så att den inte skär sig. Perfekt vardagsmat som går på under en halvtimme och ger rejält med protein per portion. Servera med sallad, en klick kvarg och lite riven ost, eller varför inte med en matig sallad och lite fullkornsris till.
 
 ## Ingredienser
-- 500 g nötfärs 5 %
-- 1 gul lök
-- 2 vitlöksklyftor
-- 1 påse tacokrydda
-- 1 burk krossade tomater
-- 1 dl kvarg
-- 1 dl majs
-- 1 röd paprika
-- 1 dl riven ost
 
 ## Så gör du
 

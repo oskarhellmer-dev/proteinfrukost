@@ -2,18 +2,12 @@
 
 Proteinyoghurt på tre minuter — 28 g protein utan tillagning.
 
-**Protein:** 28 g · **Total tid:** 3 min · **Portioner:** 1 portion · **kcal/port.:** 290 kcal
+**Protein:** 28 g · **Total tid:** 3 min · **kcal/port.:** 290 kcal
 
 ## Om receptet
 Kvarg är en av de mest proteinrika mejeriprodukterna och innehåller kasein, ett protein som tas upp långsamt och håller mättnaden uppe i timmar. Genom att blanda kvarg med grekisk yoghurt, bär, havregryn och nötter får du en krämig frukost eller ett mellanmål på 28 gram protein — helt utan tillagning. Perfekt en stressig morgon, eller att röra ihop snabbt på jobbet.
 
 ## Ingredienser
-- 1,5 dl kvarg
-- 1 dl grekisk yoghurt
-- 1 dl bär
-- 1 msk havregryn
-- 1 tsk honung
-- 1 msk hackade nötter
 
 ## Så gör du
 

@@ -2,20 +2,12 @@
 
 Saftigt bananbröd med hela 18 gram protein per skiva – lika enkelt att baka som klassikern, men betydligt mer mättande.
 
-**Protein:** 18 g · **Total tid:** 50 min · **Skivor:** 8 · **kcal/skiva:** 180
+**Protein:** 18 g · **Total tid:** 50 min · **kcal/skiva:** 180
 
 ## Om receptet
 Bananbröd är en klassiker som blivit en favorit även i Sverige, och här har vi gjort en proteinrik version. De mogna bananerna ger både sötma och saftighet, så du klarar dig med mindre tillsatt socker. Vaniljproteinet och kvargen lyfter proteininnehållet till 18 gram per skiva. Havregrynen står för långsamma kolhydrater som håller dig mätt länge. Perfekt att baka på helgen och ha redo för hela veckan.
 
 ## Ingredienser
-- 3 mogna bananer
-- 2 ägg
-- 3 dl havregryn
-- 1 skopa (30 g) vaniljproteinpulver
-- 1 dl kvarg
-- 1 tsk bakpulver
-- 1 tsk kanel
-- 1 nypa salt
 
 ## Så gör du
 

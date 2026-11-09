@@ -2,19 +2,12 @@
 
 Mättande frallor med 12 gram protein styck – bakade på keso, havregryn och frön helt utan krångel.
 
-**Protein:** 12 g · **Total tid:** 40 min · **Frallor:** 8 · **kcal/st:** 160
+**Protein:** 12 g · **Total tid:** 40 min · **kcal/st:** 160
 
 ## Om receptet
 Hemmabakade frallor är svårslaget, och här har vi byggt en proteinrik variant på havregryn och keso. Keso ger både protein och en saftig, mjuk kärna, medan havregrynen bidrar med fiber och långsamma kolhydrater. Solrosfröna ger tugg och nyttiga fetter. Resultatet blir 12 gram protein per fralla – betydligt mer än i vanliga köpefrallor. Dela dem och fyll med keso, ägg eller skinka.
 
 ## Ingredienser
-- 3 dl havregryn
-- 2 dl keso
-- 2 ägg
-- 1 dl solroskärnor
-- 1 tsk bakpulver
-- 0,5 tsk salt
-- 1 msk fiberhusk (valfritt)
 
 ## Så gör du
 

@@ -2,19 +2,9 @@
 
 No-bake veganska proteinbarer på dadlar, havre och nötssmör. Inga ägg, ingen mjölk, ingen ugn — 10 gram protein per bar.
 
-**Protein:** 10 g · **Aktiv tid:** 15 min · **Barer:** 10 · **kcal/bar:** 187
+**Protein:** 10 g · **Aktiv tid:** 15 min · **kcal/bar:** 187
 
 ## Ingredienser
-- 200 g mjuka dadlar (urkärnade)
-- 1,5 dl havregryn
-- 1 dl veganskt proteinpulver
-- 3 msk jordnötssmör
-- 2 msk agavesirap
-- 1 dl osötad växtmjölk
-- 2 msk kokosflingor
-- 1 msk chiafrön
-- 1 krm salt
-- 2 msk mörk choklad (att doppa)
 
 ## Så gör du
 

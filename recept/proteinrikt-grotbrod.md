@@ -2,20 +2,12 @@
 
 Saftigt och matigt grötbröd med havregryn och kvarg – betydligt proteinrikare än vanligt bröd.
 
-**Protein:** 8 g · **Total tid:** 60 min · **Skivor:** 10 · **kcal/skiva:** 115
+**Protein:** 8 g · **Total tid:** 60 min · **kcal/skiva:** 115
 
 ## Om receptet
 Ett saftigt och matigt grötbröd där havregryn, kvarg och proteinpulver gör brödet betydligt proteinrikare än vanligt. Kvargen håller brödet fuktigt och ger en mild syrlighet, medan havregrynen står för fibrer och en rustik konsistens. En beprövad bakformel där de blöta ingredienserna rörs ihop först och de torra vänds ner – då blir smeten jämn och fin. Skivorna passar utmärkt till frukost med pålägg eller som bas under en macka. Brödet håller sig saftigt i flera dagar och går bra att frysa i skivor, så du alltid har proteinrikt bröd nära till hands.
 
 ## Ingredienser
-- 3 dl havregryn
-- 2 dl kvarg
-- 2 ägg
-- 1 dl proteinpulver
-- 1 msk bakpulver
-- 1 tsk salt
-- 1 dl mjölk
-- 2 msk pumpafrön
 
 ## Så gör du
 

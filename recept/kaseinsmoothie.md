@@ -2,18 +2,12 @@
 
 Tjock och krämig smoothie med 30 gram protein – perfekt som kvällsmål eller efter träningen.
 
-**Protein:** 30 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 310
+**Protein:** 30 g · **Total tid:** 5 min · **kcal/port.:** 310
 
 ## Om receptet
 Kasein är en långsam proteinkälla som tas upp successivt av kroppen, vilket gör den idealisk sent på dagen. Den här smoothien kombinerar kaseinpulver med frysta bär och banan för en tjock, krämig konsistens. Havregrynen ger långsamma kolhydrater och extra fiber. Med 30 gram protein per glas är den både mättande och näringsrik – perfekt som kvällsmål eller återhämtningsdryck efter träning. Vill du göra den ännu matigare kan du tillsätta en matsked jordnötssmör eller lite extra havregryn, vilket också sänker hur snabbt sockret tas upp. Den kalla, tjocka konsistensen gör att den känns som en milkshake snarare än en nyttig smoothie.
 
 ## Ingredienser
-- 1 skopa (30 g) kaseinpulver
-- 2 dl mjölk
-- 1 dl frysta bär
-- 1/2 banan
-- 1 msk havregryn
-- 1 tsk honung (valfritt)
 
 ## Så gör du
 

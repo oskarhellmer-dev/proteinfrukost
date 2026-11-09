@@ -2,19 +2,12 @@
 
 Förberedd på kvällen, klar på morgonen. Overnight oats med proteinpulver och kvarg — 28 gram protein.
 
-**Protein:** 28 g · **Total tid:** 5 min · **Portioner:** 1 portion · **kcal/port.:** 350 kcal
+**Protein:** 28 g · **Total tid:** 5 min · **kcal/port.:** 350 kcal
 
 ## Om receptet
 Overnight oats är havregryn som får stå i kylen över natten och mjukna, vilket gör gröten krämig utan att du behöver tillaga något. Här med proteinpulver, kvarg och chiafrön blir frukosten både proteinrik och mättande. Förbered tre burkar på söndagen och du har proteinrik frukost hela veckan — bara att lyfta ur kylen på morgonen.
 
 ## Ingredienser
-- 1 dl havregryn
-- 1 dl mjölk
-- 1 skopa (30 g) proteinpulver
-- 1 dl kvarg
-- 1 msk chiafrön
-- ½ tsk vaniljpulver
-- Topping: bär
 
 ## Så gör du
 

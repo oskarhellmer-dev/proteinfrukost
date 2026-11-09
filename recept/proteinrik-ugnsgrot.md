@@ -2,21 +2,12 @@
 
 Krämig ugnsgröt med äpple, kanel och kvarg — 24 gram protein och händerna fria medan den gräddas.
 
-**Protein:** 24 g · **Total tid:** 40 min · **Portioner:** 2 · **kcal/port.:** 340
+**Protein:** 24 g · **Total tid:** 40 min · **kcal/port.:** 340
 
 ## Om receptet
 Ugnsgröt är havregröt som gräddas i form och får en fast, nästan puddinglik konsistens med gyllene yta. Här blandas havregryn, mjölk, kvarg, ägg och proteinpulver, och äpplet ger naturlig sötma och saftighet. Eftersom hela satsen gräddas samtidigt behöver du inte stå vid spisen — perfekt en helgmorgon eller som meal prep. Kvargen och ägget bidrar både med protein och med den krämiga strukturen, så resultatet blir mättande utan att kännas tungt.
 
 ## Ingredienser
-- 2 dl havregryn
-- 3 dl mjölk
-- 1 dl kvarg
-- 1 ägg
-- 1 skopa (30 g) proteinpulver
-- 1 äpple
-- 1 tsk kanel
-- 1 msk honung
-- 1 nypa salt
 
 ## Så gör du
 

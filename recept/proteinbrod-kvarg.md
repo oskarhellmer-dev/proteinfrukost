@@ -2,20 +2,12 @@
 
 Ett saftigt, grovt bröd med 8 gram protein per skiva — enkelt att baka och perfekt till frukosten.
 
-**Protein:** 8 g · **Total tid:** 50 min · **Skivor:** 12 · **kcal/skiva:** 120
+**Protein:** 8 g · **Total tid:** 50 min · **kcal/skiva:** 120
 
 ## Om receptet
 Ett gott proteinbröd ska vara saftigt, mättande och enkelt att baka — och det är precis vad det här är. Kvargen gör brödet saftigt och bidrar med protein, medan havregrynen och solrosfröna ger fibrer och tuggmotstånd. Med 8 gram protein per skiva blir en vanlig smörgås plötsligt en proteinrik frukost. Brödet kräver ingen jäsning och bakas på en dryg halvtimme, vilket gör det enkelt att slänga ihop på helgen och ha hela veckan.
 
 ## Ingredienser
-- 3 dl havregryn
-- 2,5 dl kvarg
-- 3 ägg
-- 1 dl mjölk
-- 2 tsk bakpulver
-- 1 tsk salt
-- 1 msk psylliumhusk
-- 2 msk solrosfrön
 
 ## Så gör du
 

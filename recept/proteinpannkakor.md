@@ -2,16 +2,9 @@
 
 Fluffiga, mättande och klara på 15 minuter. 25 gram protein per portion — den perfekta starten på dagen.
 
-**Protein:** 25 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 340
+**Protein:** 25 g · **Total tid:** 15 min · **kcal/port.:** 340
 
 ## Ingredienser
-- 2 ägg
-- 1 dl havregryn
-- 1 skopa (30 g) proteinpulver
-- 1 dl mjölk
-- 1 tsk bakpulver
-- 1 nypa salt
-- 1 tsk kokosolja till stekning
 
 ## Så gör du
 

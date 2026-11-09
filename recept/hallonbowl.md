@@ -2,23 +2,12 @@
 
 Krämig hallonbowl där mixade hallon blandas med lätt-grekisk yoghurt, honung och chiafrön. Toppas med färska bär, banan och nötter – klar på tio minuter och full av protein.
 
-**Protein:** 26 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 480
+**Protein:** 26 g · **Total tid:** 10 min · **kcal/port.:** 480
 
 ## Om receptet
 Mixade hallon, lätt-grekisk yoghurt, honung och chiafrön blir en krämig, rosa bowl med 26 gram protein per portion. Proteinet kommer helt från yoghurten och chiafröna – inget proteinpulver behövs. Toppingen med färska bär, banan, mandel och granola ger tuggmotstånd och sötma, och hela bowlen är klar på tio minuter. Förbereder du basen kvällen innan blir den ännu tjockare och godare.
 
 ## Ingredienser
-- 250 g frysta hallon (tinade)
-- 400 g lätt-grekisk yoghurt (2 %)
-- 2 msk chiafrön
-- 1 msk honung
-- 1 krm vaniljpulver
-- 100 g färska hallon
-- 75 g blåbär
-- 1 banan
-- 20 g mandelflingor
-- 1 msk kokosflingor
-- 1 msk granola
 
 ## Så gör du
 

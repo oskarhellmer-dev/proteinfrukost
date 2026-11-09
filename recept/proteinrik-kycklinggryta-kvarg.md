@@ -2,24 +2,12 @@
 
 Krämig kycklinggryta med 38 gram protein per portion – en enkel vardagsmiddag som är klar på en halvtimme.
 
-**Protein:** 38 g · **Total tid:** 25 min · **Portioner:** 4 · **kcal/port.:** 360
+**Protein:** 38 g · **Total tid:** 25 min · **kcal/port.:** 360
 
 ## Om receptet
 Kycklinggryta är en tacksam vardagsrätt, och här har vi gjort den proteinrik utan att tumma på smaken. Kycklingen ger en mager proteinkälla, medan kvarg och crème fraîche rörs ner på slutet och lyfter både krämighet och protein till 38 gram per portion. Paprikan och vitlöken står för en varm, rund smak som passar både ris och blomkålsris. Genom att bryna kycklingen först och sjuda den färdigt i buljongen blir den saftig i stället för torr. Grytan går snabbt att röra ihop på en vardagskväll och fungerar precis lika bra att värma som matlåda dagen efter, vilket gör den perfekt att laga en dubbel sats av.
 
 ## Ingredienser
-- 600 g kycklingfilé
-- 1 msk olja
-- 1 gul lök
-- 2 vitlöksklyftor
-- 1 röd paprika
-- 2 dl hönsbuljong
-- 1 dl kvarg
-- 1 dl crème fraîche
-- 1 tsk paprikapulver
-- 1 tsk soja
-- salt och svartpeppar
-- färsk persilja
 
 ## Så gör du
 

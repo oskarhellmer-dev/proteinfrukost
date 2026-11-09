@@ -2,19 +2,12 @@
 
 Krispiga våfflor med hela 26 gram protein per portion — lika goda som klassikern, men betydligt mer mättande.
 
-**Protein:** 26 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 280
+**Protein:** 26 g · **Total tid:** 15 min · **kcal/port.:** 280
 
 ## Om receptet
 Våfflor är en svensk helgfavorit, och här har vi gjort dem proteinrika utan att offra den krispiga ytan och den mjuka kärnan. Keson ger en saftig grund och en naturligt mild syra, havregrynen bidrar med fibrer och proteinpulvret lyfter proteinet till 26 gram per portion. Hemligheten är att mixa smeten helt slät — då blir den jämn och våfflorna fastnar inte i järnet. Servera med lingonsylt och bär för den klassiska kombinationen, eller variera efter säsong.
 
 ## Ingredienser
-- 2 ägg
-- 1 dl keso
-- 1 dl havregryn
-- 1 skopa (30 g) vaniljproteinpulver
-- 1 tsk bakpulver
-- 1 krm salt
-- smör till järnet
 
 ## Så gör du
 

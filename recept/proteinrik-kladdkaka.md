@@ -2,20 +2,12 @@
 
 Den svenska fikaklassikern — kladdig, chokladig och med 12 gram protein per bit.
 
-**Protein:** 12 g · **Total tid:** 25 min · **Bitar:** 12 · **kcal/bit:** 150
+**Protein:** 12 g · **Total tid:** 25 min · **kcal/bit:** 150
 
 ## Om receptet
 Kladdkaka är en av Sveriges mest älskade bakverk, och här har vi gjort den proteinrik genom att byta ut en del av sockret och mjölet mot proteinpulver och havremjöl. Resultatet är precis lika saftigt och kladdigt som originalet, men med 12 gram protein per bit. Kakaon ger djup chokladsmak och proteinpulvret drar åt sig vätska, vilket hjälper till att hålla kakan saftig. Skär i små bitar och njut — fikastunden blir både godare och mer mättande.
 
 ## Ingredienser
-- 2 ägg
-- 1 dl socker
-- 1 dl havremjöl
-- 0,75 dl kakao
-- 1,5 dl chokladproteinpulver
-- 100 g smör (smält)
-- 1 tsk vaniljsocker
-- 1 nypa salt
 
 ## Så gör du
 

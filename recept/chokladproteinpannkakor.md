@@ -2,17 +2,9 @@
 
 Smakar dessert men ger 22 gram protein. Saftiga chokladpannkakor på banan, kakao och chokladproteinpulver — klara på tio minuter.
 
-**Protein:** 22 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 300
+**Protein:** 22 g · **Total tid:** 10 min · **kcal/port.:** 300
 
 ## Ingredienser
-- 1 mogen banan
-- 2 ägg
-- 1 dl havregryn
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk kakao
-- 1 tsk bakpulver
-- 1 msk mjölk
-- 1 nypa salt
 
 ## Så gör du
 

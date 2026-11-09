@@ -36,5 +36,8 @@ Förvara proteinbakverk i kylen och värm dem lätt före servering — de blir 
 - [Kesobröd – proteinbröd med keso](https://proteinfrukost.se/recept/proteinbrod-keso.md)
 - [Proteinmuffins med banan](https://proteinfrukost.se/recept/proteinmuffins-banan.md)
 - [Proteinrikt grötbröd](https://proteinfrukost.se/recept/proteinrikt-grotbrod.md)
+- [Kesobröd](https://proteinfrukost.se/recept/kesobrod.md)
+- [Kvargbröd](https://proteinfrukost.se/recept/kvargbrod.md)
+- [Protein granola](https://proteinfrukost.se/recept/protein-granola.md)
 
 Källa: https://proteinfrukost.se/kategori/bakning

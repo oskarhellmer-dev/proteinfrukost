@@ -2,19 +2,12 @@
 
 Mättande frukost på ägg, kvarg, avocado och ost – helt utan kolhydrater och med rejält med protein.
 
-**Protein:** 33 g · **Total tid:** 15 min · **Portion:** 1 · **kcal/port.:** 480
+**Protein:** 33 g · **Total tid:** 15 min · **kcal/port.:** 480
 
 ## Om receptet
 En mättande frukost helt utan kolhydrater, byggd på ägg, kvarg, avocado och ost. Äggen och osten ger fullvärdigt protein och nyttigt fett, medan avocadon bidrar med fibrer och en krämig konsistens. Kombinationen gör att blodsockret håller sig stabilt hela förmiddagen. En beprövad lågkolhydratfrukost där proportionerna mellan protein och fett ger långvarig mättnad. Perfekt för dig som äter lågkolhydrat eller vill undvika bröd på morgonen. Variera grönsakerna efter säsong och vad du har hemma, och byt gärna ut osten mot rökt lax för variation.
 
 ## Ingredienser
-- 3 ägg
-- 1 dl kvarg
-- 1/2 avocado
-- 30 g ost
-- 1 msk smör
-- salt och peppar
-- några blad spenat
 
 ## Så gör du
 

@@ -2,18 +2,9 @@
 
 Sveriges käraste fika — fast proteinrik. Havregryn, kakao och proteinpulver ger 6 gram protein per boll, utan att smaken förändras.
 
-**Protein:** 6 g · **Aktiv tid:** 15 min · **Bollar:** 16 · **kcal/boll:** 104
+**Protein:** 6 g · **Aktiv tid:** 15 min · **kcal/boll:** 104
 
 ## Ingredienser
-- 75 g rumsvarmt smör
-- 1 dl havregryn
-- 1,5 dl chokladproteinpulver
-- 3 msk kakao
-- ½ dl strösocker
-- 1 msk kallt starkt kaffe
-- 1 tsk vaniljsocker
-- 1 krm salt
-- 1 dl kokosflingor att rulla i
 
 ## Så gör du
 

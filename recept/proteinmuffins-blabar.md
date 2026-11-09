@@ -2,20 +2,12 @@
 
 Saftiga muffins med 8 gram protein styck och utan tillsatt socker — lika goda till frukost som till mellanmål.
 
-**Protein:** 8 g · **Total tid:** 30 min · **Muffins:** 10 · **kcal/st:** 110
+**Protein:** 8 g · **Total tid:** 30 min · **kcal/st:** 110
 
 ## Om receptet
 Muffins behöver varken vara söta eller näringsfattiga, och den här versionen är både saftig och proteinrik. Mogna bananer ger naturlig sötma så att inget tillsatt socker behövs, medan kvargen och proteinpulvret lyfter proteinet till 8 gram per muffin. Havregrynen bidrar med fibrer och en mjuk, saftig konsistens. Perfekt att baka en sats på helgen och ha i kylen för snabba frukostar och mellanmål hela veckan.
 
 ## Ingredienser
-- 2 mogna bananer
-- 2 ägg
-- 2 dl havregryn
-- 1 skopa (30 g) vaniljproteinpulver
-- 1 dl kvarg
-- 1 tsk bakpulver
-- 1 tsk vaniljsocker
-- 150 g blåbär
 
 ## Så gör du
 

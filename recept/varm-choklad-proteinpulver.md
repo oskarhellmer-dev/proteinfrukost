@@ -2,18 +2,12 @@
 
 En mugg lyxig varm choklad med 25 gram protein — lika god som den traditionella, men betydligt mer mättande.
 
-**Protein:** 25 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 260
+**Protein:** 25 g · **Total tid:** 5 min · **kcal/port.:** 260
 
 ## Om receptet
 Varm choklad är en favorit som enkelt blir proteinrik: här vispas chokladproteinpulver och kakao ner i varm mjölk och ger hela 25 gram protein per mugg. Den är len, sötlagom och mättar betydligt bättre än en vanlig chokladdryck tack vare proteinet. Servera den efter träning, som kvällsmys, eller som varm kick-start en kall morgon. Hemligheten är att inte koka mjölken och att vispa i pulvret vid sidan av värmen, så att proteinet inte klumpar sig.
 
 ## Ingredienser
-- 2,5 dl mjölk
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk kakao
-- 1 tsk honung
-- 1 nypa salt
-- eventuellt lite vispgrädde till servering
 
 ## Så gör du
 

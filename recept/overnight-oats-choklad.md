@@ -2,19 +2,12 @@
 
 Rör ihop en burk på kvällen och öppna en färdig chokladfrukost med 28 g protein nästa morgon – inget kokande, ingen stress.
 
-**Protein:** 28 g · **Förberedelse:** 5 min · **Portion:** 1 · **kcal/port.:** 380
+**Protein:** 28 g · **Förberedelse:** 5 min · **kcal/port.:** 380
 
 ## Om receptet
 Overnight oats är en av de mest beprövade frukostmetoderna: havregrynen får stå och svälla i vätska över natten och blir krämiga och lättare att smälta utan kokning. Här lyfts proteinet med både kvarg och chokladproteinpulver, medan kakaon och chiafröna bidrar med extra fibrer och en mörk, fyllig chokladsmak. Chiafröna gör gröten tjockare och krämigare på samma gång. Perfekt att förbereda i förväg – du blandar ihop en eller flera burkar och har frukost färdig hela veckan med minimal ansträngning.
 
 ## Ingredienser
-- 1 dl havregryn
-- 1 dl mjölk
-- 1 dl kvarg
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk kakao
-- 1 msk chiafrön
-- 1 tsk honung
 
 ## Så gör du
 

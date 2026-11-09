@@ -2,18 +2,12 @@
 
 En tjock, krämig milkshake med 40 gram protein i glaset — lika god som en dessert, men lika mättande som en måltid.
 
-**Protein:** 40 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 420
+**Protein:** 40 g · **Total tid:** 5 min · **kcal/port.:** 420
 
 ## Om receptet
 En milkshake är oftast bara socker och grädde, men den här versionen är gjord för att mätta. Kvargen ger en tjock, krämig konsistens och tillsammans med proteinpulvret landar varje glas på hela 40 gram protein. Bananen och jordnötssmöret bidrar med naturlig sötma och nyttiga fetter, medan mjölken gör den lätt att dricka. Perfekt som snabb frukost, mellanmål efter träning eller ett sött men näringsrikt kvällsmål.
 
 ## Ingredienser
-- 2 dl mjölk
-- 1 banan
-- 1 skopa (30 g) chokladproteinpulver
-- 1 msk jordnötssmör
-- 1 dl kvarg
-- en näve isbitar
 
 ## Så gör du
 

@@ -2,17 +2,9 @@
 
 Helt veganska — utan ägg och mjölk. Linfrö och växtmjölk gör jobbet, och proteinet landar på 20 gram per portion.
 
-**Protein:** 20 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 300
+**Protein:** 20 g · **Total tid:** 15 min · **kcal/port.:** 300
 
 ## Ingredienser
-- 1,25 dl vetemjöl (eller havremjöl)
-- 1 skopa (30 g) veganskt proteinpulver
-- 1 msk bakpulver
-- 1 msk linfrömjöl + 3 msk vatten
-- 3 dl osötad växtmjölk
-- 1 msk lönnsirap
-- 1 nypa salt
-- 1 tsk olja till stekning
 
 ## Så gör du
 

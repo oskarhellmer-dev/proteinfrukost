@@ -2,18 +2,12 @@
 
 Helt glutenfria pannkakor med högt protein — havregryn istället för mjöl.
 
-**Protein:** 24 g · **Total tid:** 15 min · **Portioner:** 2 portioner · **kcal/port.:** 330 kcal
+**Protein:** 24 g · **Total tid:** 15 min · **kcal/port.:** 330 kcal
 
 ## Om receptet
 Havregryn är naturligt glutenfria, men köp alltid ett paket märkt "glutenfritt" om du är känslig — vanlig havre kan blandas med vete och korn under skörd och tillverkning. Med ägg, havregryn och proteinpulver får du fluffiga pannkakor helt utan vetemjöl och med 24 gram protein per portion. De passar både till vardags och när du vill bjuda någon som äter glutenfritt.
 
 ## Ingredienser
-- 2 ägg
-- 1 dl glutenfria havregryn
-- 1 skopa (30 g) proteinpulver
-- 1 dl mjölk
-- 1 tsk bakpulver
-- 1 nypa salt
 
 ## Så gör du
 

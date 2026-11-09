@@ -2,19 +2,12 @@
 
 Gröt på havre och sojadryck, toppad med ägg och frön – en mättande frukost helt utan mjölkprodukter.
 
-**Protein:** 30 g · **Total tid:** 15 min · **Portion:** 1 · **kcal/port.:** 420
+**Protein:** 30 g · **Total tid:** 15 min · **kcal/port.:** 420
 
 ## Om receptet
 För dig som vill ha en mättande frukost helt utan mjölkprodukter är den här havregröten ett tryggt kort. Havregryn kokas på sojadryck och rörs ihop med sojaprotein för att lyfta proteinet rejält, medan jordnötssmör och hampafrön bidrar med nyttiga fetter och ännu mer näring. Ett kokt ägg ovanpå gör frukosten komplett och extra mättande. Receptet tar bara en kvart och kräver inga konstiga ingredienser – allt finns i vanliga matbutiker. En perfekt start som håller dig mätt långt in på förmiddagen, oavsett om du tål mjölk eller inte.
 
 ## Ingredienser
-- 1 dl havregryn
-- 2 dl osötad sojadryck
-- 1 skopa (30 g) sojaprotein
-- 1 msk hampafrön
-- 1 msk jordnötssmör
-- 1 kokt ägg
-- kanel
 
 ## Så gör du
 

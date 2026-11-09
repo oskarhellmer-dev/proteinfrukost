@@ -2,16 +2,9 @@
 
 Krispiga, ostiga sticks på keso — 25 gram protein per portion och perfekt att meal-preppa.
 
-**Protein:** 25 g · **Total tid:** 30 min · **Portioner:** 2 · **kcal/port.:** 230
+**Protein:** 25 g · **Total tid:** 30 min · **kcal/port.:** 230
 
 ## Ingredienser
-- 250 g keso (avrunnen)
-- 1 ägg
-- 1 dl riven ost (light)
-- 2 msk havremjöl
-- 1 tsk bakpulver
-- 1 msk färska örter, hackade
-- Salt och svartpeppar
 
 ## Så gör du
 

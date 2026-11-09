@@ -2,18 +2,12 @@
 
 Banan, kvarg och proteinpulver i ett glas – snabb och krämig återhämtning efter träningspasset.
 
-**Protein:** 35 g · **Total tid:** 5 min · **Glas:** 1 · **kcal/glas:** 380
+**Protein:** 35 g · **Total tid:** 5 min · **kcal/glas:** 380
 
 ## Om receptet
 Efter ett tufft träningspass vill kroppen snabbt ha protein och kolhydrater, och den här smoothien levererar båda på fem minuter. Bananen ger snabba kolhydrater som fyller på glykogenet, kvarg och proteinpulver står för en rejäl proteindos och havregrynen gör smoothien extra mättande. Resultatet blir krämigt, sött och enkelt att få ner även när aptiten är låg direkt efter passet. Den funkar förstås lika bra som ett proteinrikt mellanmål mitt på dagen. Mixa, drick och låt återhämtningen börja direkt.
 
 ## Ingredienser
-- 1 banan
-- 150 g kvarg
-- 1 skopa (30 g) proteinpulver
-- 2 dl mjölk
-- 1 msk havregryn
-- 1 tsk honung
 
 ## Så gör du
 

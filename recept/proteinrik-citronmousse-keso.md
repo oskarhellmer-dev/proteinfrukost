@@ -2,18 +2,12 @@
 
 Fluffig citronmousse med frisk smak och keso som proteinbas – en lätt efterrätt som känns lyxig men knappt kostar kalorier.
 
-**Protein:** 16 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 210
+**Protein:** 16 g · **Total tid:** 15 min · **kcal/port.:** 210
 
 ## Om receptet
 Den här citronmoussen är en lätt efterrätt som ändå ger rejält med protein tack vare keson. Genom att mixa keson helt slät med färsk citron försvinner alla gryn, och den vispade grädden vänds ner sist så att moussen blir fluffig och luftig. En gnutta vaniljproteinpulver och lite honung rundar av syran från citronen. Resultatet är en frisk, krämig dessert som känns lyxig men bara kostar runt 210 kalorier per portion. Perfekt när suget efter sött slår till men du vill hålla proteinet högt och kalorierna låga.
 
 ## Ingredienser
-- 250 g keso
-- 1 dl vispgrädde
-- saft och skal från 1 citron
-- 1 msk honung
-- 1 skopa (15 g) vaniljproteinpulver
-- hackad mörk choklad till garnering
 
 ## Så gör du
 

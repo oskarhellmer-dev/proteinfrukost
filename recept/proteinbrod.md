@@ -2,19 +2,12 @@
 
 Proteinbröd med keso och havregryn — 9 g protein per skiva.
 
-**Protein:** 9 g · **Total tid:** 45 min · **Portioner:** 12 skivor · **kcal/port.:** 130 kcal
+**Protein:** 9 g · **Total tid:** 45 min · **kcal/port.:** 130 kcal
 
 ## Om receptet
 Det här brödet bakas helt utan vetemjöl och får sin struktur av havregryn, ägg, keso och psylliumhusk. Resultatet är ett saftigt, proteinrikt bröd med 9 gram protein per skiva — betydligt mer än vanligt bröd. Rostade skivor blir perfekt som bas i frukosten med ägg och kvarg, eller som mellanmål med ditt favoritpålägg. Brödet håller sig fint i kylen i flera dagar.
 
 ## Ingredienser
-- 3 dl havregryn
-- 2 dl keso
-- 3 ägg
-- 1 dl mjölk
-- 2 tsk bakpulver
-- 1 tsk salt
-- 1 msk psylliumhusk
 
 ## Så gör du
 

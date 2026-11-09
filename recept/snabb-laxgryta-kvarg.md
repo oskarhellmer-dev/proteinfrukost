@@ -2,22 +2,12 @@
 
 Krämig laxgryta med 34 gram protein per portion – färdig på tjugo minuter och perfekt för stressiga vardagskvällar.
 
-**Protein:** 34 g · **Total tid:** 20 min · **Portioner:** 4 · **kcal/port.:** 330
+**Protein:** 34 g · **Total tid:** 20 min · **kcal/port.:** 330
 
 ## Om receptet
 Lax är både proteinrik och full av nyttiga omega-3-fetter, vilket gör den till en perfekt bas för en snabb middag. Här sjuds laxbitarna i en krämig sås på grädde och kvarg som rörs ner allra sist så att den håller sig slät. Dill och citron ger en frisk smak som balanserar den feta fisken. Med 34 gram protein per portion blir rätten mättande trots att den är klar på bara tjugo minuter, och tack vare kvargen behövs varken mjöl eller redning. Servera med potatis, ris eller kokta grönsaker beroende på hur mycket kolhydrater du vill ha på tallriken.
 
 ## Ingredienser
-- 500 g laxfilé
-- 1 msk olja
-- 1 gul lök
-- 2 dl kvarg
-- 1 dl vispgrädde
-- 1 dl vatten
-- 1 fiskbuljongtärning
-- 1 msk hackad dill
-- 1 tsk citronsaft
-- salt och vitpeppar
 
 ## Så gör du
 

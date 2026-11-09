@@ -2,20 +2,12 @@
 
 Krispiga chokladkakor med 9 gram protein styck – klara på 20 minuter och lika goda som köpta cookies.
 
-**Protein:** 9 g · **Total tid:** 20 min · **Kakor:** 8 · **kcal/st:** 150
+**Protein:** 9 g · **Total tid:** 20 min · **kcal/st:** 150
 
 ## Om receptet
 Cookies behöver inte vara sockerbomber, och den här versionen bevisar det. Havregryn och chokladprotein ger både fiber och protein, medan kakao står för den djupa chokladsmaken. Jordnötssmöret binder ihop smeten och ger en rund, nötig ton. Resultatet är krispiga kakor med 9 gram protein styck – ett smart mellanmål som stillar sötsuget. Perfekta att baka på helgen och ha redo i burken. Kakorna passar lika bra till fikat som efter träningen, och tack vare havregrynen håller de dig mätt länge.
 
 ## Ingredienser
-- 2 dl havregryn
-- 1 skopa (30 g) chokladproteinpulver
-- 2 msk kakao
-- 2 ägg
-- 1 msk jordnötssmör
-- 1 msk honung
-- 0,5 tsk bakpulver
-- en nypa salt
 
 ## Så gör du
 

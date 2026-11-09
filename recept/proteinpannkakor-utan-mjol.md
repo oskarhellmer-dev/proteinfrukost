@@ -2,18 +2,12 @@
 
 Saftiga proteinpannkakor helt utan mjöl – fluffiga tack vare ägg, kvarg och proteinpulver. Klara på en kvart.
 
-**Protein:** 24 g · **Total tid:** 15 min · **Portioner:** 2 · **kcal/port.:** 165
+**Protein:** 24 g · **Total tid:** 15 min · **kcal/port.:** 165
 
 ## Om receptet
 Dessa proteinpannkakor bakas helt utan mjöl och håller sig ändå fluffiga och formbara tack vare ägg, kvarg och proteinpulver. Kvargen ger en krämig konsistens och en naturlig sötma, medan äggen binder smeten så att den inte faller isär i pannan. Proteinpulvret av vanilj ger både smak och en rejäl dos protein. Receptet är en beprövad bas som fungerar precis lika bra med keso om du föredrar det. Stek på medelvärme och vänd först när ytan har stelnat – då håller pannkakorna ihop. Perfekt när du vill ha en snabb och mättande frukost utan att tumma på varken smak eller näring.
 
 ## Ingredienser
-- 2 ägg
-- 1 dl kvarg
-- 1 skopa (30 g) proteinpulver vanilj
-- 1 tsk bakpulver
-- 1 krm salt
-- smör eller rapsolja till stekning
 
 ## Så gör du
 

@@ -2,17 +2,9 @@
 
 Saftiga muffins med banan och proteinpulver — 12 gram protein per muffin. Perfekta att baka på söndagen och äta hela veckan.
 
-**Protein:** 12 g · **Total tid:** 30 min · **Muffins:** 10 · **kcal/st:** 135
+**Protein:** 12 g · **Total tid:** 30 min · **kcal/st:** 135
 
 ## Ingredienser
-- 2 mogna bananer
-- 2 ägg
-- 1,5 dl havregryn
-- 1 skopa (30 g) proteinpulver
-- 1 dl kvarg
-- 1 tsk bakpulver
-- 1 tsk kanel
-- 50 g mörk choklad (valfritt)
 
 ## Så gör du
 

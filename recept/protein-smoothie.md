@@ -2,18 +2,12 @@
 
 Mättande proteinsmoothie med bär och kvarg — 30 gram protein på fem minuter.
 
-**Protein:** 30 g · **Total tid:** 5 min · **Portioner:** 1 portion · **kcal/port.:** 290 kcal
+**Protein:** 30 g · **Total tid:** 5 min · **kcal/port.:** 290 kcal
 
 ## Om receptet
 Den här smoothien kombinerar mjölk, kvarg, bär, banan och proteinpulver och kommer upp i 30 gram protein på fem minuter. Den är krämig, mättande och passar lika bra som frukost på språng som ett snabbt mellanmål efter träningen — när både protein och kolhydrater behövs för återhämtningen. Ett glas räcker långt.
 
 ## Ingredienser
-- 1,5 dl mjölk
-- 1 skopa (30 g) proteinpulver
-- 1 dl frysta bär
-- ½ banan
-- 1 msk havregryn
-- 1 dl kvarg
 
 ## Så gör du
 

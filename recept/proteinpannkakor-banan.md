@@ -2,17 +2,9 @@
 
 Sötman kommer helt från bananen — inget socker behövs. Fluffiga, mättande pannkakor med 25 gram protein, klara på tio minuter.
 
-**Protein:** 25 g · **Total tid:** 10 min · **Portioner:** 2 · **kcal/port.:** 330
+**Protein:** 25 g · **Total tid:** 10 min · **kcal/port.:** 330
 
 ## Ingredienser
-- 1 mogen banan
-- 2 ägg
-- 1 dl havregryn
-- 1 skopa (30 g) proteinpulver
-- ½ tsk bakpulver
-- 1 tsk kanel
-- 1 nypa salt
-- 1 tsk kokosolja till stekning
 
 ## Så gör du
 

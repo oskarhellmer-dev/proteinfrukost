@@ -2,19 +2,12 @@
 
 Fem minuters frukost med hela 30 gram protein – krämig kvarg, nyttiga chiafrön och färska bär som ger både sötma och färg.
 
-**Protein:** 30 g · **Total tid:** 5 min · **Portion:** 1 · **kcal/port.:** 290
+**Protein:** 30 g · **Total tid:** 5 min · **kcal/port.:** 290
 
 ## Om receptet
 Kvarg är en av de mest proteinrika mejeriprodukterna du kan bygga frukost på, och här kombineras den med chiafrön för extra fibrer och en krämig konsistens. Chiafröna sväller och ger frukosten en nästan puddingliknande textur, helt utan tillsatt socker. Bären bidrar med sötma och antioxidanter, medan valnötterna ger nyttiga fetter som gör frukosten mättande ända fram till lunch. Receptet tar fem minuter att röra ihop och kan enkelt förberedas kvällen innan. Ett enkelt sätt att få i sig ordentligt med protein direkt på morgonen.
 
 ## Ingredienser
-- 2 dl kvarg
-- 1 dl mjölk
-- 1 msk chiafrön
-- 1 dl blandade bär
-- 1 msk hackade valnötter
-- 1 krm kanel
-- 1 tsk honung (valfritt)
 
 ## Så gör du
 
