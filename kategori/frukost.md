@@ -37,5 +37,7 @@ Här samlar vi alla frukostrecept på sajten: pannkakor, gröt, omelett, yoghurt
 - [Proteinrik frukost utan kolhydrater](https://proteinfrukost.se/recept/proteinrik-frukost-utan-kolhydrater.md)
 - [Hallonbowl med grekisk yoghurt](https://proteinfrukost.se/recept/hallonbowl.md)
 - [Proteinwrap](https://proteinfrukost.se/recept/proteinwrap.md)
+- [Proteinrik frukost för barn](https://proteinfrukost.se/recept/proteinrik-frukost-barn.md)
+- [Proteinrik frukost för viktnedgång](https://proteinfrukost.se/recept/proteinrik-frukost-viktnedgang.md)
 
 Källa: https://proteinfrukost.se/kategori/frukost

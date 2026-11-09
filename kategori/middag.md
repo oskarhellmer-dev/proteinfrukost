@@ -33,5 +33,6 @@ Vill du fylla på proteinet redan till frukost hittar du fler recept bland prote
 - [Proteinrik lax i ugn med keso och dill](https://proteinfrukost.se/recept/proteinrik-lax-keso.md)
 - [Proteinpizza med keso och skinka](https://proteinfrukost.se/recept/proteinpizza.md)
 - [Proteinrik tacogryta med köttfärs](https://proteinfrukost.se/recept/proteinrik-tacogryta.md)
+- [Proteinrik kycklingpasta med keso](https://proteinfrukost.se/recept/proteinrik-kycklingpasta.md)
 
 Källa: https://proteinfrukost.se/kategori/middag

@@ -39,5 +39,8 @@ Har du sv책rt att hinna 채ta ordentligt under dagen 채r ett proteinrikt mellanm�
 - [Proteinpudding med b채r](https://proteinfrukost.se/recept/proteinpudding.md)
 - [Proteinbars med havre och choklad](https://proteinfrukost.se/recept/proteinbars.md)
 - [Proteinfluff med b채r](https://proteinfrukost.se/recept/proteinfluff.md)
+- [Proteinrikt mellanm책l med keso](https://proteinfrukost.se/recept/proteinrikt-mellanmal-keso.md)
+- [Protein snacks att ta med](https://proteinfrukost.se/recept/protein-snacks-att-ta-med.md)
+- [Proteinchips i ugn](https://proteinfrukost.se/recept/proteinchips.md)
 
 K채lla: https://proteinfrukost.se/kategori/mellanmal

@@ -39,5 +39,6 @@ Se bara sötsakerna som ett komplement — basen av dagen gör du bäst med ett 
 - [Proteinrik oreo-mousse](https://proteinfrukost.se/recept/proteinrik-oreo-mousse.md)
 - [Proteinrik jordgubbsmousse](https://proteinfrukost.se/recept/proteinrik-jordgubbsmousse.md)
 - [Protein mug cake](https://proteinfrukost.se/recept/protein-mug-cake.md)
+- [Proteinrik äppelpaj](https://proteinfrukost.se/recept/proteinrik-appelpaj.md)
 
 Källa: https://proteinfrukost.se/kategori/sott

@@ -32,5 +32,6 @@ För dig som tränar fungerar en proteinsmoothie utmärkt som återhämtningsmå
 - [Protein-smoothie med kvarg och bär](https://proteinfrukost.se/recept/protein-smoothie-kvarg.md)
 - [Proteinrik återhämtningssmoothie efter träning](https://proteinfrukost.se/recept/aterhamtningssmoothie.md)
 - [Protein smoothie med jordnötssmör](https://proteinfrukost.se/recept/protein-smoothie-jordnotssmor.md)
+- [Mättande proteinsmoothie](https://proteinfrukost.se/recept/mattande-proteinsmoothie.md)
 
 Källa: https://proteinfrukost.se/kategori/smoothie
