@@ -32,5 +32,6 @@ Kall gröt är också praktisk: gör tre burkar på söndagen och du har protein
 - [Proteinrik havregröt med blåbär](https://proteinfrukost.se/recept/proteinrik-havregrot-blabar.md)
 - [Overnight oats kladdkaka](https://proteinfrukost.se/recept/overnight-oats-kladdkaka.md)
 - [Overnight oats med vanilj](https://proteinfrukost.se/recept/overnight-oats-vanilj.md)
+- [Proteinhavregrynsgröt med kvarg](https://proteinfrukost.se/recept/proteinhavregrynsgrot-kvarg.md)
 
 Källa: https://proteinfrukost.se/kategori/grot

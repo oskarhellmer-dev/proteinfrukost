@@ -37,5 +37,6 @@ De flesta recept är klara på 10–15 minuter och går lika bra till vardags so
 - [Proteinpannkakor utan mjöl](https://proteinfrukost.se/recept/proteinpannkakor-utan-mjol.md)
 - [Kvargpannkakor](https://proteinfrukost.se/recept/kvargpannkakor.md)
 - [Proteinrika pannkakor utan ägg](https://proteinfrukost.se/recept/pannkakor-utan-agg.md)
+- [Proteinpannkakor med proteinpulver](https://proteinfrukost.se/recept/proteinpannkakor-proteinpulver.md)
 
 Källa: https://proteinfrukost.se/kategori/pannkakor
