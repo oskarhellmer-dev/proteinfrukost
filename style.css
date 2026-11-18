@@ -480,3 +480,13 @@ footer .copy a:hover{color:#fff}
     margin-top:5px;-webkit-print-color-adjust:exact;print-color-adjust:exact}
   .ing-list label.done .ing-txt{text-decoration:none;color:#000}
 }
+
+
+/* Proteinpulver-CTA på receptsidor */
+.pp-box{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;border:1px solid var(--line);border-left:4px solid var(--green);background:#f3f8f4;border-radius:var(--r-sm);padding:14px 16px;margin:22px 0 4px}
+.pp-box .t{font-size:.95rem;line-height:1.4}
+.pp-box .t strong{display:block;color:var(--ink)}
+.pp-box .t span{color:var(--muted);font-size:.88rem}
+.pp-box a.pp-cta{background:var(--green);color:#fff;text-decoration:none;padding:9px 15px;border-radius:var(--r-sm);font-size:.9rem;font-weight:600;white-space:nowrap}
+.pp-box a.pp-cta:hover{background:var(--green-dark)}
+@media(max-width:520px){.pp-box a.pp-cta{width:100%;text-align:center}}
