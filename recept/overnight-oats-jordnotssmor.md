@@ -36,3 +36,11 @@ Minst sex timmar, men gärna över natten. Ju längre den står, desto krämigar
 Absolut. Vill du ha den varm är det bara att värma burken i mikron i en minut och röra om — annars äts den kall direkt ur kylen.
 
 Källa: https://proteinfrukost.se/recept/overnight-oats-jordnotssmor
+
+**Hur mycket protein är det i overnight oats med kvarg?**
+
+Cirka 30 g per portion — kvargen (1 dl), proteinpulvret och jordnötssmöret står för det mesta.
+
+**Kan man göra overnight oats utan proteinpulver?**
+
+Ja, öka kvargen till 2 dl och tillsätt en msk jordnötssmör extra.

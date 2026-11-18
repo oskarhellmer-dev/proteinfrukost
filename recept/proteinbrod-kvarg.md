@@ -40,3 +40,11 @@ Ja, om du använder glutenfria havregryn. Kontrollera förpackningen om du är k
 Ja, byt äggen mot 1 dl extra kvarg och en matsked chiafrön som får svälla i vatten.
 
 Källa: https://proteinfrukost.se/recept/proteinbrod-kvarg
+
+**Kan man baka proteinbröd på kvarg och havregryn?**
+
+Ja. Kvargen ger protein och fukt, havregrynen struktur och psylliumhusken binder ihop degen utan jäst.
+
+**Varför har man psylliumhusk i proteinbröd?**
+
+Psylliumhusk suger upp vätska och fungerar som bindemedel. Utan det faller ett jästfritt bröd lätt sönder.

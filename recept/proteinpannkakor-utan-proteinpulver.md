@@ -38,3 +38,15 @@ Ja, det här receptet använder keso istället och ger fortfarande 22 g protein.
 Ja, keson gör smeten krämig och pannkakorna saftiga.
 
 Källa: https://proteinfrukost.se/recept/proteinpannkakor-utan-proteinpulver
+
+**Hur gör man proteinpannkakor utan proteinpulver?**
+
+Proteinet kommer från ägg och keso i stället. 1,5 dl keso ger cirka 20 g protein och gör pannkakorna krämiga utan pulver.
+
+**Blir pannkakorna lika proteinrika utan pulver?**
+
+Ja, cirka 22 g protein per portion — nästan samma som med pulver, tack vare keson.
+
+**Vilken keso passar bäst?**
+
+Naturell keso, gärna 4 % eller fetare för en krämigare smet. Kesella naturell fungerar också.
