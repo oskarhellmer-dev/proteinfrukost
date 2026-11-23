@@ -35,8 +35,6 @@ Nej, men det är det enklaste sättet att nå 30 g protein. Utan pulver landar p
 
 Nej, det är mjölkbaserat. Använd soja-, ärt- eller hampaprotein för att hålla frukosten mjölkfri.
 
-Källa: https://proteinfrukost.se/recept/proteinrik-frukost-mjolkfri
-
 **Vad äter man till en proteinrik frukost utan mjölk?**
 
 Havregrynsgröt kokt på sojadryck med sojaprotein, hampafrön, jordnötssmör och ett kokt ägg — cirka 30 g protein, helt mjölkfritt.
@@ -44,3 +42,5 @@ Havregrynsgröt kokt på sojadryck med sojaprotein, hampafrön, jordnötssmör o
 **Vilken mjölkfri dryck har mest protein?**
 
 Sojadryck, cirka 3–3,5 g protein per dl. Havre- och mandeldryck ligger lägre, runt 0,5–1 g per dl.
+
+Källa: https://proteinfrukost.se/recept/proteinrik-frukost-mjolkfri

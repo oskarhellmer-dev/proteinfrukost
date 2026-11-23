@@ -35,8 +35,6 @@ Ja, det går bra. Späd då med en skvätt mjölk eftersom kvargen är fastare o
 
 Nej, bakpulvret gör att brödet reser sig i ugnen, så ingen jäsning behövs.
 
-Källa: https://proteinfrukost.se/recept/proteinbrod-keso
-
 **Vad är proteinbröd gjort på?**
 
 Det här brödet bakas på keso, ägg, havregryn och dinkelmjöl — utan jäst och utan jäsning. Keson ger både protein och fukt.
@@ -44,3 +42,5 @@ Det här brödet bakas på keso, ägg, havregryn och dinkelmjöl — utan jäst 
 **Hur länge håller proteinbrödet?**
 
 Cirka 3–4 dagar i tättslutande påse i rumstemperatur, längre i kylskåp. Det går bra att skiva och frysa.
+
+Källa: https://proteinfrukost.se/recept/proteinbrod-keso

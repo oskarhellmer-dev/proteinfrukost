@@ -35,5 +35,6 @@ Vill du fylla på proteinet redan till frukost hittar du fler recept bland prote
 - [Proteinrik tacogryta med köttfärs](https://proteinfrukost.se/recept/proteinrik-tacogryta.md)
 - [Proteinrik kycklingpasta med keso](https://proteinfrukost.se/recept/proteinrik-kycklingpasta.md)
 - [Proteinrik sallad med keso och kyckling](https://proteinfrukost.se/recept/proteinrik-sallad-keso-kyckling.md)
+- [Proteinrik kikärtsgryta med kokosmjölk](https://proteinfrukost.se/recept/proteinrik-kikartsgryta.md)
 
 Källa: https://proteinfrukost.se/kategori/middag

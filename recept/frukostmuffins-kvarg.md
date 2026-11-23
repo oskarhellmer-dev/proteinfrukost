@@ -35,8 +35,6 @@ Ja, byt mot havremjöl eller dinkel för en grövre muffins, den blir något tä
 
 I en tät burk i rumstemperatur håller de i tre till fyra dagar, och de går utmärkt att frysa in.
 
-Källa: https://proteinfrukost.se/recept/frukostmuffins-kvarg
-
 **Kan man göra frukostmuffins med kvarg?**
 
 Ja — kvargen (200 g) ger fukt och protein utan att muffinsen blir tunga. Den ersätter en del av oljan.
@@ -44,3 +42,5 @@ Ja — kvargen (200 g) ger fukt och protein utan att muffinsen blir tunga. Den e
 **Hur mycket protein är det i en frukostmuffins?**
 
 Cirka 9 g per muffins, tack vare kvargen och ägget.
+
+Källa: https://proteinfrukost.se/recept/frukostmuffins-kvarg

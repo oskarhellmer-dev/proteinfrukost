@@ -35,8 +35,6 @@ Ja, havremjölk eller osötad mandelmjölk fungerar utmärkt. Välj ett proteinp
 
 Inte om du väljer ett chokladproteinpulver du gillar och balanserar med kakao, en nypa salt och lite honung. Kakaon döljer mycket av pulversmaken.
 
-Källa: https://proteinfrukost.se/recept/varm-choklad-proteinpulver
-
 **Kan man göra varm choklad med chokladproteinpulver?**
 
 Ja, det är grunden i receptet. Använd ett chokladsmakande proteinpulver, cirka 30 g (1 skopa) per mugg.
@@ -48,3 +46,5 @@ Proteinpulver klumpar lätt i varma vätskor. Vispa ut pulvret i en liten mängd
 **Går det att göra varm choklad med proteinpulver utan sötningsmedel?**
 
 Ja. Välj ett osötat proteinpulver och söta med honung eller lite extra kakao i stället (1 tsk honung i receptet).
+
+Källa: https://proteinfrukost.se/recept/varm-choklad-proteinpulver

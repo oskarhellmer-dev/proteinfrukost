@@ -42,5 +42,8 @@ Se bara sötsakerna som ett komplement — basen av dagen gör du bäst med ett 
 - [Proteinrik äppelpaj](https://proteinfrukost.se/recept/proteinrik-appelpaj.md)
 - [Protein-ostkaka med keso](https://proteinfrukost.se/recept/protein-ostkaka.md)
 - [Protein-nutella med hasselnötter](https://proteinfrukost.se/recept/protein-nutella.md)
+- [Proteinhavreflarn](https://proteinfrukost.se/recept/protein-havreflarn.md)
+- [Proteinblondie med vit choklad](https://proteinfrukost.se/recept/proteinblondie.md)
+- [Protein vaniljkräm med kvarg](https://proteinfrukost.se/recept/protein-vaniljkram.md)
 
 Källa: https://proteinfrukost.se/kategori/sott

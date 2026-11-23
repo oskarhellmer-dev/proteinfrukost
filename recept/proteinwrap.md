@@ -43,8 +43,6 @@ Ja. Stek dem och förvara i kylen med bakplåtspapper mellan i upp till 3 dagar.
 
 Nästan vad som helst: keso och grönsaker, rökt lax, kycklingrester eller en äggröra. Fyll först när du ska äta så håller wrapen sig mjuk.
 
-Källa: https://proteinfrukost.se/recept/proteinwrap
-
 **Vad är en proteinwrap gjord på?**
 
 Tunna pannkakor på ägg, kvarg, havremjöl och proteinpulver — cirka 26 g protein per portion. Fyll dem som en vanlig tortilla.
@@ -52,3 +50,5 @@ Tunna pannkakor på ägg, kvarg, havremjöl och proteinpulver — cirka 26 g pro
 **Kan man göra proteinwrap utan proteinpulver?**
 
 Ja, ersätt pulvret med en extra skopa kvarg och lite mer havremjöl.
+
+Källa: https://proteinfrukost.se/recept/proteinwrap

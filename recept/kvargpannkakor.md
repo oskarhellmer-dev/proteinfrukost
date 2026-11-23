@@ -43,8 +43,6 @@ Vanlig kvarg 0,2 % är bäst. Kesoliknande kvarg fungerar också, men rör smete
 
 Ja. Ställ smeten i kylen över natten. Rör om före stekning och späd med lite mjölk om den blivit för tjock.
 
-Källa: https://proteinfrukost.se/recept/kvargpannkakor
-
 **Hur mycket protein är det i kvargpannkakor?**
 
 Cirka 21,6 g per portion, tack vare kvargen (2 dl) och äggen.
@@ -52,3 +50,5 @@ Cirka 21,6 g per portion, tack vare kvargen (2 dl) och äggen.
 **Går kvargpannkakor att göra utan mjöl?**
 
 Ja. Byt havremjölet mot mer kvarg eller en skopa proteinpulver. Smeten blir lösare — stek mindre pannkakor och vänd försiktigt.
+
+Källa: https://proteinfrukost.se/recept/kvargpannkakor

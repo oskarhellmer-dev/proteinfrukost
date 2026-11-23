@@ -40,5 +40,6 @@ Här samlar vi alla frukostrecept på sajten: pannkakor, gröt, omelett, yoghurt
 - [Proteinrik frukost för barn](https://proteinfrukost.se/recept/proteinrik-frukost-barn.md)
 - [Proteinrik frukost för viktnedgång](https://proteinfrukost.se/recept/proteinrik-frukost-viktnedgang.md)
 - [Proteinrik frukost för klimakteriet](https://proteinfrukost.se/recept/proteinrik-frukost-klimakteriet.md)
+- [Fattiga riddare med protein](https://proteinfrukost.se/recept/protein-fattiga-riddare.md)
 
 Källa: https://proteinfrukost.se/kategori/frukost

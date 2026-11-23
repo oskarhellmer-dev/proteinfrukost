@@ -42,5 +42,6 @@ Har du sv책rt att hinna 채ta ordentligt under dagen 채r ett proteinrikt mellanm�
 - [Proteinrikt mellanm책l med keso](https://proteinfrukost.se/recept/proteinrikt-mellanmal-keso.md)
 - [Protein snacks att ta med](https://proteinfrukost.se/recept/protein-snacks-att-ta-med.md)
 - [Proteinchips i ugn](https://proteinfrukost.se/recept/proteinchips.md)
+- [Protein-chokladdryck (kall)](https://proteinfrukost.se/recept/protein-chokladdryck.md)
 
 K채lla: https://proteinfrukost.se/kategori/mellanmal

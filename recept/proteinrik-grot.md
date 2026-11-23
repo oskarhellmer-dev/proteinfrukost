@@ -42,8 +42,6 @@ Ca 24 gram per portion med kvarg.
 
 Ja. Rör ner kvargen först när gröten kokat klart och grytan är av värmen — då behåller kvargen sin krämighet. Cirka 11 g protein per 100 g gör gröten betydligt mer mättande.
 
-Källa: https://proteinfrukost.se/recept/proteinrik-grot
-
 **Kan man göra havregrynsgröt med kvarg?**
 
 Ja, och det är precis vad det här receptet är. 1 dl kvarg rörs i den färdigkokta gröten — den ger krämighet och cirka 11 g extra protein per 100 g.
@@ -55,3 +53,5 @@ Cirka 24 g per portion, tack vare kvargen, mjölken och havregrynen.
 **Ska kvargen kokas med gröten?**
 
 Nej, rör i den efter kokning. Kokar du kvargen kan den skära sig och bli grynig.
+
+Källa: https://proteinfrukost.se/recept/proteinrik-grot

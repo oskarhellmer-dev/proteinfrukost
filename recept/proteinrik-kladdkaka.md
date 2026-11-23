@@ -35,8 +35,6 @@ Inte om du gräddar den kort och låter den vara lite kladdig i mitten. Proteinp
 
 Ja, använd glutenfritt havremjöl eller en glutenfri mjölmix. Övriga ingredienser är redan glutenfria.
 
-Källa: https://proteinfrukost.se/recept/proteinrik-kladdkaka
-
 **Kan man baka kladdkaka med proteinpulver?**
 
 Ja, men byt inte ut allt mjöl. Här är 1,5 dl chokladproteinpulver balanserat mot 1 dl havremjöl och 1 dl socker, annars blir kakan torr och gummiartad.
@@ -44,3 +42,5 @@ Ja, men byt inte ut allt mjöl. Här är 1,5 dl chokladproteinpulver balanserat 
 **Varför blir kladdkaka med proteinpulver torr?**
 
 Proteinpulver suger vätska. Grädda hellre några minuter mindre och låt kakan svalna helt — då behåller den kladdigheten.
+
+Källa: https://proteinfrukost.se/recept/proteinrik-kladdkaka

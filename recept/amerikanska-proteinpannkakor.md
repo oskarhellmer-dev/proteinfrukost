@@ -40,8 +40,6 @@ Ja. Ersätt med 1,5 dl grekisk yoghurt extra och 1 msk extra havremjöl.
 
 Ja. Byt ut en del av mjölken mot kvarg eller grekisk yoghurt — det ger extra protein och en krämigare smet. Kvarg och grekisk yoghurt innehåller cirka 11 g protein per 100 g.
 
-Källa: https://proteinfrukost.se/recept/amerikanska-proteinpannkakor
-
 **Hur mycket protein är det i amerikanska pannkakor med proteinpulver?**
 
 Cirka 24 g protein per portion. Proteinet kommer från proteinpulvret (30 g), ägget, mjölken och den grekiska yoghurten.
@@ -53,3 +51,5 @@ Ungefär 8–10 små pannkakor, vilket räcker till 2 portioner. Stek på medel-
 **Går det att göra proteinpannkakor med proteinpulver utan bakpulver?**
 
 Ja, men de blir plattare. Bakpulvret (2 tsk) ger fluffet — hoppa inte över det om du vill ha tjocka pannkakor.
+
+Källa: https://proteinfrukost.se/recept/amerikanska-proteinpannkakor

@@ -43,8 +43,6 @@ I kylen i upp till 5 dagar i en påse eller burk. Det går också bra att frysa 
 
 Ja. Kvarg 0,2 % fungerar lika bra och ger något mindre fett. Rör i 2 msk extra fiberhusk om smeten känns lös.
 
-Källa: https://proteinfrukost.se/recept/kesobrod
-
 **Hur gör man kesobröd?**
 
 Mixa keso, ägg, havregryn, frön och psyllium till en deg, låt den svälla en stund och grädda. Inget jäst behövs.
@@ -52,3 +50,5 @@ Mixa keso, ägg, havregryn, frön och psyllium till en deg, låt den svälla en 
 **Är kesobröd glutenfritt?**
 
 Receptet innehåller inget vetemjöl, men havregryn kan innehålla spår av gluten. Använd certifierat glutenfria havregryn om du är känslig.
+
+Källa: https://proteinfrukost.se/recept/kesobrod

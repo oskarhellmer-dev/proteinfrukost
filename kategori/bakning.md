@@ -43,5 +43,7 @@ Förvara proteinbakverk i kylen och värm dem lätt före servering — de blir 
 - [Protein-knäckebröd med keso och frön](https://proteinfrukost.se/recept/protein-knackebrod-keso.md)
 - [Protein-scones med keso](https://proteinfrukost.se/recept/protein-scones.md)
 - [Protein-kanelbullar med kvarg](https://proteinfrukost.se/recept/protein-kanelbullar.md)
+- [Protein-lussekatt med kvarg och saffran](https://proteinfrukost.se/recept/protein-lussekatt.md)
+- [Proteinmuffins med zucchini och kakao](https://proteinfrukost.se/recept/protein-zucchinimuffins.md)
 
 Källa: https://proteinfrukost.se/kategori/bakning

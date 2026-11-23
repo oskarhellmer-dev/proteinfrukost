@@ -37,8 +37,6 @@ Ren havre är glutenfri, men välj havregryn märkta 'glutenfria' om du är kän
 
 Ca 24 g per portion.
 
-Källa: https://proteinfrukost.se/recept/glutenfria-proteinpannkakor
-
 **Är proteinpannkakor glutenfria?**
 
 De här är det — de bakas på glutenfria havregryn. Vanliga havregryn kan innehålla spår av vete, så välj gryn märkta glutenfria om du är känslig.
@@ -46,3 +44,5 @@ De här är det — de bakas på glutenfria havregryn. Vanliga havregryn kan inn
 **Varför behöver man glutenfria havregryn?**
 
 Vanlig havre odlas och hanteras nära vete och kan därför innehålla spår av gluten. Är du känslig behöver grynen vara certifierat glutenfria.
+
+Källa: https://proteinfrukost.se/recept/glutenfria-proteinpannkakor

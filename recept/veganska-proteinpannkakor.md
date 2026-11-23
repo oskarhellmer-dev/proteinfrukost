@@ -36,8 +36,6 @@ Chiafrön fungerar lika bra — 1 msk chia + 3 msk vatten.
 
 Ofta för lite vätska eller för hård stekning. Tillsätt ½ dl extra växtmjölk och stek på lägre värme.
 
-Källa: https://proteinfrukost.se/recept/veganska-proteinpannkakor
-
 **Kan man göra proteinpannkakor utan ägg?**
 
 Ja. Här ersätts ägget med linfrömjöl (1 msk linfrömjöl + 3 msk vatten) som får svälla i några minuter. Det binder smeten precis som ägg.
@@ -49,3 +47,5 @@ Välj ett veganskt proteinpulver på ärt-, soja- eller hampaprotein. Proteinpul
 **Varför behövs mer bakpulver i veganska pannkakor?**
 
 Utan ägg behövs bakpulver (1 msk) för att pannkakorna ska puffa upp. Linfrömjölet hjälper till att binda smeten.
+
+Källa: https://proteinfrukost.se/recept/veganska-proteinpannkakor
