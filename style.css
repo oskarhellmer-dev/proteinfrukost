@@ -490,3 +490,11 @@ footer .copy a:hover{color:#fff}
 .pp-box a.pp-cta{background:var(--green);color:#fff;text-decoration:none;padding:9px 15px;border-radius:var(--r-sm);font-size:.9rem;font-weight:600;white-space:nowrap}
 .pp-box a.pp-cta:hover{background:var(--green-dark)}
 @media(max-width:520px){.pp-box a.pp-cta{width:100%;text-align:center}}
+
+/* ---------- Köpknapp (annonslänk) ---------- */
+.buy-btn{display:inline-flex;align-items:center;gap:6px;background:var(--green);color:#fff;
+  font-size:.9rem;font-weight:700;padding:10px 16px;border-radius:8px;text-decoration:none;
+  margin-top:10px;letter-spacing:.01em}
+.card:hover .buy-btn{background:var(--green-dark)}
+.annons-notis{font-size:.78rem;color:var(--muted);margin:6px 0 0}
+.prod-price{font-size:.85rem;color:var(--muted);margin:2px 0 0}
